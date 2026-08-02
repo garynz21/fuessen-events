@@ -17,6 +17,8 @@ You are running the biweekly "Füssen Event Check" for Gary, who lives in Weisse
 
 Time horizon: today + 4 months. Language of event descriptions: English with German event names kept as-is. Never use em dashes in any output text.
 
+Description rule for concerts: always name the instruments or genre in the description (e.g. "violin and piano duo recital", "cello", "piano trio", "vocal ensemble", "brass band") so Gary can scan for piano and cello events at a glance. Look up performers' instruments on the event page if the listing does not state them; if you cannot verify the instrument, write "instrument not stated in the listing" rather than guessing.
+
 ### Source checklist (search all, fetch where useful)
 
 - https://das-festspielhaus.de/programm/ (Festspielhaus and Königswinkel Open Airs)

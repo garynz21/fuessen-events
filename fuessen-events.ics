@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:fuessen-2026-mittelaltermarkt-fussen-letzter-markttag@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260802T100000
 DTEND;TZID=Europe/Berlin:20260802T180000
 SUMMARY:Mittelaltermarkt Füssen (letzter Markttag)
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-24-tegelberglauf-tegelberg-nachwuchslauf@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260802T100000
 DTEND;TZID=Europe/Berlin:20260802T120000
 SUMMARY:24. Tegelberglauf und Tegelberg Nachwuchslauf
@@ -62,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-korperwelten-zyklus-des-lebens@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260802T100000
 DTEND;TZID=Europe/Berlin:20260802T180000
 SUMMARY:KÖRPERWELTEN & Der Zyklus des Lebens (Ausstellung bis 11.10.2026)
@@ -81,7 +81,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-oberstdorfer-musiksommer-singphoniker@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260802T193000
 DTEND;TZID=Europe/Berlin:20260802T213000
 SUMMARY:Oberstdorfer Musiksommer: Die Singphoniker
@@ -98,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-ov-20260803-odyssey@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260803T193000
 DTEND;TZID=Europe/Berlin:20260803T213000
 SUMMARY:The Odyssey (OV)
@@ -116,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-konigswinkel-open-air-mark@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260803T203000
 DTEND;TZID=Europe/Berlin:20260803T223000
 SUMMARY:Königswinkel Open Air: Mark Forster
@@ -140,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-cinderella-musical@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260804T160000
 DTEND;TZID=Europe/Berlin:20260804T180000
 SUMMARY:Cinderella - Das Musical
@@ -158,16 +158,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-oberstdorfer-musiksommer-ingolf-turban@garylewis
-SEQUENCE:0
-DTSTAMP:20260802T063718Z
+SEQUENCE:1
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260804T193000
 DTEND;TZID=Europe/Berlin:20260804T213000
 SUMMARY:Oberstdorfer Musiksommer: Ingolf Turban & Tomoko Sawallisch
 LOCATION:Oberstdorf Haus\, Saal Breitachklamm\, Oberstdorf
-DESCRIPTION:Duo recital by Ingolf Turban and Tomoko Sawallisch\, billed as 
- virtuos\, vielseitig\, brillant\, ein Duo der Spitzenklasse. Part of the O
- berstdorfer Musiksommer 2026. Tickets via oberstdorfer-musiksommer.de or E
- ventim.
+DESCRIPTION:Violin and piano duo recital with violinist Ingolf Turban and p
+ ianist Tomoko Sawallisch\, billed as virtuos\, vielseitig\, brillant\, ein
+  Duo der Spitzenklasse. Part of the Oberstdorfer Musiksommer 2026. Tickets
+  via oberstdorfer-musiksommer.de or Eventim.
 URL:https://www.oberstdorfer-musiksommer.de/veranstaltungen/
 CATEGORIES:classical
 STATUS:CONFIRMED
@@ -176,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-ludwig2-musical@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260805T180000
 DTEND;TZID=Europe/Berlin:20260805T200000
 SUMMARY:LUDWIG² Das Musical
@@ -195,7 +195,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-oberstdorfer-musiksommer-atos-trio@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260805T193000
 DTEND;TZID=Europe/Berlin:20260805T213000
 SUMMARY:Oberstdorfer Musiksommer: Atos Trio
@@ -212,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-musikkapelle-prem-schlossbrauhaus@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260806T193000
 DTEND;TZID=Europe/Berlin:20260806T213000
 SUMMARY:Musikkapelle Prem am Schlossbrauhaus
@@ -229,7 +229,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-konigswinkel-open-air-montez@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260806T200000
 DTEND;TZID=Europe/Berlin:20260806T222000
 SUMMARY:Königswinkel Open Air: MONTEZ - 15 Jahre Jubiläums-Tour
@@ -252,7 +252,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-konigswinkel-open-air-montez-0806@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260806T200000
 DTEND;TZID=Europe/Berlin:20260806T220000
 SUMMARY:Königswinkel Open Air: MONTEZ
@@ -273,17 +273,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-kaisersaalkonzert-laura-lootens-dominik@garylewis
-SEQUENCE:0
-DTSTAMP:20260802T063718Z
+SEQUENCE:1
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260807T190000
 DTEND;TZID=Europe/Berlin:20260807T210000
 SUMMARY:Kaisersaalkonzert: Laura Lootens & Dominik Wagner
 LOCATION:Kaisersaal im Barockkloster St. Mang\, Füssen
-DESCRIPTION:Chamber music recital by Laura Lootens and Dominik Wagner in th
- e anniversary season 75 Jahre Kaisersaalkonzerte Füssen (1951 to 2026). P
- art of the summer series in the baroque Kaisersaal of Kloster St. Mang. Ti
- ckets via Tourist Information Füssen or Allgäuticket\, phone 0831 206-55
- 55.
+DESCRIPTION:Guitar and double bass duo recital with guitarist Laura Lootens
+  and double bassist Dominik Wagner in the anniversary season 75 Jahre Kais
+ ersaalkonzerte Füssen (1951 to 2026). Part of the summer series in the ba
+ roque Kaisersaal of Kloster St. Mang. Tickets via Tourist Information Füs
+ sen or Allgäuticket\, phone 0831 206-5555.
 URL:https://www.stadt-fuessen.de/Kultur/Kaisersaalkonzerte
 CATEGORIES:classical
 STATUS:CONFIRMED
@@ -292,7 +292,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-konigswinkel-open-air-sarah@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260807T203000
 DTEND;TZID=Europe/Berlin:20260807T230000
 SUMMARY:Königswinkel Open Air: Sarah Connor - Wilde Nächte Open Air 2026
@@ -317,7 +317,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-grillfest-feuerwehr-weissensee@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260808T160000
 DTEND;TZID=Europe/Berlin:20260808T180000
 SUMMARY:Grillfest der Feuerwehr Weissensee
@@ -335,7 +335,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-19-allgau-panorama-marathon@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260809T080000
 DTEND;TZID=Europe/Berlin:20260809T100000
 SUMMARY:19. Allgäu Panorama Marathon
@@ -354,7 +354,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-partielle-sonnenfinsternis-lange-nacht@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260812T183000
 DTEND;TZID=Europe/Berlin:20260812T210000
 SUMMARY:Partielle Sonnenfinsternis - Lange Nacht der Astronomie
@@ -370,16 +370,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-oberstdorfer-musiksommer-elias-ackerley@garylewis
-SEQUENCE:0
-DTSTAMP:20260802T063718Z
+SEQUENCE:1
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260812T193000
 DTEND;TZID=Europe/Berlin:20260812T213000
 SUMMARY:Oberstdorfer Musiksommer: Elias Ackerley
 LOCATION:Oberstdorf Haus\, Saal Breitachklamm\, Oberstdorf
 DESCRIPTION:Recital by Elias Ackerley\, winner at the ARD International Mus
- ic Competition 2025\, in a concert recorded by BR-Klassik. Part of the Obe
- rstdorfer Musiksommer 2026. Tickets via oberstdorfer-musiksommer.de or Eve
- ntim.
+ ic Competition 2025\, in a concert recorded by BR-Klassik (instrument not 
+ stated in the listing\, check oberstdorfer-musiksommer.de). Part of the Ob
+ erstdorfer Musiksommer 2026. Tickets via oberstdorfer-musiksommer.de or Ev
+ entim.
 URL:https://www.oberstdorfer-musiksommer.de/veranstaltungen/
 CATEGORIES:classical
 STATUS:CONFIRMED
@@ -388,7 +389,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-perseiden-nacht-sternwarte@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260812T210000
 DTEND;TZID=Europe/Berlin:20260812T233000
 SUMMARY:Perseiden-Nacht an der Sternwarte
@@ -404,16 +405,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-kaisersaalkonzert-spark-klassische-band@garylewis
-SEQUENCE:0
-DTSTAMP:20260802T063718Z
+SEQUENCE:1
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260813T190000
 DTEND;TZID=Europe/Berlin:20260813T210000
 SUMMARY:Kaisersaalkonzert: Spark - die klassische Band
 LOCATION:Kaisersaal im Barockkloster St. Mang\, Füssen
-DESCRIPTION:The award-winning ensemble Spark\, known as die klassische Band
- \, closes the 2026 Kaisersaalkonzerte anniversary season in the Kaisersaal
-  of Barockkloster St. Mang. Tickets via Tourist Information Füssen or All
- gäuticket\, phone 0831 206-5555.
+DESCRIPTION:The award-winning quintet Spark\, known as die klassische Band\
+ , mixes recorders\, violin\, cello and piano in their programme closing th
+ e 2026 Kaisersaalkonzerte anniversary season in the Kaisersaal of Barockkl
+ oster St. Mang. Tickets via Tourist Information Füssen or Allgäuticket\,
+  phone 0831 206-5555.
 URL:https://www.stadt-fuessen.de/Kultur/Kaisersaalkonzerte
 CATEGORIES:classical
 STATUS:CONFIRMED
@@ -422,7 +424,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-2-legenden-1-konzert@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260814T193000
 DTEND;TZID=Europe/Berlin:20260814T213000
 SUMMARY:2 Legenden 1 Konzert - A Tribute to ABBA & Udo Jürgens
@@ -439,7 +441,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-oberstdorfer-musiksommer-trombone-unit@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260814T193000
 DTEND;TZID=Europe/Berlin:20260814T213000
 SUMMARY:Oberstdorfer Musiksommer: Trombone Unit Hannover (Abschlusskonzert)
@@ -456,7 +458,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-maria-himmelfahrt-kirchenkaffee@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260815T090000
 DTEND;TZID=Europe/Berlin:20260815T110000
 SUMMARY:Maria Himmelfahrt mit Kirchenkaffee
@@ -474,7 +476,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-markt-handwerkskunst@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260815T110000
 DTEND;TZID=Europe/Berlin:20260816T170000
 SUMMARY:Markt für Handwerkskunst
@@ -491,7 +493,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-filmvorfuhrung-forggensee@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260816T201500
 DTEND;TZID=Europe/Berlin:20260816T221500
 SUMMARY:Filmvorführung Der Forggensee
@@ -507,7 +509,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-feuerwehr-zum-anfassen@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260817T180000
 DTEND;TZID=Europe/Berlin:20260817T200000
 SUMMARY:Feuerwehr zum Anfassen
@@ -525,7 +527,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-never-enough-musical@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260818T180000
 DTEND;TZID=Europe/Berlin:20260818T200000
 SUMMARY:Never Enough! - Das Musical
@@ -542,7 +544,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-wirtshausbuhne-gluck-kommt-durch@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260820T200000
 DTEND;TZID=Europe/Berlin:20260820T220000
 SUMMARY:Wirtshausbühne: Das Glück kommt durch die Hintertür
@@ -560,7 +562,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-kunsthandwerkermarkt-barockgarten@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260821T130000
 DTEND;TZID=Europe/Berlin:20260823T170000
 SUMMARY:Kunsthandwerkermarkt im Barockgarten
@@ -577,7 +579,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-ritterabenteuer-auf-burgruine-sulzberg@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260821T140000
 DTEND;TZID=Europe/Berlin:20260821T170000
 SUMMARY:Ritterabenteuer auf der Burgruine Sulzberg
@@ -596,7 +598,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-unser-sonnensystem-fuhrung-sternwarte@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260821T193000
 DTEND;TZID=Europe/Berlin:20260821T210000
 SUMMARY:Unser Sonnensystem - Führung an der Sternwarte
@@ -613,7 +615,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-44-allgau-triathlon@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260823T074500
 DTEND;TZID=Europe/Berlin:20260823T094500
 SUMMARY:44. Allgäu Triathlon
@@ -631,7 +633,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-musikkapelle-musau-schlossbrauhaus@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260827T193000
 DTEND;TZID=Europe/Berlin:20260827T213000
 SUMMARY:Musikkapelle Musau am Schlossbrauhaus
@@ -647,7 +649,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-konigsgala-2026@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260828T193000
 DTEND;TZID=Europe/Berlin:20260828T213000
 SUMMARY:Königsgala 2026
@@ -663,7 +665,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-zugspitz-arena-gravel-triathlon@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260829T090000
 DTEND;TZID=Europe/Berlin:20260829T110000
 SUMMARY:Zugspitz Arena Gravel Triathlon
@@ -682,7 +684,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-offentliche-schlossfuhrung-schloss-kronburg@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260830T140000
 DTEND;TZID=Europe/Berlin:20260830T160000
 SUMMARY:Öffentliche Schlossführung Schloss Kronburg
@@ -699,7 +701,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-vielsaitig-eroffnungskonzert-dem@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260902T190000
 DTEND;TZID=Europe/Berlin:20260902T210000
 SUMMARY:Festival vielsaitig: Eröffnungskonzert mit dem Leonkoro Quartet
@@ -724,7 +726,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-vielsaitig-florian-weber@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260903T190000
 DTEND;TZID=Europe/Berlin:20260903T210000
 SUMMARY:Festival vielsaitig: Florian Weber\, Klavier
@@ -741,7 +743,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-ritterabenteuer-auf-burgruine-sulzberg-0904@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260904T140000
 DTEND;TZID=Europe/Berlin:20260904T170000
 SUMMARY:Ritterabenteuer auf der Burgruine Sulzberg
@@ -760,7 +762,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-vielsaitig-musikalische-teestunde@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260904T170000
 DTEND;TZID=Europe/Berlin:20260904T190000
 SUMMARY:Festival vielsaitig: Musikalische Teestunde
@@ -777,7 +779,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-vielsaitig-kammerkonzert-brahms@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260904T190000
 DTEND;TZID=Europe/Berlin:20260904T210000
 SUMMARY:Festival vielsaitig: Kammerkonzert Brahms und Dvořák
@@ -796,7 +798,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-heimatabend-schlossbrauhaus@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260904T190000
 DTEND;TZID=Europe/Berlin:20260904T210000
 SUMMARY:Heimatabend am Schlossbrauhaus
@@ -813,7 +815,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-absolute-musical-grosse-musicalgala@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260904T193000
 DTEND;TZID=Europe/Berlin:20260904T213000
 SUMMARY:Absolute Musical - Die große Musicalgala
@@ -830,7 +832,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-vielsaitig-abschlusskonzert-des@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260905T190000
 DTEND;TZID=Europe/Berlin:20260905T210000
 SUMMARY:Festival vielsaitig: Abschlusskonzert des Meisterkurses
@@ -848,7 +850,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-6-standkonzert-musikkapelle-weissensee@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260906T103000
 DTEND;TZID=Europe/Berlin:20260906T123000
 SUMMARY:6. Standkonzert der Musikkapelle Weissensee
@@ -866,7 +868,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-vielsaitig-trio-con@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260907T190000
 DTEND;TZID=Europe/Berlin:20260907T210000
 SUMMARY:Festival vielsaitig: Trio con Brio Copenhagen
@@ -884,7 +886,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-vielsaitig-bach-gambensonaten@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260908T190000
 DTEND;TZID=Europe/Berlin:20260908T210000
 SUMMARY:Festival vielsaitig: Bach Gambensonaten mit Romaniuk und Steckel
@@ -902,7 +904,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-vielsaitig-abschlusskonzert-mgv@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260909T190000
 DTEND;TZID=Europe/Berlin:20260909T210000
 SUMMARY:Festival vielsaitig: Abschlusskonzert MGV Walhalla zum Seidlwirt
@@ -920,7 +922,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-musikkapelle-schwangau-schlossbrauhaus@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260910T193000
 DTEND;TZID=Europe/Berlin:20260910T213000
 SUMMARY:Musikkapelle Schwangau am Schlossbrauhaus
@@ -936,7 +938,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-ludwig2-musical-0911@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260911T193000
 DTEND;TZID=Europe/Berlin:20260911T213000
 SUMMARY:Ludwig2 Das Musical
@@ -958,7 +960,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-gastspiel-iberl-buhne-hollerkuacherl@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260917T200000
 DTEND;TZID=Europe/Berlin:20260917T220000
 SUMMARY:Gastspiel Iberl Bühne: Hollerküacherl
@@ -975,7 +977,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-lechlauf-4-0-weissenbach@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260919T090000
 DTEND;TZID=Europe/Berlin:20260919T110000
 SUMMARY:Lechlauf 4.0 Weißenbach am Lech
@@ -993,7 +995,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-classix-kempten-universum-fabian@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260919T190000
 DTEND;TZID=Europe/Berlin:20260919T210000
 SUMMARY:ClassiX Kempten: Universum - Fabian Ziegler & Daniel Schnyder
@@ -1010,7 +1012,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-rudolf-musical-premiere-festspielhaus@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260919T193000
 DTEND;TZID=Europe/Berlin:20260919T213000
 SUMMARY:RUDOLF - Das Musical (Premiere im Festspielhaus)
@@ -1028,7 +1030,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-offentliche-schlossfuhrung-schloss-kronburg-0920@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260920T140000
 DTEND;TZID=Europe/Berlin:20260920T160000
 SUMMARY:Öffentliche Schlossführung Schloss Kronburg
@@ -1046,7 +1048,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-classix-kempten-sonnenaufgang-chelsea@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260920T170000
 DTEND;TZID=Europe/Berlin:20260920T190000
 SUMMARY:ClassiX Kempten: Sonnenaufgang - Chelsea Zurflüh
@@ -1062,7 +1064,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-ev-fussen-sc-riessersee@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260920T180000
 DTEND;TZID=Europe/Berlin:20260920T203000
 SUMMARY:EV Füssen vs SC Riessersee (Season Home Opener\, Derby)
@@ -1087,7 +1089,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-zirkus-charles-knie-splash@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260923T153000
 DTEND;TZID=Europe/Berlin:20260923T173000
 SUMMARY:Zirkus Charles Knie: SPLASH 2026 (Familienvorstellung)
@@ -1106,7 +1108,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-classix-kempten-zenit-simon@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260923T190000
 DTEND;TZID=Europe/Berlin:20260923T210000
 SUMMARY:ClassiX Kempten: Zenit - Simon Höfele
@@ -1123,7 +1125,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-classix-kempten-1001-nacht@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260924T190000
 DTEND;TZID=Europe/Berlin:20260924T210000
 SUMMARY:ClassiX Kempten: 1001 Nacht - Mozart meets Scheherazade
@@ -1139,7 +1141,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-classix-kempten-moonlight-david@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260925T190000
 DTEND;TZID=Europe/Berlin:20260925T210000
 SUMMARY:ClassiX Kempten: Moonlight - David Orlowsky
@@ -1155,7 +1157,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-open-mic-6-kulturinitiative@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260925T190000
 DTEND;TZID=Europe/Berlin:20260925T210000
 SUMMARY:Open Mic #6 der Kulturinitiative Füssen
@@ -1172,7 +1174,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-nationen-eroffnungskonzert-sol@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260925T193000
 DTEND;TZID=Europe/Berlin:20260925T213000
 SUMMARY:Festival der Nationen: Eröffnungskonzert mit Sol Gabetta
@@ -1197,7 +1199,7 @@ BEGIN:VEVENT
 UID:fuessen-2026-odeon-jugendsymphonieorchester-munchen-jubilaumskonzert@ga
  rylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260926T190000
 DTEND;TZID=Europe/Berlin:20260926T220000
 SUMMARY:ODEON Jugendsymphonieorchester München: Jubiläumskonzert
@@ -1215,7 +1217,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-nationen-igor-levit@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260926T200000
 DTEND;TZID=Europe/Berlin:20260926T220000
 SUMMARY:Festival der Nationen: Igor Levit & Next Generation
@@ -1238,7 +1240,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-heiterwanger-see-lauf@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260927T110000
 DTEND;TZID=Europe/Berlin:20260927T130000
 SUMMARY:Heiterwanger-See-Lauf
@@ -1255,7 +1257,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-classix-kempten-sonnenuntergang-melodie@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260927T170000
 DTEND;TZID=Europe/Berlin:20260927T190000
 SUMMARY:ClassiX Kempten: Sonnenuntergang - Mélodie Zhao\, Klavier
@@ -1271,7 +1273,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-nationen-pianissimo-mao@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260927T190000
 DTEND;TZID=Europe/Berlin:20260927T210000
 SUMMARY:Festival der Nationen: Pianissimo! mit Mao Fujita
@@ -1293,7 +1295,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-nationen-quadro-nuevo@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260929T200000
 DTEND;TZID=Europe/Berlin:20260929T220000
 SUMMARY:Festival der Nationen: Quadro Nuevo - 30 Jahre um die Welt
@@ -1310,7 +1312,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-yakari-freunde-furs-leben@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260930T163000
 DTEND;TZID=Europe/Berlin:20260930T183000
 SUMMARY:Yakari - Freunde fürs Leben (Kindermusical)
@@ -1327,7 +1329,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-wenn-buhne-auf-leben@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260930T180000
 DTEND;TZID=Europe/Berlin:20260930T200000
 SUMMARY:Wenn Bühne auf Leben trifft: Jan Ammann und Ensemble
@@ -1344,7 +1346,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-nationen-julia-fischer@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20260930T200000
 DTEND;TZID=Europe/Berlin:20260930T220000
 SUMMARY:Festival der Nationen: Julia Fischer spielt Vivaldis Vier Jahreszei
@@ -1369,7 +1371,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-nationen-rudolf-buchbinder@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261002T200000
 DTEND;TZID=Europe/Berlin:20261002T220000
 SUMMARY:Festival der Nationen: Rudolf Buchbinder spielt Mozart
@@ -1391,7 +1393,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-kunsthandwerkermarkt-schlossbrauhaus@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261003T110000
 DTEND;TZID=Europe/Berlin:20261004T170000
 SUMMARY:Kunsthandwerkermarkt am Schlossbrauhaus
@@ -1408,7 +1410,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-nationen-sonderkonzert-zum@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261003T200000
 DTEND;TZID=Europe/Berlin:20261003T220000
 SUMMARY:Festival der Nationen: Sonderkonzert zum 70. Geburtstag von Nigel K
@@ -1432,7 +1434,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-erntedank-kirchzug-kirchenkaffee@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261004T084500
 DTEND;TZID=Europe/Berlin:20261004T104500
 SUMMARY:Erntedank Kirchzug mit Kirchenkaffee
@@ -1449,7 +1451,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-nationen-abschlussgala-270@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261004T190000
 DTEND;TZID=Europe/Berlin:20261004T210000
 SUMMARY:Festival der Nationen: Abschlussgala 270 Jahre Mozart mit Rolando V
@@ -1473,7 +1475,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-dav-sektionsabend-unterwegs-polarkreis@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261008T200000
 DTEND;TZID=Europe/Berlin:20261008T220000
 SUMMARY:DAV Sektionsabend: Unterwegs im Polarkreis (Armin Hofmann)
@@ -1491,7 +1493,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-2-fire-trail-nesselwang@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261010T100000
 DTEND;TZID=Europe/Berlin:20261010T120000
 SUMMARY:2. Fire Trail Nesselwang
@@ -1509,7 +1511,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-colomansfest-colomansritt@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261011T093000
 DTEND;TZID=Europe/Berlin:20261011T113000
 SUMMARY:Colomansfest mit Colomansritt
@@ -1529,7 +1531,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-reinhold-messner-uber-leben@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261012T200000
 DTEND;TZID=Europe/Berlin:20261012T220000
 SUMMARY:Reinhold Messner: Über Leben - Der neue Live-Vortrag
@@ -1553,7 +1555,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-35-rottachseelauf-oy-mittelberg@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261017T100000
 DTEND;TZID=Europe/Berlin:20261017T120000
 SUMMARY:35. Rottachseelauf Oy-Mittelberg
@@ -1572,7 +1574,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-torgellenabend@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261017T200000
 DTEND;TZID=Europe/Berlin:20261017T220000
 SUMMARY:Törgellenabend
@@ -1589,7 +1591,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-gunther-jauch-trifft-best@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261018T150000
 DTEND;TZID=Europe/Berlin:20261018T170000
 SUMMARY:Günther Jauch trifft Best of Festspielhaus
@@ -1606,7 +1608,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-reinhold-messner-uber-leben-1018@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261018T180000
 DTEND;TZID=Europe/Berlin:20261018T200000
 SUMMARY:Reinhold Messner: Über Leben - Der neue Live-Vortrag
@@ -1629,7 +1631,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-zeppelin-musical@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261022T160000
 DTEND;TZID=Europe/Berlin:20261022T180000
 SUMMARY:Zeppelin - Das Musical
@@ -1648,7 +1650,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-ev-fussen-esv-kaufbeuren@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261023T193000
 DTEND;TZID=Europe/Berlin:20261023T220000
 SUMMARY:EV Füssen vs ESV Kaufbeuren (Allgäu Derby)
@@ -1671,7 +1673,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-herbstmarkt-weissensee@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261025T100000
 DTEND;TZID=Europe/Berlin:20261025T120000
 SUMMARY:Herbstmarkt Weissensee
@@ -1688,7 +1690,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-klassiker-fc-bayern-munchen@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261031T183000
 DTEND;TZID=Europe/Berlin:20261031T203000
 SUMMARY:Der Klassiker: FC Bayern München vs Borussia Dortmund
@@ -1712,7 +1714,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-schone-biest-musical@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261107T150000
 DTEND;TZID=Europe/Berlin:20261107T170000
 SUMMARY:Die Schöne und das Biest - das Musical
@@ -1728,7 +1730,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-guacayo-live-cafe-bar@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261107T180000
 DTEND;TZID=Europe/Berlin:20261107T200000
 SUMMARY:GUACAYO live im Café Bar Ifni
@@ -1746,7 +1748,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-konzert-frieden-markus-stockhausen@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261108T200000
 DTEND;TZID=Europe/Berlin:20261108T220000
 SUMMARY:Ein Konzert für Frieden: Markus Stockhausen\, Dinesh Mishra & Frie
@@ -1766,7 +1768,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-25-romantischer-weihnachtsmarkt-schloss@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261113T140000
 DTEND;TZID=Europe/Berlin:20261113T160000
 SUMMARY:25. Romantischer Weihnachtsmarkt Schloss Kronburg (1. Wochenende)
@@ -1784,7 +1786,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-lumagica-reutte-eroffnung-des@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261113T170000
 DTEND;TZID=Europe/Berlin:20261113T210000
 SUMMARY:Lumagica Reutte - Eröffnung des Lichterparks auf Ehrenberg
@@ -1804,7 +1806,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-veteranenjahrtag@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261115T090000
 DTEND;TZID=Europe/Berlin:20261115T110000
 SUMMARY:Veteranenjahrtag
@@ -1822,7 +1824,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-nfl-munich-game-2026@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261115T153000
 DTEND;TZID=Europe/Berlin:20261115T190000
 SUMMARY:NFL Munich Game 2026: New England Patriots vs Detroit Lions
@@ -1845,7 +1847,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-25-romantischer-weihnachtsmarkt-schloss-1120@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261120T140000
 DTEND;TZID=Europe/Berlin:20261120T160000
 SUMMARY:25. Romantischer Weihnachtsmarkt Schloss Kronburg (2. Wochenende)
@@ -1862,7 +1864,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-alice-wunderland-theater-tanz@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261120T180000
 DTEND;TZID=Europe/Berlin:20261120T200000
 SUMMARY:Alice im Wunderland (Theater\, Tanz\, Akrobatik\, Zirkuskunst)
@@ -1879,7 +1881,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-geist-weihnacht-musical@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261127T190000
 DTEND;TZID=Europe/Berlin:20261127T210000
 SUMMARY:Der Geist der Weihnacht - Das Musical
@@ -1898,7 +1900,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-jahreskonzert-musikkapelle-weissensee@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261128T200000
 DTEND;TZID=Europe/Berlin:20261128T220000
 SUMMARY:Jahreskonzert der Musikkapelle Weissensee
@@ -1917,7 +1919,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-weihnachtsmarkt-kiosk@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T063718Z
+DTSTAMP:20260802T070003Z
 DTSTART;TZID=Europe/Berlin:20261129T120000
 DTEND;TZID=Europe/Berlin:20261129T140000
 SUMMARY:Weihnachtsmarkt am Kiosk
