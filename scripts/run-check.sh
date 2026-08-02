@@ -1,11 +1,12 @@
 #!/bin/zsh
 # Biweekly Füssen Event Check runner. Called by launchd every Monday 07:00;
-# the week-parity check below makes it effectively biweekly (even weeks).
+# the week-parity check below makes it effectively biweekly (odd epoch-weeks:
+# Aug 10, Aug 24, ... 2026; the initial research ran manually on Aug 2).
 REPO_DIR="/Users/lewis/Projects/events-calender"
 cd "$REPO_DIR" || exit 1
 
 week=$(( $(date +%s) / 604800 ))
-if (( week % 2 != 0 )); then
+if (( week % 2 != 1 )); then
   echo "$(date '+%Y-%m-%d %H:%M') off-week (index $week), skipping" >> run.log
   exit 0
 fi

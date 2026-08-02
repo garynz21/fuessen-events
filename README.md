@@ -17,7 +17,8 @@ Raw ICS URL:
 ## How it runs
 
 - launchd job `com.garylewis.fuessen-event-check` fires every Monday 07:00,
-  `scripts/run-check.sh` skips odd weeks so the check is biweekly.
+  `scripts/run-check.sh` skips every other week so the check is biweekly
+  (runs on odd epoch-weeks: Aug 10, Aug 24, Sep 7 2026, and so on).
 - The runner executes `claude -p "$(cat fuessen-event-check.md)"` headless with
   pre-approved tools (web research, file edits, git).
 - The run updates `state/events.json` (stable UIDs, SEQUENCE bumps on changes,
