@@ -1,5 +1,19 @@
 [
   {
+    "uid": "fuessen-2026-hohenschwangau-klassik-bergkonzert-konigliche@garylewis",
+    "title": "Hohenschwangau Klassik: Bergkonzert Königliche Trompetenklänge",
+    "start": "2026-08-02T09:00:00+02:00",
+    "end": "2026-08-02T10:00:00+02:00",
+    "location": "Ort der Besinnung, Bergstation Tegelbergbahn, Schwangau",
+    "description": "Mountain-top concert of the Hohenschwangau Klassik festival with trumpeters Georg Hiemer, Martin Ehlich and Daniel Noske, a brass trumpet trio in the high Alps. Moves to the Panoramarestaurant in case of rain. Entry is free on the Pay as you want principle; the Tegelbergbahn runs special early rides from 8:30 at regular fares. Info at hohenschwangau-klassik.com.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/bergkonzert-koenigliche-trompetenklaenge-e7a8aabe01a770e224c6908292cf3bd6d.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "classical",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
     "uid": "fuessen-2026-mittelaltermarkt-fussen-letzter-markttag@garylewis",
     "title": "Mittelaltermarkt Füssen (letzter Markttag)",
     "start": "2026-08-02T10:00:00+02:00",
@@ -42,6 +56,48 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-sommerfest-musikkapelle-schwangau-tag@garylewis",
+    "title": "Sommerfest der Musikkapelle Schwangau (Tag 2)",
+    "start": "2026-08-02T10:30:00+02:00",
+    "end": "2026-08-02T12:30:00+02:00",
+    "location": "Festplatz am Schlossbrauhaus, Schwangau",
+    "description": "Second day of the summer festival of the Musikkapelle Schwangau, a traditional Bavarian brass band founded in 1816, with Blasmusik and food in front of the mountain backdrop. Sunday starts with a morning session from 10:30. Free village festival, info at musikkapelle-schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/sommerfest-der-musikkapelle-e2f678c0fed87403aee6f1b8d8909b7d5.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-hohenschwangau-klassik-familienkonzert-opernhits@garylewis",
+    "title": "Hohenschwangau Klassik: Familienkonzert Opernhits für Kids",
+    "start": "2026-08-02T15:00:00+02:00",
+    "end": "2026-08-02T15:45:00+02:00",
+    "location": "Museum der bayerischen Könige, Hohenschwangau",
+    "description": "Family concert of the Hohenschwangau Klassik festival with opera hits like Papageno and Carmen, performed with voice, cello and light-hearted moderation for children from age 5. The concert lasts about 45 minutes. Entry is free on the Pay as you want principle, no reservation needed. Info at hohenschwangau-klassik.com.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/familienkonzert-opernhits-fuer-kids-edaa766425379be79d322a62cd488987e.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "classical",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-chill-dine-live-musik@garylewis",
+    "title": "Chill & Dine mit Live-Musik",
+    "start": "2026-08-02T16:30:00+02:00",
+    "end": "2026-08-02T21:00:00+02:00",
+    "location": "Hotel Rübezahl, Schwangau",
+    "description": "Open-air evening with live music and a view of the royal castles at Hotel Rübezahl between Schwangau and Hohenschwangau. Food and drinks from the hotel kitchen; info via Hotel Rübezahl or the Schwangau event calendar at schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/chill-dine-e2e23c9eeb6cd9b5f5343ae2f2ea4a47c.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
     "uid": "fuessen-2026-oberstdorfer-musiksommer-singphoniker@garylewis",
     "title": "Oberstdorfer Musiksommer: Die Singphoniker",
     "start": "2026-08-02T19:30:00+02:00",
@@ -56,6 +112,20 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-neuschwanstein-konzerte-immer-gebaute@garylewis",
+    "title": "Neuschwanstein Konzerte: Für immer! Gebaute Träume, gelebte Musik",
+    "start": "2026-08-02T20:30:00+02:00",
+    "end": "2026-08-02T22:30:00+02:00",
+    "location": "Schlosshof Schloss Neuschwanstein, Hohenschwangau",
+    "description": "Closing night of the Neuschwanstein Konzerte 2026 open-air festival in the upper castle courtyard, the successor of the famous Sängersaal Schlosskonzerte. Tenor Piotr Beczala, soprano Olga Peretyatko and mezzo-soprano Nadezhda Karyazina sing opera by Offenbach, Gounod and Verdi with the Münchner Symphoniker under Andreas Klippert. Admission from 19:30, ticket includes parking in Hohenschwangau and shuttle to the castle. Tickets at neuschwansteinkonzerte.eu or Eventim, hotline +49 831 2065555.",
+    "url": "https://www.neuschwansteinkonzerte.eu/en/program-2/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "classical",
+    "alarm": true,
+    "last_verified": "2026-08-02"
+  },
+  {
     "uid": "fuessen-ov-20260803-odyssey@garylewis",
     "title": "The Odyssey (OV)",
     "start": "2026-08-03T19:30:00+02:00",
@@ -66,6 +136,34 @@
     "status": "confirmed",
     "sequence": 0,
     "category": "ov-film",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-hohenschwangau-klassik-abschlusskonzert-best@garylewis",
+    "title": "Hohenschwangau Klassik: Abschlusskonzert Best of Baroque II",
+    "start": "2026-08-03T19:30:00+02:00",
+    "end": "2026-08-03T21:00:00+02:00",
+    "location": "Wallfahrtskirche St. Coloman, Schwangau",
+    "description": "Festive closing concert of the Hohenschwangau Klassik 2026 festival in the baroque pilgrimage church St. Coloman. Baroque works with oboe sisters Hannah and Sophia Streif, flutist Elya Levin and the string players of the Solistenensemble D'Accord. Entry is free on the Pay as you want principle. Info at hohenschwangau-klassik.com.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/abschlusskonzert-best-of-baroque-ii-e3ce326c408ae982ffc236ebedf8c6869.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "classical",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-alphornspielen-alpsee@garylewis",
+    "title": "Alphornspielen am Alpsee",
+    "start": "2026-08-03T20:00:00+02:00",
+    "end": "2026-08-03T22:00:00+02:00",
+    "location": "Alpsee, Hohenschwangau",
+    "description": "Alphorn players perform on the shore of the Alpsee below Schloss Hohenschwangau, alpine horn music in front of the royal castle scenery. Free open-air event near the Alpseebad. Info via Tourist Information Schwangau, schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/alphornspielen-am-alpsee-e43b56442abe996e1a46bbd95b239b2e3.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
     "alarm": false,
     "last_verified": "2026-08-02"
   },
@@ -196,6 +294,20 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-orgelplus-bei-kerzenschein@garylewis",
+    "title": "OrgelPlus bei Kerzenschein",
+    "start": "2026-08-07T20:00:00+02:00",
+    "end": "2026-08-07T22:00:00+02:00",
+    "location": "Wallfahrtskirche St. Coloman, Schwangau",
+    "description": "Candlelight concert in the pilgrimage church St. Coloman between Schwangau and Hohenschwangau. Concert organist Helene von Rechenberg from Füssen plays together with baroque violinist Eva-Maria Röll, so organ and baroque violin. Info via the Schwangau event calendar at schwangau.de or Tourist Information Schwangau.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/orgelplus-bei-kerzenschein-e694365f8f0a553e77d9669eb3870bc38.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "classical",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
     "uid": "fuessen-2026-konigswinkel-open-air-sarah@garylewis",
     "title": "Königswinkel Open Air: Sarah Connor - Wilde Nächte Open Air 2026",
     "start": "2026-08-07T20:30:00+02:00",
@@ -224,6 +336,20 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-live-musik-abend-ludwig@garylewis",
+    "title": "Live-Musik-Abend in der Ludwig Bar",
+    "start": "2026-08-08T20:30:00+02:00",
+    "end": "2026-08-08T22:30:00+02:00",
+    "location": "Ludwig Bar, AMERON Neuschwanstein Alpsee Resort, Hohenschwangau",
+    "description": "Weekly Saturday live music evening in the Ludwig Bar of the AMERON Neuschwanstein Alpsee Resort in Hohenschwangau, with changing artists each week. Free entry with bar service; info via the hotel or the Schwangau event calendar at schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/live-musik-abend-e8dd13780133977d75db9912439c9a28a.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "bar-music",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
     "uid": "fuessen-2026-19-allgau-panorama-marathon@garylewis",
     "title": "19. Allgäu Panorama Marathon",
     "start": "2026-08-09T08:00:00+02:00",
@@ -234,6 +360,20 @@
     "status": "tentative",
     "sequence": 0,
     "category": "running",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-alphornspielen-alpsee-0810@garylewis",
+    "title": "Alphornspielen am Alpsee",
+    "start": "2026-08-10T20:00:00+02:00",
+    "end": "2026-08-10T22:00:00+02:00",
+    "location": "Alpsee, Hohenschwangau",
+    "description": "Alphorn players perform on the shore of the Alpsee below Schloss Hohenschwangau, alpine horn music in front of the royal castle scenery. Free open-air event near the Alpseebad. Info via Tourist Information Schwangau, schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/alphornspielen-am-alpsee-e43b56442abe996e1a46bbd95b239b2e3.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
     "alarm": false,
     "last_verified": "2026-08-02"
   },
@@ -257,10 +397,10 @@
     "start": "2026-08-12T19:30:00+02:00",
     "end": "2026-08-12T21:30:00+02:00",
     "location": "Oberstdorf Haus, Saal Breitachklamm, Oberstdorf",
-    "description": "Recital by Elias Ackerley, winner at the ARD International Music Competition 2025, in a concert recorded by BR-Klassik (instrument not stated in the listing, check oberstdorfer-musiksommer.de). Part of the Oberstdorfer Musiksommer 2026. Tickets via oberstdorfer-musiksommer.de or Eventim.",
+    "description": "Classical music recital by Elias Ackerley, winner at the ARD International Music Competition 2025, in a concert recorded by BR-Klassik. Part of the Oberstdorfer Musiksommer 2026. Tickets via oberstdorfer-musiksommer.de or Eventim.",
     "url": "https://www.oberstdorfer-musiksommer.de/veranstaltungen/",
     "status": "confirmed",
-    "sequence": 1,
+    "sequence": 2,
     "category": "classical",
     "alarm": false,
     "last_verified": "2026-08-02"
@@ -350,6 +490,48 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-alphornspielen-forggensee@garylewis",
+    "title": "Alphornspielen am Forggensee",
+    "start": "2026-08-15T19:00:00+02:00",
+    "end": "2026-08-15T21:00:00+02:00",
+    "location": "Bootsanlegestelle Waltenhofen, Schwangau",
+    "description": "Alphorn players perform at the boat landing in Schwangau-Waltenhofen on the Forggensee, alpine horn music by the lake a few minutes from Hohenschwangau. Free open-air event. Info via Tourist Information Schwangau, schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/alphornspielen-am-forggensee-eb7a6b6ff69be00fe1064e0a2d8aeaf5a.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-live-musik-abend-ludwig-0815@garylewis",
+    "title": "Live-Musik-Abend in der Ludwig Bar",
+    "start": "2026-08-15T20:30:00+02:00",
+    "end": "2026-08-15T22:30:00+02:00",
+    "location": "Ludwig Bar, AMERON Neuschwanstein Alpsee Resort, Hohenschwangau",
+    "description": "Weekly Saturday live music evening in the Ludwig Bar of the AMERON Neuschwanstein Alpsee Resort in Hohenschwangau, with changing artists each week. Info via the hotel or the Schwangau event calendar at schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/live-musik-abend-e8dd13780133977d75db9912439c9a28a.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "bar-music",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-konzert-steg-philipp-lumpp@garylewis",
+    "title": "Konzert am Steg mit Philipp Lumpp",
+    "start": "2026-08-16T19:00:00+02:00",
+    "end": "2026-08-16T21:00:00+02:00",
+    "location": "Badesteg, Campingplatz Brunnen, Schwangau-Brunnen",
+    "description": "Summer night concert on the bathing jetty of Campingplatz Brunnen on the Forggensee, with singer-songwriter Philipp Lumpp performing German indie pop directly at the water. Drinks and relaxed lakeside atmosphere. Info via the Schwangau event calendar at schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/konzert-am-steg-mit-philipp-lumpp-e33a58820effff5537e0d7520858456c2.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
     "uid": "fuessen-2026-filmvorfuhrung-forggensee@garylewis",
     "title": "Filmvorführung Der Forggensee",
     "start": "2026-08-16T20:15:00+02:00",
@@ -374,6 +556,20 @@
     "status": "confirmed",
     "sequence": 0,
     "category": "community",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-alphornspielen-alpsee-0817@garylewis",
+    "title": "Alphornspielen am Alpsee",
+    "start": "2026-08-17T20:00:00+02:00",
+    "end": "2026-08-17T22:00:00+02:00",
+    "location": "Alpsee, Hohenschwangau",
+    "description": "Alphorn players perform on the shore of the Alpsee below Schloss Hohenschwangau, alpine horn music in front of the royal castle scenery. Free open-air event near the Alpseebad. Info via Tourist Information Schwangau, schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/alphornspielen-am-alpsee-e43b56442abe996e1a46bbd95b239b2e3.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
     "alarm": false,
     "last_verified": "2026-08-02"
   },
@@ -448,6 +644,34 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-blasmusikfest@garylewis",
+    "title": "Blasmusikfest",
+    "start": "2026-08-21T19:30:00+02:00",
+    "end": "2026-08-21T21:30:00+02:00",
+    "location": "Bannwaldsee-Stadl, Schwangau",
+    "description": "Bavarian evening with the Musikkapelle Alpengruß, traditional Blasmusik (brass band) at the Bannwaldsee-Stadl by the Bannwaldsee in Schwangau. Info via the Schwangau event calendar at schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/blasmusikfest-ed015bc851a19109e7acf724c10c5b60e.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-live-musik-abend-ludwig-0822@garylewis",
+    "title": "Live-Musik-Abend in der Ludwig Bar",
+    "start": "2026-08-22T20:30:00+02:00",
+    "end": "2026-08-22T22:30:00+02:00",
+    "location": "Ludwig Bar, AMERON Neuschwanstein Alpsee Resort, Hohenschwangau",
+    "description": "Weekly Saturday live music evening in the Ludwig Bar of the AMERON Neuschwanstein Alpsee Resort in Hohenschwangau, with changing artists each week. Info via the hotel or the Schwangau event calendar at schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/live-musik-abend-e8dd13780133977d75db9912439c9a28a.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "bar-music",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
     "uid": "fuessen-2026-44-allgau-triathlon@garylewis",
     "title": "44. Allgäu Triathlon",
     "start": "2026-08-23T07:45:00+02:00",
@@ -458,6 +682,34 @@
     "status": "confirmed",
     "sequence": 0,
     "category": "running",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-alphornspielen-alpsee-0824@garylewis",
+    "title": "Alphornspielen am Alpsee",
+    "start": "2026-08-24T20:00:00+02:00",
+    "end": "2026-08-24T22:00:00+02:00",
+    "location": "Alpsee, Hohenschwangau",
+    "description": "Alphorn players perform on the shore of the Alpsee below Schloss Hohenschwangau, alpine horn music in front of the royal castle scenery. Free open-air event near the Alpseebad. Info via Tourist Information Schwangau, schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/alphornspielen-am-alpsee-e43b56442abe996e1a46bbd95b239b2e3.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-harfenkonzert-jodelauftritt-akkordeon@garylewis",
+    "title": "Harfenkonzert mit Jodelauftritt und Akkordeon",
+    "start": "2026-08-25T19:00:00+02:00",
+    "end": "2026-08-25T21:00:00+02:00",
+    "location": "Campingplatz Brunnen, Schwangau-Brunnen",
+    "description": "Folk music evening at Campingplatz Brunnen on the Forggensee featuring harp, yodelling and accordion. A yodelling course takes place beforehand at 16:00. Info via the Schwangau event calendar at schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/harfenkonzert-mit-jodelauftritt-und-akkordeon-e0ab73d38f01571438a75540ca43f4be0.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
     "alarm": false,
     "last_verified": "2026-08-02"
   },
@@ -504,6 +756,34 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-alphornspielen-forggensee-0829@garylewis",
+    "title": "Alphornspielen am Forggensee",
+    "start": "2026-08-29T18:00:00+02:00",
+    "end": "2026-08-29T20:00:00+02:00",
+    "location": "Bootsanlegestelle Waltenhofen, Schwangau",
+    "description": "Alphorn players perform at the boat landing in Schwangau-Waltenhofen on the Forggensee, alpine horn music by the lake a few minutes from Hohenschwangau. Free open-air event. Info via Tourist Information Schwangau, schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/alphornspielen-am-forggensee-eb7a6b6ff69be00fe1064e0a2d8aeaf5a.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-live-musik-abend-ludwig-0829@garylewis",
+    "title": "Live-Musik-Abend in der Ludwig Bar",
+    "start": "2026-08-29T20:30:00+02:00",
+    "end": "2026-08-29T22:30:00+02:00",
+    "location": "Ludwig Bar, AMERON Neuschwanstein Alpsee Resort, Hohenschwangau",
+    "description": "Weekly Saturday live music evening in the Ludwig Bar of the AMERON Neuschwanstein Alpsee Resort in Hohenschwangau, with changing artists each week. Info via the hotel or the Schwangau event calendar at schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/live-musik-abend-e8dd13780133977d75db9912439c9a28a.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "bar-music",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
     "uid": "fuessen-2026-offentliche-schlossfuhrung-schloss-kronburg@garylewis",
     "title": "Öffentliche Schlossführung Schloss Kronburg",
     "start": "2026-08-30T14:00:00+02:00",
@@ -514,6 +794,20 @@
     "status": "confirmed",
     "sequence": 0,
     "category": "medieval",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-alphornspielen-alpsee-0831@garylewis",
+    "title": "Alphornspielen am Alpsee",
+    "start": "2026-08-31T19:00:00+02:00",
+    "end": "2026-08-31T21:00:00+02:00",
+    "location": "Alpsee, Hohenschwangau",
+    "description": "Alphorn players perform on the shore of the Alpsee below Schloss Hohenschwangau, alpine horn music in front of the royal castle scenery. From late August the start moves to 19:00. Free open-air event near the Alpseebad; info via Tourist Information Schwangau, schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/alphornspielen-am-alpsee-e43b56442abe996e1a46bbd95b239b2e3.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
     "alarm": false,
     "last_verified": "2026-08-02"
   },
@@ -630,6 +924,20 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-live-musik-abend-ludwig-0905@garylewis",
+    "title": "Live-Musik-Abend in der Ludwig Bar",
+    "start": "2026-09-05T20:30:00+02:00",
+    "end": "2026-09-05T22:30:00+02:00",
+    "location": "Ludwig Bar, AMERON Neuschwanstein Alpsee Resort, Hohenschwangau",
+    "description": "Weekly Saturday live music evening in the Ludwig Bar of the AMERON Neuschwanstein Alpsee Resort in Hohenschwangau, with changing artists each week. Info via the hotel or the Schwangau event calendar at schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/live-musik-abend-e8dd13780133977d75db9912439c9a28a.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "bar-music",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
     "uid": "fuessen-2026-6-standkonzert-musikkapelle-weissensee@garylewis",
     "title": "6. Standkonzert der Musikkapelle Weissensee",
     "start": "2026-09-06T10:30:00+02:00",
@@ -644,6 +952,20 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-chill-dine-live-musik-0906@garylewis",
+    "title": "Chill & Dine mit Live-Musik",
+    "start": "2026-09-06T16:30:00+02:00",
+    "end": "2026-09-06T18:30:00+02:00",
+    "location": "Hotel Rübezahl, Schwangau",
+    "description": "Open-air evening with live music and castle view at Hotel Rübezahl between Schwangau and Hohenschwangau. Info via Hotel Rübezahl or the Schwangau event calendar at schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/chill-dine-e2e23c9eeb6cd9b5f5343ae2f2ea4a47c.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
     "uid": "fuessen-2026-festival-vielsaitig-trio-con@garylewis",
     "title": "Festival vielsaitig: Trio con Brio Copenhagen",
     "start": "2026-09-07T19:00:00+02:00",
@@ -654,6 +976,20 @@
     "status": "confirmed",
     "sequence": 0,
     "category": "classical",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-alphornspielen-alpsee-0907@garylewis",
+    "title": "Alphornspielen am Alpsee",
+    "start": "2026-09-07T19:00:00+02:00",
+    "end": "2026-09-07T21:00:00+02:00",
+    "location": "Alpsee, Hohenschwangau",
+    "description": "Alphorn players perform on the shore of the Alpsee below Schloss Hohenschwangau, alpine horn music in front of the royal castle scenery. Free open-air event near the Alpseebad. Info via Tourist Information Schwangau, schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/alphornspielen-am-alpsee-e43b56442abe996e1a46bbd95b239b2e3.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
     "alarm": false,
     "last_verified": "2026-08-02"
   },
@@ -714,6 +1050,48 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-alphornspielen-forggensee-0912@garylewis",
+    "title": "Alphornspielen am Forggensee",
+    "start": "2026-09-12T18:00:00+02:00",
+    "end": "2026-09-12T20:00:00+02:00",
+    "location": "Bootsanlegestelle Waltenhofen, Schwangau",
+    "description": "Alphorn players perform at the boat landing in Schwangau-Waltenhofen on the Forggensee, alpine horn music by the lake a few minutes from Hohenschwangau. Free open-air event. Info via Tourist Information Schwangau, schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/alphornspielen-am-forggensee-eb7a6b6ff69be00fe1064e0a2d8aeaf5a.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-live-musik-abend-ludwig-0912@garylewis",
+    "title": "Live-Musik-Abend in der Ludwig Bar",
+    "start": "2026-09-12T20:30:00+02:00",
+    "end": "2026-09-12T22:30:00+02:00",
+    "location": "Ludwig Bar, AMERON Neuschwanstein Alpsee Resort, Hohenschwangau",
+    "description": "Weekly Saturday live music evening in the Ludwig Bar of the AMERON Neuschwanstein Alpsee Resort in Hohenschwangau, with changing artists each week. Info via the hotel or the Schwangau event calendar at schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/live-musik-abend-e8dd13780133977d75db9912439c9a28a.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "bar-music",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-alphornspielen-alpsee-0914@garylewis",
+    "title": "Alphornspielen am Alpsee",
+    "start": "2026-09-14T19:00:00+02:00",
+    "end": "2026-09-14T21:00:00+02:00",
+    "location": "Alpsee, Hohenschwangau",
+    "description": "Last listed date of the season for the alphorn players on the shore of the Alpsee below Schloss Hohenschwangau, alpine horn music in front of the royal castle scenery. Free open-air event near the Alpseebad. Info via Tourist Information Schwangau, schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/alphornspielen-am-alpsee-e43b56442abe996e1a46bbd95b239b2e3.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
     "uid": "fuessen-2026-gastspiel-iberl-buhne-hollerkuacherl@garylewis",
     "title": "Gastspiel Iberl Bühne: Hollerküacherl",
     "start": "2026-09-17T20:00:00+02:00",
@@ -742,6 +1120,20 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-alphornspielen-forggensee-0919@garylewis",
+    "title": "Alphornspielen am Forggensee",
+    "start": "2026-09-19T18:00:00+02:00",
+    "end": "2026-09-19T20:00:00+02:00",
+    "location": "Bootsanlegestelle Waltenhofen, Schwangau",
+    "description": "Last listed date of the season for the alphorn players at the boat landing in Schwangau-Waltenhofen on the Forggensee, alpine horn music by the lake. Free open-air event. Info via Tourist Information Schwangau, schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/alphornspielen-am-forggensee-eb7a6b6ff69be00fe1064e0a2d8aeaf5a.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
     "uid": "fuessen-2026-classix-kempten-universum-fabian@garylewis",
     "title": "ClassiX Kempten: Universum - Fabian Ziegler & Daniel Schnyder",
     "start": "2026-09-19T19:00:00+02:00",
@@ -766,6 +1158,20 @@
     "status": "confirmed",
     "sequence": 0,
     "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-live-musik-abend-ludwig-0919@garylewis",
+    "title": "Live-Musik-Abend in der Ludwig Bar",
+    "start": "2026-09-19T20:30:00+02:00",
+    "end": "2026-09-19T22:30:00+02:00",
+    "location": "Ludwig Bar, AMERON Neuschwanstein Alpsee Resort, Hohenschwangau",
+    "description": "Weekly Saturday live music evening in the Ludwig Bar of the AMERON Neuschwanstein Alpsee Resort in Hohenschwangau, with changing artists each week. Info via the hotel or the Schwangau event calendar at schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/live-musik-abend-e8dd13780133977d75db9912439c9a28a.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "bar-music",
     "alarm": false,
     "last_verified": "2026-08-02"
   },
@@ -854,6 +1260,20 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-musikalische-grusse@garylewis",
+    "title": "Musikalische Grüße",
+    "start": "2026-09-24T19:30:00+02:00",
+    "end": "2026-09-24T21:30:00+02:00",
+    "location": "Bannwaldsee Stadl, Schwangau",
+    "description": "Evening of traditional Bavarian Blasmusik (brass band) at the Bannwaldsee Stadl in Schwangau. Info via the Schwangau event calendar at schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/musikalische-gruesse-e420f2794403c0606610b1fbab90aa529.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
     "uid": "fuessen-2026-classix-kempten-moonlight-david@garylewis",
     "title": "ClassiX Kempten: Moonlight - David Orlowsky",
     "start": "2026-09-25T19:00:00+02:00",
@@ -896,6 +1316,34 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-musikalische-grusse-0925@garylewis",
+    "title": "Musikalische Grüße",
+    "start": "2026-09-25T19:30:00+02:00",
+    "end": "2026-09-25T21:30:00+02:00",
+    "location": "Schlossbrauhaus, Schwangau",
+    "description": "Kurkonzert-style evening of traditional Bavarian Blasmusik (brass band) at the Schlossbrauhaus in Schwangau. Info via the Schwangau event calendar at schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/musikalische-gruesse-e420f2794403c0606610b1fbab90aa529.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-blasmusikfest-0925@garylewis",
+    "title": "Blasmusikfest",
+    "start": "2026-09-25T19:30:00+02:00",
+    "end": "2026-09-25T21:30:00+02:00",
+    "location": "Bannwaldsee-Stadl, Schwangau",
+    "description": "Bavarian evening with traditional Blasmusik (brass band) at the Bannwaldsee-Stadl by the Bannwaldsee in Schwangau. Info via the Schwangau event calendar at schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/blasmusikfest-ed015bc851a19109e7acf724c10c5b60e.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
     "uid": "fuessen-2026-odeon-jugendsymphonieorchester-munchen-jubilaumskonzert@garylewis",
     "title": "ODEON Jugendsymphonieorchester München: Jubiläumskonzert",
     "start": "2026-09-26T19:00:00+02:00",
@@ -921,6 +1369,20 @@
     "sequence": 0,
     "category": "classical",
     "alarm": true,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-live-musik-abend-ludwig-0926@garylewis",
+    "title": "Live-Musik-Abend in der Ludwig Bar",
+    "start": "2026-09-26T20:30:00+02:00",
+    "end": "2026-09-26T22:30:00+02:00",
+    "location": "Ludwig Bar, AMERON Neuschwanstein Alpsee Resort, Hohenschwangau",
+    "description": "Last listed Saturday live music evening of the season in the Ludwig Bar of the AMERON Neuschwanstein Alpsee Resort in Hohenschwangau, with changing artists each week. Info via the hotel or the Schwangau event calendar at schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/live-musik-abend-e8dd13780133977d75db9912439c9a28a.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "bar-music",
+    "alarm": false,
     "last_verified": "2026-08-02"
   },
   {
@@ -1022,6 +1484,20 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-blasmusikfest-1002@garylewis",
+    "title": "Blasmusikfest",
+    "start": "2026-10-02T19:30:00+02:00",
+    "end": "2026-10-02T21:30:00+02:00",
+    "location": "Bannwaldsee-Stadl, Schwangau",
+    "description": "Bavarian evening with traditional Blasmusik (brass band) at the Bannwaldsee-Stadl by the Bannwaldsee in Schwangau. Info via the Schwangau event calendar at schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/blasmusikfest-ed015bc851a19109e7acf724c10c5b60e.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
     "uid": "fuessen-2026-festival-nationen-rudolf-buchbinder@garylewis",
     "title": "Festival der Nationen: Rudolf Buchbinder spielt Mozart",
     "start": "2026-10-02T20:00:00+02:00",
@@ -1092,6 +1568,20 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-kurkonzert-musikkapelle-schwangau@garylewis",
+    "title": "Kurkonzert der Musikkapelle Schwangau",
+    "start": "2026-10-08T19:30:00+02:00",
+    "end": "2026-10-08T20:30:00+02:00",
+    "location": "Schlossbrauhaus, Schwangau",
+    "description": "The Musikkapelle Schwangau (traditional Bavarian brass band) performs its Kurkonzert at the Schlossbrauhaus, listed in the Schwangau calendar as Musikalische Grüße. Brass band music, with the Männerchor male choir at earlier editions. Free; info at musikkapelle-schwangau.de.",
+    "url": "https://www.musikkapelle-schwangau.de/termin/eventdetail/89/-/kurkonzert.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
     "uid": "fuessen-2026-dav-sektionsabend-unterwegs-polarkreis@garylewis",
     "title": "DAV Sektionsabend: Unterwegs im Polarkreis (Armin Hofmann)",
     "start": "2026-10-08T20:00:00+02:00",
@@ -1116,6 +1606,20 @@
     "status": "tentative",
     "sequence": 0,
     "category": "running",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-blasmusikfest-1010@garylewis",
+    "title": "Blasmusikfest",
+    "start": "2026-10-10T19:30:00+02:00",
+    "end": "2026-10-10T21:30:00+02:00",
+    "location": "Bannwaldsee-Stadl, Schwangau",
+    "description": "Bavarian evening with traditional Blasmusik (brass band) at the Bannwaldsee-Stadl by the Bannwaldsee in Schwangau. Info via the Schwangau event calendar at schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/blasmusikfest-ed015bc851a19109e7acf724c10c5b60e.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
     "alarm": false,
     "last_verified": "2026-08-02"
   },
@@ -1148,6 +1652,20 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-kurkonzert-musikkapelle-schwangau-1015@garylewis",
+    "title": "Kurkonzert der Musikkapelle Schwangau",
+    "start": "2026-10-15T19:30:00+02:00",
+    "end": "2026-10-15T20:30:00+02:00",
+    "location": "Schlossbrauhaus, Schwangau",
+    "description": "The Musikkapelle Schwangau (traditional Bavarian brass band) performs its Kurkonzert at the Schlossbrauhaus, listed in the Schwangau calendar as Musikalische Grüße. Brass band music in the brewery hall or outdoors in good weather. Free; info at musikkapelle-schwangau.de.",
+    "url": "https://www.musikkapelle-schwangau.de/termin/eventdetail/91/-/kurkonzert.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
     "uid": "fuessen-2026-35-rottachseelauf-oy-mittelberg@garylewis",
     "title": "35. Rottachseelauf Oy-Mittelberg",
     "start": "2026-10-17T10:00:00+02:00",
@@ -1158,6 +1676,20 @@
     "status": "tentative",
     "sequence": 0,
     "category": "running",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-blasmusikabend@garylewis",
+    "title": "Blasmusikabend",
+    "start": "2026-10-17T19:30:00+02:00",
+    "end": "2026-10-17T21:30:00+02:00",
+    "location": "Bannwaldsee-Stadl, Schwangau",
+    "description": "Evening of traditional Bavarian Blasmusik (brass band) at the Bannwaldsee-Stadl in Schwangau. Info via the Schwangau event calendar at schwangau.de.",
+    "url": "https://veranstaltungen.erlebe.bayern/schwangau/blasmusikabend-ef49de9192bcf91e9029ae345c2d9f738.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
     "alarm": false,
     "last_verified": "2026-08-02"
   },
@@ -1242,6 +1774,20 @@
     "status": "confirmed",
     "sequence": 0,
     "category": "community",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-kurkonzert-musikkapelle-schwangau-1029@garylewis",
+    "title": "Kurkonzert der Musikkapelle Schwangau",
+    "start": "2026-10-29T19:30:00+01:00",
+    "end": "2026-10-29T20:30:00+01:00",
+    "location": "Schlossbrauhaus, Schwangau",
+    "description": "Final listed Kurkonzert of the season by the Musikkapelle Schwangau, a traditional Bavarian brass band founded in 1816, at the Schlossbrauhaus. Brass band music, free entry. Info at musikkapelle-schwangau.de.",
+    "url": "https://www.musikkapelle-schwangau.de/termin/eventdetail/92/-/kurkonzert.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
     "alarm": false,
     "last_verified": "2026-08-02"
   },

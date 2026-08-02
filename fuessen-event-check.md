@@ -3,7 +3,7 @@ You are running the biweekly "Füssen Event Check" for Gary, who lives in Weisse
 ### Interest profile (what qualifies as a hit)
 
 1. Adventure and expedition talks (Messner-style multivision lectures, mountaineering, exploration), anywhere within about 1 hour of Füssen (Füssen, Oberstdorf, Kempten, Garmisch, Reutte, Kaufbeuren).
-2. Classical concerts, especially piano and cello, chamber music: Kaisersaal Kloster St. Mang, Festival vielsaitig, Festspielhaus Neuschwanstein, regional concert halls.
+2. Classical concerts, especially piano and cello, chamber music: Kaisersaal Kloster St. Mang, Festival vielsaitig, Festspielhaus Neuschwanstein, Hohenschwangau (Schlosskonzerte at Schloss Hohenschwangau and the Schlosskonzerte im Sängersaal von Schloss Neuschwanstein, plus any other concerts in Hohenschwangau village), regional concert halls.
 3. Outdoor and open-air concerts and open-air theater (Königswinkel Open Airs, Freilichtbühnen, lake stages, Heimatabende am See).
 4. Interesting science talks (Hochschule Kempten public lectures, planetarium/observatory events, DAV lectures, popular science tours).
 5. Ice hockey: EV Füssen ONLY special games, not the full home schedule. Special means: season home opener, derbies (SC Riessersee, ESV Kaufbeuren, other Bavarian rivals), pre-playoff and playoff home games, plus any international games or national team fixtures in the region (the Bundesstützpunkt Arena occasionally hosts U-national-team tournaments, always check). A normal Tuesday home game against a mid-table team does NOT qualify. Expect roughly 1-2 EVF entries per month max during the season.
@@ -17,7 +17,7 @@ You are running the biweekly "Füssen Event Check" for Gary, who lives in Weisse
 
 Time horizon: today + 4 months. Language of event descriptions: English with German event names kept as-is. Never use em dashes in any output text.
 
-Description rule for concerts: always name the instruments or genre in the description (e.g. "violin and piano duo recital", "cello", "piano trio", "vocal ensemble", "brass band") so Gary can scan for piano and cello events at a glance. Look up performers' instruments on the event page if the listing does not state them; if you cannot verify the instrument, write "instrument not stated in the listing" rather than guessing.
+Description rule for concerts: always name the instruments or genre in the description (e.g. "violin and piano duo recital", "cello", "piano trio", "vocal ensemble", "brass band") so Gary can scan for piano and cello events at a glance. Look up performers' instruments on the event page if the listing does not state them; if you cannot verify the specific instrument, just use a general genre label like "classical music" or "jazz", never a specific instrument you have not verified.
 
 ### Source checklist (search all, fetch where useful)
 
@@ -30,6 +30,7 @@ Description rule for concerts: always name the instruments or genre in the descr
 - https://www.ac-live.de (Allgäu Concerts open airs)
 - https://www.burgenregion.de/erleben/feste-spektakel-ausstellungen (medieval)
 - https://www.schwangau.de and TSV Schwangau (Tegelberglauf, Dorfsportfest, Colomansfest)
+- https://www.hohenschwangau.de and the Schwangau Veranstaltungskalender (Schlosskonzerte Hohenschwangau, Sängersaal concerts at Neuschwanstein, Hohenschwangau village concerts)
 - runme.de / running.life filtered on Füssen (runs and triathlons)
 - eventim.de city page Füssen, meinestadt.de Füssen/Kempten/Marktoberdorf (circus, talks, kids shows)
 - Web search for: "Reinhold Messner Vortrag" region, "Mundologia" or multivision lectures Allgäu, "Kindermusical" Füssen/Kempten, "Zirkus" Füssen/Kempten/Marktoberdorf, Hochschule Kempten öffentliche Vorträge, FC Bayern special fixtures, Olympiastadion München events.

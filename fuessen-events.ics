@@ -25,9 +25,29 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:fuessen-2026-hohenschwangau-klassik-bergkonzert-konigliche@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260802T090000
+DTEND;TZID=Europe/Berlin:20260802T100000
+SUMMARY:Hohenschwangau Klassik: Bergkonzert Königliche Trompetenklänge
+LOCATION:Ort der Besinnung\, Bergstation Tegelbergbahn\, Schwangau
+DESCRIPTION:Mountain-top concert of the Hohenschwangau Klassik festival wit
+ h trumpeters Georg Hiemer\, Martin Ehlich and Daniel Noske\, a brass trump
+ et trio in the high Alps. Moves to the Panoramarestaurant in case of rain.
+  Entry is free on the Pay as you want principle\; the Tegelbergbahn runs s
+ pecial early rides from 8:30 at regular fares. Info at hohenschwangau-klas
+ sik.com.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/bergkonzert-koenigliche
+ -trompetenklaenge-e7a8aabe01a770e224c6908292cf3bd6d.html
+CATEGORIES:classical
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-mittelaltermarkt-fussen-letzter-markttag@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260802T100000
 DTEND;TZID=Europe/Berlin:20260802T180000
 SUMMARY:Mittelaltermarkt Füssen (letzter Markttag)
@@ -44,7 +64,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-24-tegelberglauf-tegelberg-nachwuchslauf@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260802T100000
 DTEND;TZID=Europe/Berlin:20260802T120000
 SUMMARY:24. Tegelberglauf und Tegelberg Nachwuchslauf
@@ -62,7 +82,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-korperwelten-zyklus-des-lebens@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260802T100000
 DTEND;TZID=Europe/Berlin:20260802T180000
 SUMMARY:KÖRPERWELTEN & Der Zyklus des Lebens (Ausstellung bis 11.10.2026)
@@ -79,9 +99,64 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-sommerfest-musikkapelle-schwangau-tag@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260802T103000
+DTEND;TZID=Europe/Berlin:20260802T123000
+SUMMARY:Sommerfest der Musikkapelle Schwangau (Tag 2)
+LOCATION:Festplatz am Schlossbrauhaus\, Schwangau
+DESCRIPTION:Second day of the summer festival of the Musikkapelle Schwangau
+ \, a traditional Bavarian brass band founded in 1816\, with Blasmusik and 
+ food in front of the mountain backdrop. Sunday starts with a morning sessi
+ on from 10:30. Free village festival\, info at musikkapelle-schwangau.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/sommerfest-der-musikkap
+ elle-e2f678c0fed87403aee6f1b8d8909b7d5.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-hohenschwangau-klassik-familienkonzert-opernhits@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260802T150000
+DTEND;TZID=Europe/Berlin:20260802T154500
+SUMMARY:Hohenschwangau Klassik: Familienkonzert Opernhits für Kids
+LOCATION:Museum der bayerischen Könige\, Hohenschwangau
+DESCRIPTION:Family concert of the Hohenschwangau Klassik festival with oper
+ a hits like Papageno and Carmen\, performed with voice\, cello and light-h
+ earted moderation for children from age 5. The concert lasts about 45 minu
+ tes. Entry is free on the Pay as you want principle\, no reservation neede
+ d. Info at hohenschwangau-klassik.com.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/familienkonzert-opernhi
+ ts-fuer-kids-edaa766425379be79d322a62cd488987e.html
+CATEGORIES:classical
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-chill-dine-live-musik@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260802T163000
+DTEND;TZID=Europe/Berlin:20260802T210000
+SUMMARY:Chill & Dine mit Live-Musik
+LOCATION:Hotel Rübezahl\, Schwangau
+DESCRIPTION:Open-air evening with live music and a view of the royal castle
+ s at Hotel Rübezahl between Schwangau and Hohenschwangau. Food and drinks
+  from the hotel kitchen\; info via Hotel Rübezahl or the Schwangau event 
+ calendar at schwangau.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/chill-dine-e2e23c9eeb6c
+ d9b5f5343ae2f2ea4a47c.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-oberstdorfer-musiksommer-singphoniker@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260802T193000
 DTEND;TZID=Europe/Berlin:20260802T213000
 SUMMARY:Oberstdorfer Musiksommer: Die Singphoniker
@@ -96,9 +171,36 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-neuschwanstein-konzerte-immer-gebaute@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260802T203000
+DTEND;TZID=Europe/Berlin:20260802T223000
+SUMMARY:Neuschwanstein Konzerte: Für immer! Gebaute Träume\, gelebte Musi
+ k
+LOCATION:Schlosshof Schloss Neuschwanstein\, Hohenschwangau
+DESCRIPTION:Closing night of the Neuschwanstein Konzerte 2026 open-air fest
+ ival in the upper castle courtyard\, the successor of the famous Sängersa
+ al Schlosskonzerte. Tenor Piotr Beczala\, soprano Olga Peretyatko and mezz
+ o-soprano Nadezhda Karyazina sing opera by Offenbach\, Gounod and Verdi wi
+ th the Münchner Symphoniker under Andreas Klippert. Admission from 19:30\
+ , ticket includes parking in Hohenschwangau and shuttle to the castle. Tic
+ kets at neuschwansteinkonzerte.eu or Eventim\, hotline +49 831 2065555.
+URL:https://www.neuschwansteinkonzerte.eu/en/program-2/
+CATEGORIES:classical
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tickets: Neuschwanstein Konzerte: Für immer! Gebaute Träume\,
+  gelebte Musik
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-ov-20260803-odyssey@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260803T193000
 DTEND;TZID=Europe/Berlin:20260803T213000
 SUMMARY:The Odyssey (OV)
@@ -114,9 +216,46 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-hohenschwangau-klassik-abschlusskonzert-best@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260803T193000
+DTEND;TZID=Europe/Berlin:20260803T210000
+SUMMARY:Hohenschwangau Klassik: Abschlusskonzert Best of Baroque II
+LOCATION:Wallfahrtskirche St. Coloman\, Schwangau
+DESCRIPTION:Festive closing concert of the Hohenschwangau Klassik 2026 fest
+ ival in the baroque pilgrimage church St. Coloman. Baroque works with oboe
+  sisters Hannah and Sophia Streif\, flutist Elya Levin and the string play
+ ers of the Solistenensemble D'Accord. Entry is free on the Pay as you want
+  principle. Info at hohenschwangau-klassik.com.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/abschlusskonzert-best-o
+ f-baroque-ii-e3ce326c408ae982ffc236ebedf8c6869.html
+CATEGORIES:classical
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-alphornspielen-alpsee@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260803T200000
+DTEND;TZID=Europe/Berlin:20260803T220000
+SUMMARY:Alphornspielen am Alpsee
+LOCATION:Alpsee\, Hohenschwangau
+DESCRIPTION:Alphorn players perform on the shore of the Alpsee below Schlos
+ s Hohenschwangau\, alpine horn music in front of the royal castle scenery.
+  Free open-air event near the Alpseebad. Info via Tourist Information Schw
+ angau\, schwangau.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/alphornspielen-am-alpse
+ e-e43b56442abe996e1a46bbd95b239b2e3.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-konigswinkel-open-air-mark@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260803T203000
 DTEND;TZID=Europe/Berlin:20260803T223000
 SUMMARY:Königswinkel Open Air: Mark Forster
@@ -140,7 +279,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-cinderella-musical@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260804T160000
 DTEND;TZID=Europe/Berlin:20260804T180000
 SUMMARY:Cinderella - Das Musical
@@ -159,7 +298,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-oberstdorfer-musiksommer-ingolf-turban@garylewis
 SEQUENCE:1
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260804T193000
 DTEND;TZID=Europe/Berlin:20260804T213000
 SUMMARY:Oberstdorfer Musiksommer: Ingolf Turban & Tomoko Sawallisch
@@ -176,7 +315,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-ludwig2-musical@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260805T180000
 DTEND;TZID=Europe/Berlin:20260805T200000
 SUMMARY:LUDWIG² Das Musical
@@ -195,7 +334,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-oberstdorfer-musiksommer-atos-trio@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260805T193000
 DTEND;TZID=Europe/Berlin:20260805T213000
 SUMMARY:Oberstdorfer Musiksommer: Atos Trio
@@ -212,7 +351,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-musikkapelle-prem-schlossbrauhaus@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260806T193000
 DTEND;TZID=Europe/Berlin:20260806T213000
 SUMMARY:Musikkapelle Prem am Schlossbrauhaus
@@ -229,7 +368,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-konigswinkel-open-air-montez@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260806T200000
 DTEND;TZID=Europe/Berlin:20260806T222000
 SUMMARY:Königswinkel Open Air: MONTEZ - 15 Jahre Jubiläums-Tour
@@ -252,7 +391,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-konigswinkel-open-air-montez-0806@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260806T200000
 DTEND;TZID=Europe/Berlin:20260806T220000
 SUMMARY:Königswinkel Open Air: MONTEZ
@@ -274,7 +413,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-kaisersaalkonzert-laura-lootens-dominik@garylewis
 SEQUENCE:1
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260807T190000
 DTEND;TZID=Europe/Berlin:20260807T210000
 SUMMARY:Kaisersaalkonzert: Laura Lootens & Dominik Wagner
@@ -290,9 +429,28 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-orgelplus-bei-kerzenschein@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260807T200000
+DTEND;TZID=Europe/Berlin:20260807T220000
+SUMMARY:OrgelPlus bei Kerzenschein
+LOCATION:Wallfahrtskirche St. Coloman\, Schwangau
+DESCRIPTION:Candlelight concert in the pilgrimage church St. Coloman betwee
+ n Schwangau and Hohenschwangau. Concert organist Helene von Rechenberg fro
+ m Füssen plays together with baroque violinist Eva-Maria Röll\, so organ
+  and baroque violin. Info via the Schwangau event calendar at schwangau.de
+  or Tourist Information Schwangau.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/orgelplus-bei-kerzensch
+ ein-e694365f8f0a553e77d9669eb3870bc38.html
+CATEGORIES:classical
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-konigswinkel-open-air-sarah@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260807T203000
 DTEND;TZID=Europe/Berlin:20260807T230000
 SUMMARY:Königswinkel Open Air: Sarah Connor - Wilde Nächte Open Air 2026
@@ -317,7 +475,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-grillfest-feuerwehr-weissensee@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260808T160000
 DTEND;TZID=Europe/Berlin:20260808T180000
 SUMMARY:Grillfest der Feuerwehr Weissensee
@@ -333,9 +491,27 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-live-musik-abend-ludwig@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260808T203000
+DTEND;TZID=Europe/Berlin:20260808T223000
+SUMMARY:Live-Musik-Abend in der Ludwig Bar
+LOCATION:Ludwig Bar\, AMERON Neuschwanstein Alpsee Resort\, Hohenschwangau
+DESCRIPTION:Weekly Saturday live music evening in the Ludwig Bar of the AME
+ RON Neuschwanstein Alpsee Resort in Hohenschwangau\, with changing artists
+  each week. Free entry with bar service\; info via the hotel or the Schwan
+ gau event calendar at schwangau.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/live-musik-abend-e8dd13
+ 780133977d75db9912439c9a28a.html
+CATEGORIES:bar-music
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-19-allgau-panorama-marathon@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260809T080000
 DTEND;TZID=Europe/Berlin:20260809T100000
 SUMMARY:19. Allgäu Panorama Marathon
@@ -352,9 +528,27 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-alphornspielen-alpsee-0810@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260810T200000
+DTEND;TZID=Europe/Berlin:20260810T220000
+SUMMARY:Alphornspielen am Alpsee
+LOCATION:Alpsee\, Hohenschwangau
+DESCRIPTION:Alphorn players perform on the shore of the Alpsee below Schlos
+ s Hohenschwangau\, alpine horn music in front of the royal castle scenery.
+  Free open-air event near the Alpseebad. Info via Tourist Information Schw
+ angau\, schwangau.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/alphornspielen-am-alpse
+ e-e43b56442abe996e1a46bbd95b239b2e3.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-partielle-sonnenfinsternis-lange-nacht@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260812T183000
 DTEND;TZID=Europe/Berlin:20260812T210000
 SUMMARY:Partielle Sonnenfinsternis - Lange Nacht der Astronomie
@@ -370,17 +564,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-oberstdorfer-musiksommer-elias-ackerley@garylewis
-SEQUENCE:1
-DTSTAMP:20260802T070003Z
+SEQUENCE:2
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260812T193000
 DTEND;TZID=Europe/Berlin:20260812T213000
 SUMMARY:Oberstdorfer Musiksommer: Elias Ackerley
 LOCATION:Oberstdorf Haus\, Saal Breitachklamm\, Oberstdorf
-DESCRIPTION:Recital by Elias Ackerley\, winner at the ARD International Mus
- ic Competition 2025\, in a concert recorded by BR-Klassik (instrument not 
- stated in the listing\, check oberstdorfer-musiksommer.de). Part of the Ob
- erstdorfer Musiksommer 2026. Tickets via oberstdorfer-musiksommer.de or Ev
- entim.
+DESCRIPTION:Classical music recital by Elias Ackerley\, winner at the ARD I
+ nternational Music Competition 2025\, in a concert recorded by BR-Klassik.
+  Part of the Oberstdorfer Musiksommer 2026. Tickets via oberstdorfer-musik
+ sommer.de or Eventim.
 URL:https://www.oberstdorfer-musiksommer.de/veranstaltungen/
 CATEGORIES:classical
 STATUS:CONFIRMED
@@ -389,7 +582,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-perseiden-nacht-sternwarte@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260812T210000
 DTEND;TZID=Europe/Berlin:20260812T233000
 SUMMARY:Perseiden-Nacht an der Sternwarte
@@ -406,7 +599,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-kaisersaalkonzert-spark-klassische-band@garylewis
 SEQUENCE:1
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260813T190000
 DTEND;TZID=Europe/Berlin:20260813T210000
 SUMMARY:Kaisersaalkonzert: Spark - die klassische Band
@@ -424,7 +617,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-2-legenden-1-konzert@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260814T193000
 DTEND;TZID=Europe/Berlin:20260814T213000
 SUMMARY:2 Legenden 1 Konzert - A Tribute to ABBA & Udo Jürgens
@@ -441,7 +634,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-oberstdorfer-musiksommer-trombone-unit@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260814T193000
 DTEND;TZID=Europe/Berlin:20260814T213000
 SUMMARY:Oberstdorfer Musiksommer: Trombone Unit Hannover (Abschlusskonzert)
@@ -458,7 +651,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-maria-himmelfahrt-kirchenkaffee@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260815T090000
 DTEND;TZID=Europe/Berlin:20260815T110000
 SUMMARY:Maria Himmelfahrt mit Kirchenkaffee
@@ -476,7 +669,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-markt-handwerkskunst@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260815T110000
 DTEND;TZID=Europe/Berlin:20260816T170000
 SUMMARY:Markt für Handwerkskunst
@@ -491,9 +684,63 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-alphornspielen-forggensee@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260815T190000
+DTEND;TZID=Europe/Berlin:20260815T210000
+SUMMARY:Alphornspielen am Forggensee
+LOCATION:Bootsanlegestelle Waltenhofen\, Schwangau
+DESCRIPTION:Alphorn players perform at the boat landing in Schwangau-Walten
+ hofen on the Forggensee\, alpine horn music by the lake a few minutes from
+  Hohenschwangau. Free open-air event. Info via Tourist Information Schwang
+ au\, schwangau.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/alphornspielen-am-forgg
+ ensee-eb7a6b6ff69be00fe1064e0a2d8aeaf5a.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-live-musik-abend-ludwig-0815@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260815T203000
+DTEND;TZID=Europe/Berlin:20260815T223000
+SUMMARY:Live-Musik-Abend in der Ludwig Bar
+LOCATION:Ludwig Bar\, AMERON Neuschwanstein Alpsee Resort\, Hohenschwangau
+DESCRIPTION:Weekly Saturday live music evening in the Ludwig Bar of the AME
+ RON Neuschwanstein Alpsee Resort in Hohenschwangau\, with changing artists
+  each week. Info via the hotel or the Schwangau event calendar at schwanga
+ u.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/live-musik-abend-e8dd13
+ 780133977d75db9912439c9a28a.html
+CATEGORIES:bar-music
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-konzert-steg-philipp-lumpp@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260816T190000
+DTEND;TZID=Europe/Berlin:20260816T210000
+SUMMARY:Konzert am Steg mit Philipp Lumpp
+LOCATION:Badesteg\, Campingplatz Brunnen\, Schwangau-Brunnen
+DESCRIPTION:Summer night concert on the bathing jetty of Campingplatz Brunn
+ en on the Forggensee\, with singer-songwriter Philipp Lumpp performing Ger
+ man indie pop directly at the water. Drinks and relaxed lakeside atmospher
+ e. Info via the Schwangau event calendar at schwangau.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/konzert-am-steg-mit-phi
+ lipp-lumpp-e33a58820effff5537e0d7520858456c2.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-filmvorfuhrung-forggensee@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260816T201500
 DTEND;TZID=Europe/Berlin:20260816T221500
 SUMMARY:Filmvorführung Der Forggensee
@@ -509,7 +756,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-feuerwehr-zum-anfassen@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260817T180000
 DTEND;TZID=Europe/Berlin:20260817T200000
 SUMMARY:Feuerwehr zum Anfassen
@@ -525,9 +772,27 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-alphornspielen-alpsee-0817@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260817T200000
+DTEND;TZID=Europe/Berlin:20260817T220000
+SUMMARY:Alphornspielen am Alpsee
+LOCATION:Alpsee\, Hohenschwangau
+DESCRIPTION:Alphorn players perform on the shore of the Alpsee below Schlos
+ s Hohenschwangau\, alpine horn music in front of the royal castle scenery.
+  Free open-air event near the Alpseebad. Info via Tourist Information Schw
+ angau\, schwangau.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/alphornspielen-am-alpse
+ e-e43b56442abe996e1a46bbd95b239b2e3.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-never-enough-musical@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260818T180000
 DTEND;TZID=Europe/Berlin:20260818T200000
 SUMMARY:Never Enough! - Das Musical
@@ -544,7 +809,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-wirtshausbuhne-gluck-kommt-durch@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260820T200000
 DTEND;TZID=Europe/Berlin:20260820T220000
 SUMMARY:Wirtshausbühne: Das Glück kommt durch die Hintertür
@@ -562,7 +827,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-kunsthandwerkermarkt-barockgarten@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260821T130000
 DTEND;TZID=Europe/Berlin:20260823T170000
 SUMMARY:Kunsthandwerkermarkt im Barockgarten
@@ -579,7 +844,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-ritterabenteuer-auf-burgruine-sulzberg@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260821T140000
 DTEND;TZID=Europe/Berlin:20260821T170000
 SUMMARY:Ritterabenteuer auf der Burgruine Sulzberg
@@ -598,7 +863,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-unser-sonnensystem-fuhrung-sternwarte@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260821T193000
 DTEND;TZID=Europe/Berlin:20260821T210000
 SUMMARY:Unser Sonnensystem - Führung an der Sternwarte
@@ -613,9 +878,44 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-blasmusikfest@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260821T193000
+DTEND;TZID=Europe/Berlin:20260821T213000
+SUMMARY:Blasmusikfest
+LOCATION:Bannwaldsee-Stadl\, Schwangau
+DESCRIPTION:Bavarian evening with the Musikkapelle Alpengruß\, traditional
+  Blasmusik (brass band) at the Bannwaldsee-Stadl by the Bannwaldsee in Sch
+ wangau. Info via the Schwangau event calendar at schwangau.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/blasmusikfest-ed015bc85
+ 1a19109e7acf724c10c5b60e.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-live-musik-abend-ludwig-0822@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260822T203000
+DTEND;TZID=Europe/Berlin:20260822T223000
+SUMMARY:Live-Musik-Abend in der Ludwig Bar
+LOCATION:Ludwig Bar\, AMERON Neuschwanstein Alpsee Resort\, Hohenschwangau
+DESCRIPTION:Weekly Saturday live music evening in the Ludwig Bar of the AME
+ RON Neuschwanstein Alpsee Resort in Hohenschwangau\, with changing artists
+  each week. Info via the hotel or the Schwangau event calendar at schwanga
+ u.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/live-musik-abend-e8dd13
+ 780133977d75db9912439c9a28a.html
+CATEGORIES:bar-music
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-44-allgau-triathlon@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260823T074500
 DTEND;TZID=Europe/Berlin:20260823T094500
 SUMMARY:44. Allgäu Triathlon
@@ -631,9 +931,44 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-alphornspielen-alpsee-0824@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260824T200000
+DTEND;TZID=Europe/Berlin:20260824T220000
+SUMMARY:Alphornspielen am Alpsee
+LOCATION:Alpsee\, Hohenschwangau
+DESCRIPTION:Alphorn players perform on the shore of the Alpsee below Schlos
+ s Hohenschwangau\, alpine horn music in front of the royal castle scenery.
+  Free open-air event near the Alpseebad. Info via Tourist Information Schw
+ angau\, schwangau.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/alphornspielen-am-alpse
+ e-e43b56442abe996e1a46bbd95b239b2e3.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-harfenkonzert-jodelauftritt-akkordeon@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260825T190000
+DTEND;TZID=Europe/Berlin:20260825T210000
+SUMMARY:Harfenkonzert mit Jodelauftritt und Akkordeon
+LOCATION:Campingplatz Brunnen\, Schwangau-Brunnen
+DESCRIPTION:Folk music evening at Campingplatz Brunnen on the Forggensee fe
+ aturing harp\, yodelling and accordion. A yodelling course takes place bef
+ orehand at 16:00. Info via the Schwangau event calendar at schwangau.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/harfenkonzert-mit-jodel
+ auftritt-und-akkordeon-e0ab73d38f01571438a75540ca43f4be0.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-musikkapelle-musau-schlossbrauhaus@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260827T193000
 DTEND;TZID=Europe/Berlin:20260827T213000
 SUMMARY:Musikkapelle Musau am Schlossbrauhaus
@@ -649,7 +984,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-konigsgala-2026@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260828T193000
 DTEND;TZID=Europe/Berlin:20260828T213000
 SUMMARY:Königsgala 2026
@@ -665,7 +1000,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-zugspitz-arena-gravel-triathlon@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260829T090000
 DTEND;TZID=Europe/Berlin:20260829T110000
 SUMMARY:Zugspitz Arena Gravel Triathlon
@@ -682,9 +1017,45 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-alphornspielen-forggensee-0829@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260829T180000
+DTEND;TZID=Europe/Berlin:20260829T200000
+SUMMARY:Alphornspielen am Forggensee
+LOCATION:Bootsanlegestelle Waltenhofen\, Schwangau
+DESCRIPTION:Alphorn players perform at the boat landing in Schwangau-Walten
+ hofen on the Forggensee\, alpine horn music by the lake a few minutes from
+  Hohenschwangau. Free open-air event. Info via Tourist Information Schwang
+ au\, schwangau.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/alphornspielen-am-forgg
+ ensee-eb7a6b6ff69be00fe1064e0a2d8aeaf5a.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-live-musik-abend-ludwig-0829@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260829T203000
+DTEND;TZID=Europe/Berlin:20260829T223000
+SUMMARY:Live-Musik-Abend in der Ludwig Bar
+LOCATION:Ludwig Bar\, AMERON Neuschwanstein Alpsee Resort\, Hohenschwangau
+DESCRIPTION:Weekly Saturday live music evening in the Ludwig Bar of the AME
+ RON Neuschwanstein Alpsee Resort in Hohenschwangau\, with changing artists
+  each week. Info via the hotel or the Schwangau event calendar at schwanga
+ u.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/live-musik-abend-e8dd13
+ 780133977d75db9912439c9a28a.html
+CATEGORIES:bar-music
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-offentliche-schlossfuhrung-schloss-kronburg@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260830T140000
 DTEND;TZID=Europe/Berlin:20260830T160000
 SUMMARY:Öffentliche Schlossführung Schloss Kronburg
@@ -699,9 +1070,27 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-alphornspielen-alpsee-0831@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260831T190000
+DTEND;TZID=Europe/Berlin:20260831T210000
+SUMMARY:Alphornspielen am Alpsee
+LOCATION:Alpsee\, Hohenschwangau
+DESCRIPTION:Alphorn players perform on the shore of the Alpsee below Schlos
+ s Hohenschwangau\, alpine horn music in front of the royal castle scenery.
+  From late August the start moves to 19:00. Free open-air event near the A
+ lpseebad\; info via Tourist Information Schwangau\, schwangau.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/alphornspielen-am-alpse
+ e-e43b56442abe996e1a46bbd95b239b2e3.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-festival-vielsaitig-eroffnungskonzert-dem@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260902T190000
 DTEND;TZID=Europe/Berlin:20260902T210000
 SUMMARY:Festival vielsaitig: Eröffnungskonzert mit dem Leonkoro Quartet
@@ -726,7 +1115,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-vielsaitig-florian-weber@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260903T190000
 DTEND;TZID=Europe/Berlin:20260903T210000
 SUMMARY:Festival vielsaitig: Florian Weber\, Klavier
@@ -743,7 +1132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-ritterabenteuer-auf-burgruine-sulzberg-0904@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260904T140000
 DTEND;TZID=Europe/Berlin:20260904T170000
 SUMMARY:Ritterabenteuer auf der Burgruine Sulzberg
@@ -762,7 +1151,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-vielsaitig-musikalische-teestunde@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260904T170000
 DTEND;TZID=Europe/Berlin:20260904T190000
 SUMMARY:Festival vielsaitig: Musikalische Teestunde
@@ -779,7 +1168,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-vielsaitig-kammerkonzert-brahms@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260904T190000
 DTEND;TZID=Europe/Berlin:20260904T210000
 SUMMARY:Festival vielsaitig: Kammerkonzert Brahms und Dvořák
@@ -798,7 +1187,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-heimatabend-schlossbrauhaus@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260904T190000
 DTEND;TZID=Europe/Berlin:20260904T210000
 SUMMARY:Heimatabend am Schlossbrauhaus
@@ -815,7 +1204,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-absolute-musical-grosse-musicalgala@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260904T193000
 DTEND;TZID=Europe/Berlin:20260904T213000
 SUMMARY:Absolute Musical - Die große Musicalgala
@@ -832,7 +1221,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-vielsaitig-abschlusskonzert-des@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260905T190000
 DTEND;TZID=Europe/Berlin:20260905T210000
 SUMMARY:Festival vielsaitig: Abschlusskonzert des Meisterkurses
@@ -848,9 +1237,27 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-live-musik-abend-ludwig-0905@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260905T203000
+DTEND;TZID=Europe/Berlin:20260905T223000
+SUMMARY:Live-Musik-Abend in der Ludwig Bar
+LOCATION:Ludwig Bar\, AMERON Neuschwanstein Alpsee Resort\, Hohenschwangau
+DESCRIPTION:Weekly Saturday live music evening in the Ludwig Bar of the AME
+ RON Neuschwanstein Alpsee Resort in Hohenschwangau\, with changing artists
+  each week. Info via the hotel or the Schwangau event calendar at schwanga
+ u.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/live-musik-abend-e8dd13
+ 780133977d75db9912439c9a28a.html
+CATEGORIES:bar-music
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-6-standkonzert-musikkapelle-weissensee@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260906T103000
 DTEND;TZID=Europe/Berlin:20260906T123000
 SUMMARY:6. Standkonzert der Musikkapelle Weissensee
@@ -866,9 +1273,26 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-chill-dine-live-musik-0906@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260906T163000
+DTEND;TZID=Europe/Berlin:20260906T183000
+SUMMARY:Chill & Dine mit Live-Musik
+LOCATION:Hotel Rübezahl\, Schwangau
+DESCRIPTION:Open-air evening with live music and castle view at Hotel Rübe
+ zahl between Schwangau and Hohenschwangau. Info via Hotel Rübezahl or the
+  Schwangau event calendar at schwangau.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/chill-dine-e2e23c9eeb6c
+ d9b5f5343ae2f2ea4a47c.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-festival-vielsaitig-trio-con@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260907T190000
 DTEND;TZID=Europe/Berlin:20260907T210000
 SUMMARY:Festival vielsaitig: Trio con Brio Copenhagen
@@ -884,9 +1308,27 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-alphornspielen-alpsee-0907@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260907T190000
+DTEND;TZID=Europe/Berlin:20260907T210000
+SUMMARY:Alphornspielen am Alpsee
+LOCATION:Alpsee\, Hohenschwangau
+DESCRIPTION:Alphorn players perform on the shore of the Alpsee below Schlos
+ s Hohenschwangau\, alpine horn music in front of the royal castle scenery.
+  Free open-air event near the Alpseebad. Info via Tourist Information Schw
+ angau\, schwangau.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/alphornspielen-am-alpse
+ e-e43b56442abe996e1a46bbd95b239b2e3.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-festival-vielsaitig-bach-gambensonaten@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260908T190000
 DTEND;TZID=Europe/Berlin:20260908T210000
 SUMMARY:Festival vielsaitig: Bach Gambensonaten mit Romaniuk und Steckel
@@ -904,7 +1346,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-vielsaitig-abschlusskonzert-mgv@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260909T190000
 DTEND;TZID=Europe/Berlin:20260909T210000
 SUMMARY:Festival vielsaitig: Abschlusskonzert MGV Walhalla zum Seidlwirt
@@ -922,7 +1364,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-musikkapelle-schwangau-schlossbrauhaus@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260910T193000
 DTEND;TZID=Europe/Berlin:20260910T213000
 SUMMARY:Musikkapelle Schwangau am Schlossbrauhaus
@@ -938,7 +1380,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-ludwig2-musical-0911@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260911T193000
 DTEND;TZID=Europe/Berlin:20260911T213000
 SUMMARY:Ludwig2 Das Musical
@@ -958,9 +1400,63 @@ TRIGGER:-P14D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-alphornspielen-forggensee-0912@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260912T180000
+DTEND;TZID=Europe/Berlin:20260912T200000
+SUMMARY:Alphornspielen am Forggensee
+LOCATION:Bootsanlegestelle Waltenhofen\, Schwangau
+DESCRIPTION:Alphorn players perform at the boat landing in Schwangau-Walten
+ hofen on the Forggensee\, alpine horn music by the lake a few minutes from
+  Hohenschwangau. Free open-air event. Info via Tourist Information Schwang
+ au\, schwangau.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/alphornspielen-am-forgg
+ ensee-eb7a6b6ff69be00fe1064e0a2d8aeaf5a.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-live-musik-abend-ludwig-0912@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260912T203000
+DTEND;TZID=Europe/Berlin:20260912T223000
+SUMMARY:Live-Musik-Abend in der Ludwig Bar
+LOCATION:Ludwig Bar\, AMERON Neuschwanstein Alpsee Resort\, Hohenschwangau
+DESCRIPTION:Weekly Saturday live music evening in the Ludwig Bar of the AME
+ RON Neuschwanstein Alpsee Resort in Hohenschwangau\, with changing artists
+  each week. Info via the hotel or the Schwangau event calendar at schwanga
+ u.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/live-musik-abend-e8dd13
+ 780133977d75db9912439c9a28a.html
+CATEGORIES:bar-music
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-alphornspielen-alpsee-0914@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260914T190000
+DTEND;TZID=Europe/Berlin:20260914T210000
+SUMMARY:Alphornspielen am Alpsee
+LOCATION:Alpsee\, Hohenschwangau
+DESCRIPTION:Last listed date of the season for the alphorn players on the s
+ hore of the Alpsee below Schloss Hohenschwangau\, alpine horn music in fro
+ nt of the royal castle scenery. Free open-air event near the Alpseebad. In
+ fo via Tourist Information Schwangau\, schwangau.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/alphornspielen-am-alpse
+ e-e43b56442abe996e1a46bbd95b239b2e3.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-gastspiel-iberl-buhne-hollerkuacherl@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260917T200000
 DTEND;TZID=Europe/Berlin:20260917T220000
 SUMMARY:Gastspiel Iberl Bühne: Hollerküacherl
@@ -977,7 +1473,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-lechlauf-4-0-weissenbach@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260919T090000
 DTEND;TZID=Europe/Berlin:20260919T110000
 SUMMARY:Lechlauf 4.0 Weißenbach am Lech
@@ -993,9 +1489,27 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-alphornspielen-forggensee-0919@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260919T180000
+DTEND;TZID=Europe/Berlin:20260919T200000
+SUMMARY:Alphornspielen am Forggensee
+LOCATION:Bootsanlegestelle Waltenhofen\, Schwangau
+DESCRIPTION:Last listed date of the season for the alphorn players at the b
+ oat landing in Schwangau-Waltenhofen on the Forggensee\, alpine horn music
+  by the lake. Free open-air event. Info via Tourist Information Schwangau\
+ , schwangau.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/alphornspielen-am-forgg
+ ensee-eb7a6b6ff69be00fe1064e0a2d8aeaf5a.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-classix-kempten-universum-fabian@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260919T190000
 DTEND;TZID=Europe/Berlin:20260919T210000
 SUMMARY:ClassiX Kempten: Universum - Fabian Ziegler & Daniel Schnyder
@@ -1012,7 +1526,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-rudolf-musical-premiere-festspielhaus@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260919T193000
 DTEND;TZID=Europe/Berlin:20260919T213000
 SUMMARY:RUDOLF - Das Musical (Premiere im Festspielhaus)
@@ -1028,9 +1542,27 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-live-musik-abend-ludwig-0919@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260919T203000
+DTEND;TZID=Europe/Berlin:20260919T223000
+SUMMARY:Live-Musik-Abend in der Ludwig Bar
+LOCATION:Ludwig Bar\, AMERON Neuschwanstein Alpsee Resort\, Hohenschwangau
+DESCRIPTION:Weekly Saturday live music evening in the Ludwig Bar of the AME
+ RON Neuschwanstein Alpsee Resort in Hohenschwangau\, with changing artists
+  each week. Info via the hotel or the Schwangau event calendar at schwanga
+ u.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/live-musik-abend-e8dd13
+ 780133977d75db9912439c9a28a.html
+CATEGORIES:bar-music
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-offentliche-schlossfuhrung-schloss-kronburg-0920@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260920T140000
 DTEND;TZID=Europe/Berlin:20260920T160000
 SUMMARY:Öffentliche Schlossführung Schloss Kronburg
@@ -1048,7 +1580,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-classix-kempten-sonnenaufgang-chelsea@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260920T170000
 DTEND;TZID=Europe/Berlin:20260920T190000
 SUMMARY:ClassiX Kempten: Sonnenaufgang - Chelsea Zurflüh
@@ -1064,7 +1596,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-ev-fussen-sc-riessersee@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260920T180000
 DTEND;TZID=Europe/Berlin:20260920T203000
 SUMMARY:EV Füssen vs SC Riessersee (Season Home Opener\, Derby)
@@ -1089,7 +1621,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-zirkus-charles-knie-splash@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260923T153000
 DTEND;TZID=Europe/Berlin:20260923T173000
 SUMMARY:Zirkus Charles Knie: SPLASH 2026 (Familienvorstellung)
@@ -1108,7 +1640,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-classix-kempten-zenit-simon@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260923T190000
 DTEND;TZID=Europe/Berlin:20260923T210000
 SUMMARY:ClassiX Kempten: Zenit - Simon Höfele
@@ -1125,7 +1657,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-classix-kempten-1001-nacht@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260924T190000
 DTEND;TZID=Europe/Berlin:20260924T210000
 SUMMARY:ClassiX Kempten: 1001 Nacht - Mozart meets Scheherazade
@@ -1139,9 +1671,26 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-musikalische-grusse@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260924T193000
+DTEND;TZID=Europe/Berlin:20260924T213000
+SUMMARY:Musikalische Grüße
+LOCATION:Bannwaldsee Stadl\, Schwangau
+DESCRIPTION:Evening of traditional Bavarian Blasmusik (brass band) at the B
+ annwaldsee Stadl in Schwangau. Info via the Schwangau event calendar at sc
+ hwangau.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/musikalische-gruesse-e4
+ 20f2794403c0606610b1fbab90aa529.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-classix-kempten-moonlight-david@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260925T190000
 DTEND;TZID=Europe/Berlin:20260925T210000
 SUMMARY:ClassiX Kempten: Moonlight - David Orlowsky
@@ -1157,7 +1706,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-open-mic-6-kulturinitiative@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260925T190000
 DTEND;TZID=Europe/Berlin:20260925T210000
 SUMMARY:Open Mic #6 der Kulturinitiative Füssen
@@ -1174,7 +1723,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-nationen-eroffnungskonzert-sol@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260925T193000
 DTEND;TZID=Europe/Berlin:20260925T213000
 SUMMARY:Festival der Nationen: Eröffnungskonzert mit Sol Gabetta
@@ -1196,10 +1745,44 @@ TRIGGER:-P14D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-musikalische-grusse-0925@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260925T193000
+DTEND;TZID=Europe/Berlin:20260925T213000
+SUMMARY:Musikalische Grüße
+LOCATION:Schlossbrauhaus\, Schwangau
+DESCRIPTION:Kurkonzert-style evening of traditional Bavarian Blasmusik (bra
+ ss band) at the Schlossbrauhaus in Schwangau. Info via the Schwangau event
+  calendar at schwangau.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/musikalische-gruesse-e4
+ 20f2794403c0606610b1fbab90aa529.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-blasmusikfest-0925@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260925T193000
+DTEND;TZID=Europe/Berlin:20260925T213000
+SUMMARY:Blasmusikfest
+LOCATION:Bannwaldsee-Stadl\, Schwangau
+DESCRIPTION:Bavarian evening with traditional Blasmusik (brass band) at the
+  Bannwaldsee-Stadl by the Bannwaldsee in Schwangau. Info via the Schwangau
+  event calendar at schwangau.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/blasmusikfest-ed015bc85
+ 1a19109e7acf724c10c5b60e.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-odeon-jugendsymphonieorchester-munchen-jubilaumskonzert@ga
  rylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260926T190000
 DTEND;TZID=Europe/Berlin:20260926T220000
 SUMMARY:ODEON Jugendsymphonieorchester München: Jubiläumskonzert
@@ -1217,7 +1800,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-nationen-igor-levit@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260926T200000
 DTEND;TZID=Europe/Berlin:20260926T220000
 SUMMARY:Festival der Nationen: Igor Levit & Next Generation
@@ -1238,9 +1821,27 @@ TRIGGER:-P14D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-live-musik-abend-ludwig-0926@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20260926T203000
+DTEND;TZID=Europe/Berlin:20260926T223000
+SUMMARY:Live-Musik-Abend in der Ludwig Bar
+LOCATION:Ludwig Bar\, AMERON Neuschwanstein Alpsee Resort\, Hohenschwangau
+DESCRIPTION:Last listed Saturday live music evening of the season in the Lu
+ dwig Bar of the AMERON Neuschwanstein Alpsee Resort in Hohenschwangau\, wi
+ th changing artists each week. Info via the hotel or the Schwangau event c
+ alendar at schwangau.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/live-musik-abend-e8dd13
+ 780133977d75db9912439c9a28a.html
+CATEGORIES:bar-music
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-heiterwanger-see-lauf@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260927T110000
 DTEND;TZID=Europe/Berlin:20260927T130000
 SUMMARY:Heiterwanger-See-Lauf
@@ -1257,7 +1858,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-classix-kempten-sonnenuntergang-melodie@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260927T170000
 DTEND;TZID=Europe/Berlin:20260927T190000
 SUMMARY:ClassiX Kempten: Sonnenuntergang - Mélodie Zhao\, Klavier
@@ -1273,7 +1874,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-nationen-pianissimo-mao@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260927T190000
 DTEND;TZID=Europe/Berlin:20260927T210000
 SUMMARY:Festival der Nationen: Pianissimo! mit Mao Fujita
@@ -1295,7 +1896,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-nationen-quadro-nuevo@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260929T200000
 DTEND;TZID=Europe/Berlin:20260929T220000
 SUMMARY:Festival der Nationen: Quadro Nuevo - 30 Jahre um die Welt
@@ -1312,7 +1913,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-yakari-freunde-furs-leben@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260930T163000
 DTEND;TZID=Europe/Berlin:20260930T183000
 SUMMARY:Yakari - Freunde fürs Leben (Kindermusical)
@@ -1329,7 +1930,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-wenn-buhne-auf-leben@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260930T180000
 DTEND;TZID=Europe/Berlin:20260930T200000
 SUMMARY:Wenn Bühne auf Leben trifft: Jan Ammann und Ensemble
@@ -1346,7 +1947,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-nationen-julia-fischer@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20260930T200000
 DTEND;TZID=Europe/Berlin:20260930T220000
 SUMMARY:Festival der Nationen: Julia Fischer spielt Vivaldis Vier Jahreszei
@@ -1369,9 +1970,26 @@ TRIGGER:-P14D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-blasmusikfest-1002@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20261002T193000
+DTEND;TZID=Europe/Berlin:20261002T213000
+SUMMARY:Blasmusikfest
+LOCATION:Bannwaldsee-Stadl\, Schwangau
+DESCRIPTION:Bavarian evening with traditional Blasmusik (brass band) at the
+  Bannwaldsee-Stadl by the Bannwaldsee in Schwangau. Info via the Schwangau
+  event calendar at schwangau.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/blasmusikfest-ed015bc85
+ 1a19109e7acf724c10c5b60e.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-festival-nationen-rudolf-buchbinder@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261002T200000
 DTEND;TZID=Europe/Berlin:20261002T220000
 SUMMARY:Festival der Nationen: Rudolf Buchbinder spielt Mozart
@@ -1393,7 +2011,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-kunsthandwerkermarkt-schlossbrauhaus@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261003T110000
 DTEND;TZID=Europe/Berlin:20261004T170000
 SUMMARY:Kunsthandwerkermarkt am Schlossbrauhaus
@@ -1410,7 +2028,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-nationen-sonderkonzert-zum@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261003T200000
 DTEND;TZID=Europe/Berlin:20261003T220000
 SUMMARY:Festival der Nationen: Sonderkonzert zum 70. Geburtstag von Nigel K
@@ -1434,7 +2052,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-erntedank-kirchzug-kirchenkaffee@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261004T084500
 DTEND;TZID=Europe/Berlin:20261004T104500
 SUMMARY:Erntedank Kirchzug mit Kirchenkaffee
@@ -1451,7 +2069,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-nationen-abschlussgala-270@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261004T190000
 DTEND;TZID=Europe/Berlin:20261004T210000
 SUMMARY:Festival der Nationen: Abschlussgala 270 Jahre Mozart mit Rolando V
@@ -1473,9 +2091,27 @@ TRIGGER:-P14D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-kurkonzert-musikkapelle-schwangau@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20261008T193000
+DTEND;TZID=Europe/Berlin:20261008T203000
+SUMMARY:Kurkonzert der Musikkapelle Schwangau
+LOCATION:Schlossbrauhaus\, Schwangau
+DESCRIPTION:The Musikkapelle Schwangau (traditional Bavarian brass band) pe
+ rforms its Kurkonzert at the Schlossbrauhaus\, listed in the Schwangau cal
+ endar as Musikalische Grüße. Brass band music\, with the Männerchor mal
+ e choir at earlier editions. Free\; info at musikkapelle-schwangau.de.
+URL:https://www.musikkapelle-schwangau.de/termin/eventdetail/89/-/kurkonzer
+ t.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-dav-sektionsabend-unterwegs-polarkreis@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261008T200000
 DTEND;TZID=Europe/Berlin:20261008T220000
 SUMMARY:DAV Sektionsabend: Unterwegs im Polarkreis (Armin Hofmann)
@@ -1493,7 +2129,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-2-fire-trail-nesselwang@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261010T100000
 DTEND;TZID=Europe/Berlin:20261010T120000
 SUMMARY:2. Fire Trail Nesselwang
@@ -1509,9 +2145,26 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-blasmusikfest-1010@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20261010T193000
+DTEND;TZID=Europe/Berlin:20261010T213000
+SUMMARY:Blasmusikfest
+LOCATION:Bannwaldsee-Stadl\, Schwangau
+DESCRIPTION:Bavarian evening with traditional Blasmusik (brass band) at the
+  Bannwaldsee-Stadl by the Bannwaldsee in Schwangau. Info via the Schwangau
+  event calendar at schwangau.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/blasmusikfest-ed015bc85
+ 1a19109e7acf724c10c5b60e.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-colomansfest-colomansritt@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261011T093000
 DTEND;TZID=Europe/Berlin:20261011T113000
 SUMMARY:Colomansfest mit Colomansritt
@@ -1531,7 +2184,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-reinhold-messner-uber-leben@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261012T200000
 DTEND;TZID=Europe/Berlin:20261012T220000
 SUMMARY:Reinhold Messner: Über Leben - Der neue Live-Vortrag
@@ -1553,9 +2206,27 @@ TRIGGER:-P14D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-kurkonzert-musikkapelle-schwangau-1015@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20261015T193000
+DTEND;TZID=Europe/Berlin:20261015T203000
+SUMMARY:Kurkonzert der Musikkapelle Schwangau
+LOCATION:Schlossbrauhaus\, Schwangau
+DESCRIPTION:The Musikkapelle Schwangau (traditional Bavarian brass band) pe
+ rforms its Kurkonzert at the Schlossbrauhaus\, listed in the Schwangau cal
+ endar as Musikalische Grüße. Brass band music in the brewery hall or out
+ doors in good weather. Free\; info at musikkapelle-schwangau.de.
+URL:https://www.musikkapelle-schwangau.de/termin/eventdetail/91/-/kurkonzer
+ t.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-35-rottachseelauf-oy-mittelberg@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261017T100000
 DTEND;TZID=Europe/Berlin:20261017T120000
 SUMMARY:35. Rottachseelauf Oy-Mittelberg
@@ -1572,9 +2243,26 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-blasmusikabend@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20261017T193000
+DTEND;TZID=Europe/Berlin:20261017T213000
+SUMMARY:Blasmusikabend
+LOCATION:Bannwaldsee-Stadl\, Schwangau
+DESCRIPTION:Evening of traditional Bavarian Blasmusik (brass band) at the B
+ annwaldsee-Stadl in Schwangau. Info via the Schwangau event calendar at sc
+ hwangau.de.
+URL:https://veranstaltungen.erlebe.bayern/schwangau/blasmusikabend-ef49de91
+ 92bcf91e9029ae345c2d9f738.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-torgellenabend@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261017T200000
 DTEND;TZID=Europe/Berlin:20261017T220000
 SUMMARY:Törgellenabend
@@ -1591,7 +2279,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-gunther-jauch-trifft-best@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261018T150000
 DTEND;TZID=Europe/Berlin:20261018T170000
 SUMMARY:Günther Jauch trifft Best of Festspielhaus
@@ -1608,7 +2296,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-reinhold-messner-uber-leben-1018@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261018T180000
 DTEND;TZID=Europe/Berlin:20261018T200000
 SUMMARY:Reinhold Messner: Über Leben - Der neue Live-Vortrag
@@ -1631,7 +2319,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-zeppelin-musical@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261022T160000
 DTEND;TZID=Europe/Berlin:20261022T180000
 SUMMARY:Zeppelin - Das Musical
@@ -1650,7 +2338,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-ev-fussen-esv-kaufbeuren@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261023T193000
 DTEND;TZID=Europe/Berlin:20261023T220000
 SUMMARY:EV Füssen vs ESV Kaufbeuren (Allgäu Derby)
@@ -1673,7 +2361,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-herbstmarkt-weissensee@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261025T100000
 DTEND;TZID=Europe/Berlin:20261025T120000
 SUMMARY:Herbstmarkt Weissensee
@@ -1688,9 +2376,26 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-kurkonzert-musikkapelle-schwangau-1029@garylewis
+SEQUENCE:0
+DTSTAMP:20260802T072202Z
+DTSTART;TZID=Europe/Berlin:20261029T193000
+DTEND;TZID=Europe/Berlin:20261029T203000
+SUMMARY:Kurkonzert der Musikkapelle Schwangau
+LOCATION:Schlossbrauhaus\, Schwangau
+DESCRIPTION:Final listed Kurkonzert of the season by the Musikkapelle Schwa
+ ngau\, a traditional Bavarian brass band founded in 1816\, at the Schlossb
+ rauhaus. Brass band music\, free entry. Info at musikkapelle-schwangau.de.
+URL:https://www.musikkapelle-schwangau.de/termin/eventdetail/92/-/kurkonzer
+ t.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-klassiker-fc-bayern-munchen@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261031T183000
 DTEND;TZID=Europe/Berlin:20261031T203000
 SUMMARY:Der Klassiker: FC Bayern München vs Borussia Dortmund
@@ -1714,7 +2419,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-schone-biest-musical@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261107T150000
 DTEND;TZID=Europe/Berlin:20261107T170000
 SUMMARY:Die Schöne und das Biest - das Musical
@@ -1730,7 +2435,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-guacayo-live-cafe-bar@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261107T180000
 DTEND;TZID=Europe/Berlin:20261107T200000
 SUMMARY:GUACAYO live im Café Bar Ifni
@@ -1748,7 +2453,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-konzert-frieden-markus-stockhausen@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261108T200000
 DTEND;TZID=Europe/Berlin:20261108T220000
 SUMMARY:Ein Konzert für Frieden: Markus Stockhausen\, Dinesh Mishra & Frie
@@ -1768,7 +2473,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-25-romantischer-weihnachtsmarkt-schloss@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261113T140000
 DTEND;TZID=Europe/Berlin:20261113T160000
 SUMMARY:25. Romantischer Weihnachtsmarkt Schloss Kronburg (1. Wochenende)
@@ -1786,7 +2491,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-lumagica-reutte-eroffnung-des@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261113T170000
 DTEND;TZID=Europe/Berlin:20261113T210000
 SUMMARY:Lumagica Reutte - Eröffnung des Lichterparks auf Ehrenberg
@@ -1806,7 +2511,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-veteranenjahrtag@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261115T090000
 DTEND;TZID=Europe/Berlin:20261115T110000
 SUMMARY:Veteranenjahrtag
@@ -1824,7 +2529,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-nfl-munich-game-2026@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261115T153000
 DTEND;TZID=Europe/Berlin:20261115T190000
 SUMMARY:NFL Munich Game 2026: New England Patriots vs Detroit Lions
@@ -1847,7 +2552,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-25-romantischer-weihnachtsmarkt-schloss-1120@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261120T140000
 DTEND;TZID=Europe/Berlin:20261120T160000
 SUMMARY:25. Romantischer Weihnachtsmarkt Schloss Kronburg (2. Wochenende)
@@ -1864,7 +2569,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-alice-wunderland-theater-tanz@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261120T180000
 DTEND;TZID=Europe/Berlin:20261120T200000
 SUMMARY:Alice im Wunderland (Theater\, Tanz\, Akrobatik\, Zirkuskunst)
@@ -1881,7 +2586,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-geist-weihnacht-musical@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261127T190000
 DTEND;TZID=Europe/Berlin:20261127T210000
 SUMMARY:Der Geist der Weihnacht - Das Musical
@@ -1900,7 +2605,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-jahreskonzert-musikkapelle-weissensee@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261128T200000
 DTEND;TZID=Europe/Berlin:20261128T220000
 SUMMARY:Jahreskonzert der Musikkapelle Weissensee
@@ -1919,7 +2624,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-weihnachtsmarkt-kiosk@garylewis
 SEQUENCE:0
-DTSTAMP:20260802T070003Z
+DTSTAMP:20260802T072202Z
 DTSTART;TZID=Europe/Berlin:20261129T120000
 DTEND;TZID=Europe/Berlin:20261129T140000
 SUMMARY:Weihnachtsmarkt am Kiosk
