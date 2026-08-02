@@ -238,6 +238,20 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-abendfahrt-live-musik-alpengrageeler@garylewis",
+    "title": "Abendfahrt mit Live-Musik \"AlpenGrageeler\"",
+    "start": "2026-08-05T19:30:00+02:00",
+    "end": "2026-08-05T21:30:00+02:00",
+    "location": "Bootshafen Füssen (MS Füssen), Füssen",
+    "description": "Evening cruise on the Forggensee aboard the MS Füssen with live Volksmusik and Schlager by the duo AlpenGrageeler (Andi and Gerd). Boarding from 19:00, departure 19:30, duration about 2 hours. Adults 28 EUR, children 14 EUR; tickets online via the Forggensee-Schifffahrt shop or at the evening box office on board.",
+    "url": "https://www.forggensee-schifffahrt.de/veranstaltungen/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "cruise",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
     "uid": "fuessen-2026-musikkapelle-prem-schlossbrauhaus@garylewis",
     "title": "Musikkapelle Prem am Schlossbrauhaus",
     "start": "2026-08-06T19:30:00+02:00",
@@ -291,6 +305,20 @@
     "sequence": 1,
     "category": "classical",
     "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-sisi-ludwigs-musicalschiff-premiere@garylewis",
+    "title": "Sisi & Ludwigs Musicalschiff (Premiere)",
+    "start": "2026-08-07T19:45:00+02:00",
+    "end": "2026-08-07T21:45:00+02:00",
+    "location": "Bootshafen Füssen (MS Füssen), Füssen",
+    "description": "Sunset musical cruise aboard the MS Füssen with musical stars Janet Chvatal and Marc Gremm plus Tanja Versal as Sisi and König Ludwig II, with guest star Jan Ammann on the premiere weekend 7 to 9 August. The show then runs Friday to Sunday evenings through 30 August 2026, boarding 19:15, departure 19:45, about 2 hours, only about 110 guests per sailing. Tickets from 61.90 EUR (premiere dates from 81.90 EUR), sold exclusively online at musicalschiff.de.",
+    "url": "https://www.musicalschiff.de/tickets/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "cruise",
+    "alarm": true,
     "last_verified": "2026-08-02"
   },
   {
@@ -402,6 +430,20 @@
     "status": "confirmed",
     "sequence": 2,
     "category": "classical",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-abendfahrt-den-alphornblasern-alpen@garylewis",
+    "title": "Abendfahrt mit den Alphornbläsern \"Alpen-Hörner\"",
+    "start": "2026-08-12T19:30:00+02:00",
+    "end": "2026-08-12T21:30:00+02:00",
+    "location": "Bootshafen Füssen (MS Füssen), Füssen",
+    "description": "Atmospheric evening cruise with the alphorn players Alpen-Hörner, who play from the shore as the ship departs, while the captain gives commentary on the Forggensee and the mountain panorama. Boarding from 19:00, departure 19:30, about 2 hours. Adults 26 EUR, children 13 EUR; tickets online via the Forggensee-Schifffahrt shop or on board.",
+    "url": "https://www.forggensee-schifffahrt.de/veranstaltungen/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "cruise",
     "alarm": false,
     "last_verified": "2026-08-02"
   },
@@ -588,6 +630,20 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-konig-ludwig-abendfahrt@garylewis",
+    "title": "König-Ludwig-Abendfahrt",
+    "start": "2026-08-19T19:30:00+02:00",
+    "end": "2026-08-19T21:30:00+02:00",
+    "location": "Bootshafen Füssen (MS Füssen), Füssen",
+    "description": "Evening themed cruise with the Füssen historian Magnus Peresson, who brings the myth and building projects of König Ludwig II to life while the ship passes views of the royal castles. Boarding from 19:00, departure 19:30, about 2 hours. Adults 26 EUR, children 13 EUR; tickets online via the Forggensee-Schifffahrt shop or on board.",
+    "url": "https://www.forggensee-schifffahrt.de/veranstaltungen/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "cruise",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
     "uid": "fuessen-2026-wirtshausbuhne-gluck-kommt-durch@garylewis",
     "title": "Wirtshausbühne: Das Glück kommt durch die Hintertür",
     "start": "2026-08-20T20:00:00+02:00",
@@ -710,6 +766,20 @@
     "status": "confirmed",
     "sequence": 0,
     "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-abendfahrt-den-alphornblasern-alpen-0826@garylewis",
+    "title": "Abendfahrt mit den Alphornbläsern \"Alpen-Hörner\"",
+    "start": "2026-08-26T19:30:00+02:00",
+    "end": "2026-08-26T21:30:00+02:00",
+    "location": "Bootshafen Füssen (MS Füssen), Füssen",
+    "description": "Second August date of the evening cruise with the alphorn players Alpen-Hörner and captain's commentary on the lake and mountain scenery. Boarding from 19:00, departure 19:30, about 2 hours. Adults 26 EUR, children 13 EUR; tickets online via the Forggensee-Schifffahrt shop or on board.",
+    "url": "https://www.forggensee-schifffahrt.de/veranstaltungen/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "cruise",
     "alarm": false,
     "last_verified": "2026-08-02"
   },
@@ -924,6 +994,20 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-rockabilly-abend-den-red@garylewis",
+    "title": "Rockabilly Abend mit den Red Back Spyders",
+    "start": "2026-09-05T19:00:00+02:00",
+    "end": "2026-09-05T21:30:00+02:00",
+    "location": "Bootshafen Füssen (MS Füssen), Füssen",
+    "description": "Rockabilly party cruise on the Forggensee with a live set by the Red Back Spyders. Boarding from 18:30, departure 19:00, about 2.5 hours on the water. 42 EUR including a welcome drink; tickets online via the Forggensee-Schifffahrt shop or at the evening box office on board.",
+    "url": "https://www.forggensee-schifffahrt.de/veranstaltungen/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "cruise",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
     "uid": "fuessen-2026-live-musik-abend-ludwig-0905@garylewis",
     "title": "Live-Musik-Abend in der Ludwig Bar",
     "start": "2026-09-05T20:30:00+02:00",
@@ -1022,6 +1106,20 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-kindermottofahrt-starke-kinder-auf@garylewis",
+    "title": "Kindermottofahrt \"Starke Kinder auf hoher See\"",
+    "start": "2026-09-10T18:00:00+02:00",
+    "end": "2026-09-10T20:00:00+02:00",
+    "location": "Bootshafen Füssen (MS Füssen), Füssen",
+    "description": "Children's themed cruise \"Unter dem Meer\", an underwater adventure with games and activities run by the katholischer Kindergarten St. Gabriel. Boarding from 17:30, departure 18:00, about 2 hours. Adults 24 EUR, children 5 EUR; tickets online via the Forggensee-Schifffahrt shop or on board.",
+    "url": "https://www.forggensee-schifffahrt.de/veranstaltungen/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "cruise",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
     "uid": "fuessen-2026-musikkapelle-schwangau-schlossbrauhaus@garylewis",
     "title": "Musikkapelle Schwangau am Schlossbrauhaus",
     "start": "2026-09-10T19:30:00+02:00",
@@ -1064,6 +1162,20 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-bierverkostung-schaffler-brau@garylewis",
+    "title": "Bierverkostung mit Schäffler Bräu",
+    "start": "2026-09-12T19:00:00+02:00",
+    "end": "2026-09-12T21:30:00+02:00",
+    "location": "Bootshafen Füssen (MS Füssen), Füssen",
+    "description": "Beer tasting cruise with Schäffler Bräu and the StorfWirt, pairing six selected beers with a four course menu against the Forggensee panorama. Boarding from 18:30, departure 19:00, about 2.5 hours; admission from age 16. From 70 EUR; advance booking via the Forggensee-Schifffahrt online shop is required since menu events cannot be bought at the on-board box office.",
+    "url": "https://www.forggensee-schifffahrt.de/veranstaltungen/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "cruise",
+    "alarm": true,
+    "last_verified": "2026-08-02"
+  },
+  {
     "uid": "fuessen-2026-live-musik-abend-ludwig-0912@garylewis",
     "title": "Live-Musik-Abend in der Ludwig Bar",
     "start": "2026-09-12T20:30:00+02:00",
@@ -1102,6 +1214,20 @@
     "status": "confirmed",
     "sequence": 0,
     "category": "community",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-rockevent-evil-lions@garylewis",
+    "title": "Rockevent mit Evil Lions",
+    "start": "2026-09-18T19:00:00+02:00",
+    "end": "2026-09-18T21:30:00+02:00",
+    "location": "Bootshafen Füssen (MS Füssen), Füssen",
+    "description": "\"We rock the Ship\" party cruise with cover rock band Evil Lions from the Unterallgäu, playing classic rock and heavy metal from the 80s and 90s through to current hits. Boarding from 18:30, departure 19:00, about 2.5 hours. 42 EUR including a welcome drink; tickets online via the Forggensee-Schifffahrt shop or at the evening box office on board.",
+    "url": "https://www.forggensee-schifffahrt.de/veranstaltungen/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "cruise",
     "alarm": false,
     "last_verified": "2026-08-02"
   },
@@ -1302,6 +1428,20 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-wiesn-bord@garylewis",
+    "title": "Wiesn an Bord",
+    "start": "2026-09-25T19:00:00+02:00",
+    "end": "2026-09-25T21:30:00+02:00",
+    "location": "Bootshafen Füssen (MS Füssen), Füssen",
+    "description": "Oktoberfest evening on the Forggensee with hearty Brotzeit, beer and live entertainment by the Original Wasenmooser; Dirndl and Lederhosn encouraged. Boarding from 18:30, departure 19:00, about 2.5 hours. Adults 35 EUR, children 17.50 EUR, including a welcome drink; tickets online via the Forggensee-Schifffahrt shop or on board.",
+    "url": "https://www.forggensee-schifffahrt.de/veranstaltungen/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "cruise",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
     "uid": "fuessen-2026-festival-nationen-eroffnungskonzert-sol@garylewis",
     "title": "Festival der Nationen: Eröffnungskonzert mit Sol Gabetta",
     "start": "2026-09-25T19:30:00+02:00",
@@ -1344,6 +1484,20 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-fruhschoppen-bord-oktoberfest-wochenende@garylewis",
+    "title": "Frühschoppen an Bord (Oktoberfest-Wochenende)",
+    "start": "2026-09-26T10:00:00+02:00",
+    "end": "2026-09-26T12:00:00+02:00",
+    "location": "Bootshafen Füssen (MS Füssen), Füssen",
+    "description": "Bavarian Frühschoppen with live music aboard the MS Füssen on the 10:00 Große Rundfahrt during the Oktoberfest-Wochenende, at no surcharge over the normal round trip fare of 22 EUR. Boarding from 9:40, departure 10:00, about 2 hours. Tickets on board or via the Forggensee-Schifffahrt online shop.",
+    "url": "https://www.forggensee-schifffahrt.de/wp-content/uploads/2026/04/WEB.pdf",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "cruise",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
     "uid": "fuessen-2026-odeon-jugendsymphonieorchester-munchen-jubilaumskonzert@garylewis",
     "title": "ODEON Jugendsymphonieorchester München: Jubiläumskonzert",
     "start": "2026-09-26T19:00:00+02:00",
@@ -1354,6 +1508,20 @@
     "status": "confirmed",
     "sequence": 0,
     "category": "classical",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-wiesn-bord-0926@garylewis",
+    "title": "Wiesn an Bord",
+    "start": "2026-09-26T19:00:00+02:00",
+    "end": "2026-09-26T21:30:00+02:00",
+    "location": "Bootshafen Füssen (MS Füssen), Füssen",
+    "description": "Second night of the Oktoberfest cruise with Brotzeit, beer and live entertainment by the Original Wasenmooser during the Oktoberfest-Wochenende of the Forggensee-Schifffahrt. Boarding from 18:30, departure 19:00, about 2.5 hours. Adults 35 EUR, children 17.50 EUR, including a welcome drink; tickets online via the Forggensee-Schifffahrt shop or on board.",
+    "url": "https://www.forggensee-schifffahrt.de/veranstaltungen/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "cruise",
     "alarm": false,
     "last_verified": "2026-08-02"
   },
@@ -1382,6 +1550,20 @@
     "status": "confirmed",
     "sequence": 0,
     "category": "bar-music",
+    "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-fruhschoppen-bord-oktoberfest-wochenende-0927@garylewis",
+    "title": "Frühschoppen an Bord (Oktoberfest-Wochenende)",
+    "start": "2026-09-27T10:00:00+02:00",
+    "end": "2026-09-27T12:00:00+02:00",
+    "location": "Bootshafen Füssen (MS Füssen), Füssen",
+    "description": "Sunday edition of the Frühschoppen with live music aboard the MS Füssen on the 10:00 Große Rundfahrt, closing the Oktoberfest-Wochenende at no surcharge over the normal fare of 22 EUR. Boarding from 9:40, departure 10:00, about 2 hours. Tickets on board or via the Forggensee-Schifffahrt online shop.",
+    "url": "https://www.forggensee-schifffahrt.de/wp-content/uploads/2026/04/WEB.pdf",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "cruise",
     "alarm": false,
     "last_verified": "2026-08-02"
   },
@@ -1526,6 +1708,20 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-wilde-fahrt-den-alpengrageelern@garylewis",
+    "title": "Wilde Fahrt mit den AlpenGrageelern",
+    "start": "2026-10-03T19:30:00+02:00",
+    "end": "2026-10-03T22:00:00+02:00",
+    "location": "Bootshafen Füssen (MS Füssen), Füssen",
+    "description": "Autumn dinner cruise with live music by the AlpenGrageeler and a three course Wildmenü (game menu), drinks not included. Boarding from 19:00, departure 19:30, about 2.5 hours. Adults 75 EUR, children 60 EUR; advance booking via the Forggensee-Schifffahrt online shop is required since menu events cannot be bought at the on-board box office.",
+    "url": "https://www.forggensee-schifffahrt.de/veranstaltungen/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "cruise",
+    "alarm": true,
+    "last_verified": "2026-08-02"
+  },
+  {
     "uid": "fuessen-2026-festival-nationen-sonderkonzert-zum@garylewis",
     "title": "Festival der Nationen: Sonderkonzert zum 70. Geburtstag von Nigel Kennedy",
     "start": "2026-10-03T20:00:00+02:00",
@@ -1607,6 +1803,20 @@
     "sequence": 0,
     "category": "running",
     "alarm": false,
+    "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-krimi-dinner-testament-la@garylewis",
+    "title": "Krimi-Dinner \"Testament à la Carte\"",
+    "start": "2026-10-10T19:00:00+02:00",
+    "end": "2026-10-10T23:00:00+02:00",
+    "location": "Bootshafen Füssen (MS Füssen), Füssen",
+    "description": "Murder mystery dinner cruise closing the event season, an interactive Kriminal-Dinner performance with a three course menu, drinks not included; admission from age 16. Boarding from 18:30, departure 19:00, about 4 hours. 109 EUR per person; advance booking via the Forggensee-Schifffahrt online shop is required since menu events cannot be bought at the on-board box office.",
+    "url": "https://www.forggensee-schifffahrt.de/veranstaltungen/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "cruise",
+    "alarm": true,
     "last_verified": "2026-08-02"
   },
   {

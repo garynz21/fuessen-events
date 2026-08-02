@@ -14,6 +14,7 @@ You are running the biweekly "Füssen Event Check" for Gary, who lives in Weisse
 10. Medieval / Ritter festivals where villages turn medieval (Mittelalterspektakel Eisenberg, Sulzberg Ritterabenteuer, Ritterspiele Türkheim, Kaltenberg, Burgenregion Allgäu-Außerfern events, Castle Days).
 11. Füssen town events: Stadtfest, Nacht der Musik (spring), Mittelaltermarkt, Seefest, and everything public in Weissensee and Schwangau (Vereinstermine: Standkonzerte, Feuerwehrfeste, Colomansfest, Herbstmarkt, Weihnachtsmarkt am Kiosk).
 12. Live music and special nights in Füssen bars and pubs: the Bayrisch Pub, the wine bar and the cocktail bar in the old town, plus similar venues (live bands, acoustic sessions, jam nights, whisky/wine tastings with music). Check their websites and social media via web search plus the fuessen.de event calendar. Only concrete dated events qualify, not weekly opening hours.
+13. Forggensee Schifffahrt SPECIAL cruises only, never the daily scheduled round trips: DJ or party boats, evening/sunset cruises with live music (Dämmerschifffahrt, Abendfahrt mit Musik), brunch cruises, fireworks cruises, Käpt'nsdinner and similar themed one-offs on MS Füssen or MS Allgäu. Expect only a handful per season (roughly June to mid-October).
 
 Time horizon: today + 4 months. Language of event descriptions: English with German event names kept as-is. Never use em dashes in any output text.
 
@@ -35,6 +36,7 @@ Description rule for concerts: always name the instruments or genre in the descr
 - eventim.de city page Füssen, meinestadt.de Füssen/Kempten/Marktoberdorf (circus, talks, kids shows)
 - Web search for: "Reinhold Messner Vortrag" region, "Mundologia" or multivision lectures Allgäu, "Kindermusical" Füssen/Kempten, "Zirkus" Füssen/Kempten/Marktoberdorf, Hochschule Kempten öffentliche Vorträge, FC Bayern special fixtures, Olympiastadion München events.
 - Web search for: "Bayrisch Pub Füssen" events, live music Füssen bar, "Weinbar Füssen" veranstaltung, cocktail bar Füssen live musik.
+- Forggensee Schifffahrt special cruises: the Städtische Forggensee-Schifffahrt pages on fuessen.de plus web search for "Forggensee Schifffahrt Sonderfahrt", "Dämmerschifffahrt Forggensee", "Partyschiff Forggensee" with the current year.
 
 ### Accuracy rules (critical)
 
