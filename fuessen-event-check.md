@@ -38,6 +38,13 @@ Description rule for concerts: always name the instruments or genre in the descr
 - Web search for: "Bayrisch Pub Füssen" events, live music Füssen bar, "Weinbar Füssen" veranstaltung, cocktail bar Füssen live musik.
 - Forggensee Schifffahrt special cruises: the Städtische Forggensee-Schifffahrt pages on fuessen.de plus web search for "Forggensee Schifffahrt Sonderfahrt", "Dämmerschifffahrt Forggensee", "Partyschiff Forggensee" with the current year.
 
+### Exclusions (never add these, and remove them from the database if present)
+
+- Orgel / organ concerts (e.g. OrgelPlus): Gary does not like organ music.
+- Events called Alphornspielen am Alpsee.
+- Any events at Campingplatz Brunnen.
+- Musikkapelle Schwangau appearances at the Schlossbrauhaus (Kurkonzert, Musikalische Grüße with Musikkapelle Schwangau, Sommerfest der Musikkapelle).
+
 ### Accuracy rules (critical)
 
 - Only add an event if you verified its date on a real web page during this run. Never invent or extrapolate events.
