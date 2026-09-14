@@ -1148,6 +1148,20 @@
     "last_verified": "2026-08-24"
   },
   {
+    "uid": "fuessen-ov-20260914@garylewis",
+    "title": "Das Ende der Sterne (The Dog Stars) in English OV",
+    "start": "2026-09-14T20:00:00+02:00",
+    "end": "2026-09-14T22:00:00+02:00",
+    "location": "Alpenfilmtheater, Füssen",
+    "description": "English original version screening of The Dog Stars, German title Das Ende der Sterne, a science fiction adventure thriller about a pilot who survives a devastating pandemic with his dog and defends a remote airfield alongside a former Marine. Runtime about 118 minutes. The only OV screening in the current Kinowoche; the following week's programme is normally published on Mondays.",
+    "url": "https://www.alpenfilmtheater.de/detail/125103/The%20Dog%20Stars",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "ov-film",
+    "alarm": false,
+    "last_verified": "2026-09-14"
+  },
+  {
     "uid": "fuessen-2026-gastspiel-iberl-buhne-hollerkuacherl@garylewis",
     "title": "Gastspiel Iberl Bühne: Hollerküacherl",
     "start": "2026-09-17T20:00:00+02:00",
@@ -1173,7 +1187,7 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-rockevent-evil-lions@garylewis",
@@ -1187,7 +1201,7 @@
     "sequence": 0,
     "category": "cruise",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-lechlauf-4-0-weissenbach@garylewis",
@@ -1232,6 +1246,20 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-fabriklar-open-air-altes-spital@garylewis",
+    "title": "Open Air Konzert: Fabriklar",
+    "start": "2026-09-19T19:00:00+02:00",
+    "end": "2026-09-19T21:30:00+02:00",
+    "location": "Altes Spital, Spitalgasse 6, Füssen",
+    "description": "Open air concert by Fabriklar, an eight piece band playing their own funk and soul arrangements, at the Altes Spital in the Füssen old town, presented by the Kulturinitiative Füssen. Start time not published, time tbc, verify at kifuessen.de.",
+    "url": "https://kifuessen.de/calendar",
+    "status": "tentative",
+    "sequence": 0,
+    "category": "bar-music",
+    "alarm": false,
+    "last_verified": "2026-09-14"
+  },
+  {
     "uid": "fuessen-2026-rudolf-musical-premiere-festspielhaus@garylewis",
     "title": "RUDOLF - Das Musical (Premiere im Festspielhaus)",
     "start": "2026-09-19T19:30:00+02:00",
@@ -1243,7 +1271,7 @@
     "sequence": 0,
     "category": "concert",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-live-musik-abend-ludwig-0919@garylewis",
@@ -1265,13 +1293,27 @@
     "start": "2026-09-20T11:00:00+02:00",
     "end": "2026-09-20T13:00:00+02:00",
     "location": "Biergarten am Festspielhaus, Füssen",
-    "description": "Morning Frühschoppen concert in the Festspielhaus beer garden on the Forggensee shore, live music of unverified genre, typically Bavarian brass. This entry marks the first date; further concerts at 11:00 on 27 September and 3, 11, 18 and 25 October 2026. Free entry, info at das-festspielhaus.de.",
+    "description": "Morning Frühschoppen concert in the Festspielhaus beer garden on the Forggensee shore, live music of unverified genre, typically Bavarian brass. The official programme currently lists further Frühschoppenkonzerte at 11:00 on 27 September and 3 October 2026; later October dates that appeared earlier are no longer listed. Free entry, info at das-festspielhaus.de.",
     "url": "https://das-festspielhaus.de/alle-veranstaltungen/",
+    "status": "confirmed",
+    "sequence": 1,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-09-14"
+  },
+  {
+    "uid": "fuessen-2026-fruehschoppen-illerblosn-0920@garylewis",
+    "title": "Frühschoppen mit den Illerblosn",
+    "start": "2026-09-20T11:00:00+02:00",
+    "end": "2026-09-20T14:00:00+02:00",
+    "location": "Schlossbrauhaus, Schwangau",
+    "description": "Sunday morning Frühschoppen at the Schlossbrauhaus in Schwangau with the Illerblosn, traditional Bavarian Blasmusik (brass band). Free entry to the beer hall, table reservations recommended via the Schlossbrauhaus.",
+    "url": "https://www.schlossbrauhaus.de/service/events",
     "status": "confirmed",
     "sequence": 0,
     "category": "concert",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-offentliche-schlossfuhrung-schloss-kronburg-0920@garylewis",
@@ -1313,7 +1355,7 @@
     "sequence": 0,
     "category": "hockey",
     "alarm": true,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-zirkus-charles-knie-splash@garylewis",
@@ -1342,6 +1384,20 @@
     "category": "classical",
     "alarm": false,
     "last_verified": "2026-08-02"
+  },
+  {
+    "uid": "fuessen-2026-wirtshausmusik-spaetlese-0923@garylewis",
+    "title": "Wirtshausmusik mit der Spätlese Tanzlmusi",
+    "start": "2026-09-23T19:00:00+02:00",
+    "end": "2026-09-23T22:00:00+02:00",
+    "location": "Schlossbrauhaus, Schwangau",
+    "description": "Wirtshausmusik evening at the Schlossbrauhaus in Schwangau with the Spätlese Tanzlmusi playing traditional Bavarian Tanzlmusi, acoustic folk dance music. Free entry, table reservations recommended via the Schlossbrauhaus.",
+    "url": "https://www.schlossbrauhaus.de/service/events",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-classix-kempten-1001-nacht@garylewis",
@@ -1397,7 +1453,7 @@
     "sequence": 0,
     "category": "bar-music",
     "alarm": false,
-    "last_verified": "2026-08-02"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-wiesn-bord@garylewis",
@@ -1411,7 +1467,7 @@
     "sequence": 0,
     "category": "cruise",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-blasmusikfest-0925@garylewis",
@@ -1453,7 +1509,7 @@
     "sequence": 1,
     "category": "concert",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-fruhschoppen-bord-oktoberfest-wochenende@garylewis",
@@ -1495,7 +1551,7 @@
     "sequence": 0,
     "category": "cruise",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-festival-nationen-igor-levit@garylewis",
@@ -1621,7 +1677,7 @@
     "sequence": 1,
     "category": "town",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-festival-nationen-julia-fischer@garylewis",
@@ -1691,7 +1747,7 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-maus-tueroeffnertag-hs-kempten@garylewis",
@@ -1719,7 +1775,7 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-wilde-fahrt-den-alpengrageelern@garylewis",
@@ -1733,7 +1789,7 @@
     "sequence": 0,
     "category": "cruise",
     "alarm": true,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-festival-nationen-sonderkonzert-zum@garylewis",
@@ -1761,7 +1817,7 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-festival-nationen-abschlussgala-270@garylewis",
@@ -1778,6 +1834,20 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-film-forggensee-1004@garylewis",
+    "title": "Filmvorführung \"Der Forggensee\"",
+    "start": "2026-10-04T20:15:00+02:00",
+    "end": "2026-10-04T22:00:00+02:00",
+    "location": "Schlossbrauhaus, Schwangau",
+    "description": "Screening of the documentary film Der Forggensee at the Schlossbrauhaus in Schwangau, about the lake on the doorstep and the surrounding Königswinkel. Repeated on 18 October and 8 November, each at 20:15. Free entry, table reservations recommended.",
+    "url": "https://www.schlossbrauhaus.de/service/events",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "community",
+    "alarm": false,
+    "last_verified": "2026-09-14"
+  },
+  {
     "uid": "fuessen-2026-im-weissen-roessl@garylewis",
     "title": "Im Weißen Rössl (Dinner-Show)",
     "start": "2026-10-07T18:00:00+02:00",
@@ -1789,7 +1859,7 @@
     "sequence": 0,
     "category": "concert",
     "alarm": true,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-dav-sektionsabend-unterwegs-polarkreis@garylewis",
@@ -1803,21 +1873,21 @@
     "sequence": 1,
     "category": "talk",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-2-fire-trail-nesselwang@garylewis",
     "title": "2. Fire Trail Nesselwang",
     "start": "2026-10-10T10:00:00+02:00",
-    "end": "2026-10-10T12:00:00+02:00",
+    "end": "2026-10-10T13:30:00+02:00",
     "location": "Alpspitzbahn, Nesselwang",
-    "description": "The second Fire Trail Nesselwang turns the Alpspitz area into a trail running arena on Saturday 10 October, about 20 minutes from Füssen. The organizer has confirmed the date but start times were not yet published, so time tbc, verify on the event site. Info and registration at fire-trail-nesselwang.de.",
-    "url": "https://www.fire-trail-nesselwang.de/",
-    "status": "tentative",
-    "sequence": 0,
+    "description": "The second Fire Trail Nesselwang turns the Alpspitz area into a trail running arena on Saturday 10 October, about 20 minutes from Füssen. Bib collection 07:30 to 09:30 at the Explorer Hotel start area, first runner off at 10:00 with the rest starting at 30 second intervals by bib number, award ceremony around 13:00 and a grill evening at the fire station from 18:00. Info and registration at fire-trail-nesselwang.de.",
+    "url": "https://www.xn--fire-trail-allgu-9nb.de/nesselwang/wettkampf/zeitplan",
+    "status": "confirmed",
+    "sequence": 1,
     "category": "running",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-krimi-dinner-testament-la@garylewis",
@@ -1831,7 +1901,7 @@
     "sequence": 0,
     "category": "cruise",
     "alarm": true,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-blasmusikfest-1010@garylewis",
@@ -1851,15 +1921,15 @@
     "uid": "fuessen-2026-colomansfest-colomansritt@garylewis",
     "title": "Colomansfest mit Colomansritt",
     "start": "2026-10-11T09:30:00+02:00",
-    "end": "2026-10-11T11:30:00+02:00",
+    "end": "2026-10-11T16:30:00+02:00",
     "location": "St. Coloman Kirche, Schwangau",
-    "description": "Schwangau's biggest traditional festival honouring St. Coloman, with around 200 decorated horses, a festive field mass, horse blessing and the ceremonial ride around the pilgrimage church below Neuschwanstein. The procession traditionally forms at the Rathaus around 9:30, exact 2026 times tbc, verify with Tourist Information Schwangau, phone +49 8362 81980. Free to attend.",
-    "url": "https://www.musikkapelle-schwangau.de/termin/eventdetail/90/-/colomannsfest.html",
-    "status": "tentative",
-    "sequence": 0,
+    "description": "Schwangau's biggest traditional festival honouring St. Coloman, with around 200 decorated horses. The procession leaves the Rathaus at 9:30 behind the Musikkapelle Schwangau and moves to the field mass at the pilgrimage church St. Coloman, followed by the horse blessing with the Coloman relic and the ceremonial ride around the church. A second devotion with individual blessings follows at 15:00. Food and drink stalls, free to attend.",
+    "url": "https://www.schwangau.de/koeniglich/kulturelles-und-brauchtum/colomansfest-mit-colomansritt-in-schwangau-im-allgaeu",
+    "status": "confirmed",
+    "sequence": 1,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-bruckner-festkonzert-basilika@garylewis",
@@ -1887,7 +1957,7 @@
     "sequence": 0,
     "category": "talk",
     "alarm": true,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-weinfest-festspielhaus@garylewis",
@@ -1901,7 +1971,35 @@
     "sequence": 0,
     "category": "town",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
+  },
+  {
+    "uid": "fuessen-2026-troubadour-opera-romana-modeon@garylewis",
+    "title": "Der Troubadour (Opera Romana)",
+    "start": "2026-10-16T19:00:00+02:00",
+    "end": "2026-10-16T22:00:00+02:00",
+    "location": "MODEON, Marktoberdorf",
+    "description": "Giuseppe Verdi's opera Il Trovatore, staged in German as Der Troubadour by Opera Romana at the MODEON in Marktoberdorf: solo voices, chorus and orchestra in a full evening of dramatic Italian opera. Tickets via modeon.de.",
+    "url": "https://www.modeon.de/termine/terminuebersicht",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "classical",
+    "alarm": false,
+    "last_verified": "2026-09-14"
+  },
+  {
+    "uid": "fuessen-2026-samuel-heinrich-handpan@garylewis",
+    "title": "Samuel Heinrich: Handpan und Synthesizer",
+    "start": "2026-10-16T20:00:00+02:00",
+    "end": "2026-10-16T22:00:00+02:00",
+    "location": "Altes Spital, Spitalgasse 6, Füssen",
+    "description": "Samuel Heinrich plays an electro-acoustic set that combines handpan with synthesizers, presented by the Kulturinitiative Füssen at the Altes Spital in the old town. Start time not published, time tbc, verify at kifuessen.de.",
+    "url": "https://kifuessen.de/calendar",
+    "status": "tentative",
+    "sequence": 0,
+    "category": "bar-music",
+    "alarm": false,
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-schanzenlauf-oberstdorf@garylewis",
@@ -1920,16 +2018,16 @@
   {
     "uid": "fuessen-2026-35-rottachseelauf-oy-mittelberg@garylewis",
     "title": "35. Rottachseelauf Oy-Mittelberg",
-    "start": "2026-10-17T10:00:00+02:00",
-    "end": "2026-10-17T12:00:00+02:00",
+    "start": "2026-10-17T13:30:00+02:00",
+    "end": "2026-10-17T16:00:00+02:00",
     "location": "Vereins- und Gästehaus Petersthal, Oy-Mittelberg",
-    "description": "The 35. Rottachseelauf of TSV Petersthal on Saturday 17 October offers a 15 km main run around the Rottachsee plus shorter races for children and youth, about 30 minutes from Füssen. Start times per race are in the Ausschreibung, time tbc, verify before travelling. Registration until 16 October via tsvpetersthal.de.",
+    "description": "The 35. Rottachseelauf of TSV Petersthal on Saturday 17 October: 15 km main run from age 16, 2.4 km for U14 and U16 and 1.2 km for U8, U10 and U12, about 30 minutes from Füssen. Neither the LADV Ausschreibung nor the club page publishes start times; secondary running calendars give 13:30 for the children's races and 14:00 for the 15 km, so time tbc, verify with TSV Petersthal before travelling. Registration via tsvpetersthal.de.",
     "url": "https://ladv.de/ausschreibung/detail/45719/35.-Rottachseelauf-2026-Oy-Mittelberg.htm",
     "status": "tentative",
-    "sequence": 0,
+    "sequence": 1,
     "category": "running",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-zirkus-charles-knie-kaufbeuren@garylewis",
@@ -1943,7 +2041,21 @@
     "sequence": 0,
     "category": "kids",
     "alarm": true,
-    "last_verified": "2026-08-10"
+    "last_verified": "2026-09-14"
+  },
+  {
+    "uid": "fuessen-2026-wirtshausmusik-kerzenstoana-1017@garylewis",
+    "title": "Wirtshausmusik mit der Kerzenstoana Spiel Partie",
+    "start": "2026-10-17T19:00:00+02:00",
+    "end": "2026-10-17T22:00:00+02:00",
+    "location": "Schlossbrauhaus, Schwangau",
+    "description": "Wirtshausmusik evening at the Schlossbrauhaus in Schwangau with the Kerzenstoana Spiel Partie playing traditional Bavarian folk music on acoustic instruments. Free entry, table reservations recommended via the Schlossbrauhaus.",
+    "url": "https://www.schlossbrauhaus.de/service/events",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-blasmusikabend@garylewis",
@@ -1971,7 +2083,7 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-gunther-jauch-trifft-best@garylewis",
@@ -1985,7 +2097,7 @@
     "sequence": 0,
     "category": "concert",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-reinhold-messner-uber-leben-1018@garylewis",
@@ -2002,6 +2114,20 @@
     "last_verified": "2026-08-10"
   },
   {
+    "uid": "fuessen-2026-film-forggensee-1018@garylewis",
+    "title": "Filmvorführung \"Der Forggensee\"",
+    "start": "2026-10-18T20:15:00+02:00",
+    "end": "2026-10-18T22:00:00+02:00",
+    "location": "Schlossbrauhaus, Schwangau",
+    "description": "Second October screening of the documentary film Der Forggensee at the Schlossbrauhaus in Schwangau. Free entry, table reservations recommended.",
+    "url": "https://www.schlossbrauhaus.de/service/events",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "community",
+    "alarm": false,
+    "last_verified": "2026-09-14"
+  },
+  {
     "uid": "fuessen-2026-zeppelin-musical@garylewis",
     "title": "Zeppelin - Das Musical",
     "start": "2026-10-22T16:00:00+02:00",
@@ -2013,7 +2139,7 @@
     "sequence": 0,
     "category": "concert",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-wirtshausbuehne-glueck-1022@garylewis",
@@ -2041,7 +2167,7 @@
     "sequence": 0,
     "category": "hockey",
     "alarm": true,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-herbstmarkt-weissensee@garylewis",
@@ -2055,7 +2181,21 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
+  },
+  {
+    "uid": "fuessen-2026-heimatabend-schlossbrauhaus-1030@garylewis",
+    "title": "Heimatabend am Schlossbrauhaus",
+    "start": "2026-10-30T19:00:00+01:00",
+    "end": "2026-10-30T22:00:00+01:00",
+    "location": "Schlossbrauhaus, Schwangau",
+    "description": "Bavarian Heimatabend with the Gebirgstrachten- und Heimatverein D'Schwanstoaner Schwangau: Schuhplattln, traditional dances and brass band music. Table reservations recommended via the Schlossbrauhaus.",
+    "url": "https://www.schlossbrauhaus.de/service/events",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "community",
+    "alarm": false,
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-evf-toelzer-loewen@garylewis",
@@ -2069,7 +2209,7 @@
     "sequence": 0,
     "category": "hockey",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-klassiker-fc-bayern-munchen@garylewis",
@@ -2077,27 +2217,27 @@
     "start": "2026-10-31T18:30:00+01:00",
     "end": "2026-10-31T20:30:00+01:00",
     "location": "Allianz Arena, München",
-    "description": "The Hinrunde edition of Der Klassiker lands on Bundesliga matchday 8 at the Allianz Arena on Halloween weekend, 30 October to 1 November 2026. The DFL has not yet set the exact kickoff, so this Saturday 18:30 slot is a placeholder, verify once the matchday is scheduled in detail. Tickets via fcbayern.com, live on Sky.",
-    "url": "https://www.bundesliga.com/en/bundesliga/news/der-klassiker-derbies-key-dates-for-2026-27-season-38066",
-    "status": "tentative",
-    "sequence": 0,
+    "description": "The Hinrunde edition of Der Klassiker is now terminiert: Bundesliga matchday 8 at the Allianz Arena on Saturday 31 October 2026, kickoff 18:30 in the Samstagabend slot. Tickets via fcbayern.com, live on Sky.",
+    "url": "https://www.sportschau.de/fussball/bundesliga/bayern-gegen-dortmund-am-samstagabend,bundesliga-ansetzungen-100.html",
+    "status": "confirmed",
+    "sequence": 1,
     "category": "football",
     "alarm": true,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-sommernachtstraeume-gaertnerplatz@garylewis",
-    "title": "Sommernachtsträume: Opernstudio des Gärtnerplatztheaters",
+    "title": "BEL CANTO ME: Opernstudio des Gärtnerplatztheaters",
     "start": "2026-11-04T20:00:00+01:00",
     "end": "2026-11-04T22:00:00+01:00",
     "location": "Stadttheater, Kempten",
-    "description": "Four young opera singers of the Opernstudio des Staatstheaters am Gärtnerplatz with pianist Hibiki Sagae in a vocal recital of opera and musical numbers. Tickets 22 to 58 EUR via theaterinkempten.de.",
+    "description": "The production previously announced as Sommernachtsträume now runs under the title BEL CANTO ME, a staged Liederabend by the Opernstudio des Staatstheaters am Gärtnerplatz inspired by A Midsummer Night's Dream. Singers Yoojin Lee, Tamara Obermayr, Thomas McGowan and Juho Stén with Hibiki Sagae at the piano, in works by Monteverdi, Purcell, Mozart, Schubert, Gounod, Donizetti, Sondheim and Elton John. Tickets via theaterinkempten.de.",
     "url": "https://theaterinkempten.de/produktion/sommernachtstraeume/",
     "status": "confirmed",
-    "sequence": 0,
+    "sequence": 1,
     "category": "classical",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-wirtshausbuehne-glueck-1105@garylewis",
@@ -2114,6 +2254,20 @@
     "last_verified": "2026-08-24"
   },
   {
+    "uid": "fuessen-2026-heimatabend-schlossbrauhaus-1106@garylewis",
+    "title": "Heimatabend am Schlossbrauhaus",
+    "start": "2026-11-06T19:00:00+01:00",
+    "end": "2026-11-06T22:00:00+01:00",
+    "location": "Schlossbrauhaus, Schwangau",
+    "description": "November Heimatabend with the Gebirgstrachten- und Heimatverein D'Schwanstoaner Schwangau: Schuhplattln, traditional dances and brass band music. Table reservations recommended via the Schlossbrauhaus.",
+    "url": "https://www.schlossbrauhaus.de/service/events",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "community",
+    "alarm": false,
+    "last_verified": "2026-09-14"
+  },
+  {
     "uid": "fuessen-2026-schone-biest-musical@garylewis",
     "title": "Die Schöne und das Biest - das Musical",
     "start": "2026-11-07T15:00:00+01:00",
@@ -2125,7 +2279,7 @@
     "sequence": 0,
     "category": "kids",
     "alarm": false,
-    "last_verified": "2026-08-02"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-guacayo-live-cafe-bar@garylewis",
@@ -2170,6 +2324,20 @@
     "last_verified": "2026-08-24"
   },
   {
+    "uid": "fuessen-2026-grosses-kreissingen-modeon@garylewis",
+    "title": "Großes Kreissingen",
+    "start": "2026-11-08T17:00:00+01:00",
+    "end": "2026-11-08T19:30:00+01:00",
+    "location": "MODEON, Marktoberdorf",
+    "description": "Five regional choirs from the district sing together at the MODEON in Marktoberdorf, choral music ranging across popular and traditional repertoire. Tickets via modeon.de.",
+    "url": "https://www.modeon.de/termine/terminuebersicht",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "classical",
+    "alarm": false,
+    "last_verified": "2026-09-14"
+  },
+  {
     "uid": "fuessen-2026-konzert-frieden-markus-stockhausen@garylewis",
     "title": "Ein Konzert für Frieden: Markus Stockhausen, Dinesh Mishra & Friends",
     "start": "2026-11-08T20:00:00+01:00",
@@ -2184,6 +2352,20 @@
     "last_verified": "2026-08-02"
   },
   {
+    "uid": "fuessen-2026-film-forggensee-1108@garylewis",
+    "title": "Filmvorführung \"Der Forggensee\"",
+    "start": "2026-11-08T20:15:00+01:00",
+    "end": "2026-11-08T22:00:00+01:00",
+    "location": "Schlossbrauhaus, Schwangau",
+    "description": "November screening of the documentary film Der Forggensee at the Schlossbrauhaus in Schwangau. Free entry, table reservations recommended.",
+    "url": "https://www.schlossbrauhaus.de/service/events",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "community",
+    "alarm": false,
+    "last_verified": "2026-09-14"
+  },
+  {
     "uid": "fuessen-2026-dav-kempten-solo-wanderung-gr10@garylewis",
     "title": "DAV Sektionsabend: Auf Solo-Wanderung (Nina Rühlig, GR10 Pyrenäen)",
     "start": "2026-11-12T19:00:00+01:00",
@@ -2195,7 +2377,7 @@
     "sequence": 0,
     "category": "talk",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-25-romantischer-weihnachtsmarkt-schloss@garylewis",
@@ -2223,7 +2405,7 @@
     "sequence": 0,
     "category": "kids",
     "alarm": false,
-    "last_verified": "2026-08-02"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-evf-ec-peiting@garylewis",
@@ -2237,7 +2419,7 @@
     "sequence": 1,
     "category": "hockey",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-veteranenjahrtag@garylewis",
@@ -2251,7 +2433,7 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-nfl-munich-game-2026@garylewis",
@@ -2293,7 +2475,7 @@
     "sequence": 0,
     "category": "kids",
     "alarm": false,
-    "last_verified": "2026-08-02"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-oeffentliche-generalprobe-mkw@garylewis",
@@ -2307,7 +2489,7 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-erlebnisweihnacht-bad-hindelang-w1@garylewis",
@@ -2335,7 +2517,7 @@
     "sequence": 2,
     "category": "kids",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-meisterkonzert-litauisches-orchester@garylewis",
@@ -2349,7 +2531,7 @@
     "sequence": 0,
     "category": "classical",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-geist-der-weihnacht-1128@garylewis",
@@ -2363,7 +2545,21 @@
     "sequence": 0,
     "category": "kids",
     "alarm": true,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
+  },
+  {
+    "uid": "fuessen-2026-dornroeschen-ballett-modeon@garylewis",
+    "title": "Dornröschen (Royal Classical Ballet)",
+    "start": "2026-11-28T19:00:00+01:00",
+    "end": "2026-11-28T21:30:00+01:00",
+    "location": "MODEON, Marktoberdorf",
+    "description": "The Royal Classical Ballet dances Dornröschen (Sleeping Beauty) at the MODEON in Marktoberdorf, a full length classical ballet with elaborate sets and around 300 costumes. A good first ballet for the boys if they can sit through a full evening. Tickets via modeon.de.",
+    "url": "https://www.modeon.de/termine/terminuebersicht",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "kids",
+    "alarm": false,
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-jahreskonzert-musikkapelle-weissensee@garylewis",
@@ -2377,7 +2573,7 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-weihnachtsmarkt-kiosk@garylewis",
@@ -2391,7 +2587,7 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-quadro-nuevo-weihnachtslieder@garylewis",
@@ -2405,7 +2601,7 @@
     "sequence": 0,
     "category": "concert",
     "alarm": true,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-erlebnisweihnacht-bad-hindelang-w2@garylewis",
@@ -2433,7 +2629,7 @@
     "sequence": 0,
     "category": "talk",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-fuessener-adventsmarkt-w1@garylewis",
@@ -2447,7 +2643,7 @@
     "sequence": 1,
     "category": "town",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-geist-der-weihnacht-1205@garylewis",
@@ -2461,7 +2657,7 @@
     "sequence": 0,
     "category": "kids",
     "alarm": true,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-hakuna-matata-kindermusical-gala@garylewis",
@@ -2492,6 +2688,20 @@
     "last_verified": "2026-08-24"
   },
   {
+    "uid": "fuessen-2026-raeuber-hotzenplotz-1206@garylewis",
+    "title": "Der Räuber Hotzenplotz",
+    "start": "2026-12-06T16:00:00+01:00",
+    "end": "2026-12-06T18:00:00+01:00",
+    "location": "Stadttheater, Kempten",
+    "description": "Otfried Preußler's Der Räuber Hotzenplotz as a stage play at the Stadttheater Kempten, the classic children's story of the robber, Kasperl and Seppel. Further public performances on 13, 19 and 20 December, all at 16:00. Tickets via theaterinkempten.de, these Sunday shows sell out early.",
+    "url": "https://theaterinkempten.de/spielplan/2026/12/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "kids",
+    "alarm": true,
+    "last_verified": "2026-09-14"
+  },
+  {
     "uid": "fuessen-2026-erlebnisweihnacht-bad-hindelang-w3@garylewis",
     "title": "Erlebnis-Weihnachtsmarkt Bad Hindelang (3. Wochenende)",
     "start": "2026-12-10T14:00:00+01:00",
@@ -2517,7 +2727,7 @@
     "sequence": 1,
     "category": "town",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-nikolausschiessen-weissensee@garylewis",
@@ -2531,7 +2741,7 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-adventsnachmittag-magnushaus@garylewis",
@@ -2545,7 +2755,7 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-broadway-kurt-weill-kempten@garylewis",
@@ -2559,7 +2769,7 @@
     "sequence": 0,
     "category": "classical",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-we-love-christmas@garylewis",
@@ -2573,7 +2783,7 @@
     "sequence": 0,
     "category": "concert",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
   },
   {
     "uid": "fuessen-2026-kerzenschein-vokalensemble-basilika@garylewis",
@@ -2590,6 +2800,48 @@
     "last_verified": "2026-08-24"
   },
   {
+    "uid": "fuessen-2026-klassik-radio-filmmusik-bigbox@garylewis",
+    "title": "Klassik Radio live in Concert: Die Nacht der Filmmusik",
+    "start": "2026-12-14T20:00:00+01:00",
+    "end": "2026-12-14T22:30:00+01:00",
+    "location": "bigBOX ALLGÄU, Kempten",
+    "description": "Orchestral film music programme conducted by Pete Harrison and presented by Thomas Ohrner at the bigBOX ALLGÄU in Kempten, full orchestra playing well known film scores. Doors 19:00, start 20:00. Tickets via tickets.klassikradio.de.",
+    "url": "https://www.bigboxallgaeu.de/events/klassik-oper-ballett-theater/klassik-radio-live-in-concert-2026-14-12-2026",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": true,
+    "last_verified": "2026-09-14"
+  },
+  {
+    "uid": "fuessen-2026-brandner-kaspar-1219@garylewis",
+    "title": "Brandner Kaspar - Das Musical",
+    "start": "2026-12-19T19:30:00+01:00",
+    "end": "2026-12-19T22:00:00+01:00",
+    "location": "Festspielhaus Neuschwanstein, Füssen",
+    "description": "The Bavarian tale of the Brandner Kaspar and the Boandlkramer staged as a musical with ensemble and live band at the Festspielhaus Neuschwanstein. A matinee runs the same day at 15:00 and a further performance on 20 December at 14:00. Tickets via das-festspielhaus.de.",
+    "url": "https://das-festspielhaus.de/alle-veranstaltungen/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-09-14"
+  },
+  {
+    "uid": "fuessen-2026-raeuber-hotzenplotz-1220@garylewis",
+    "title": "Der Räuber Hotzenplotz",
+    "start": "2026-12-20T16:00:00+01:00",
+    "end": "2026-12-20T18:00:00+01:00",
+    "location": "Stadttheater, Kempten",
+    "description": "Last of the Christmas run of Der Räuber Hotzenplotz at the Stadttheater Kempten, children's theatre after Otfried Preußler. Tickets via theaterinkempten.de.",
+    "url": "https://theaterinkempten.de/spielplan/2026/12/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "kids",
+    "alarm": false,
+    "last_verified": "2026-09-14"
+  },
+  {
     "uid": "fuessen-2026-weihnachtsoratorium-la-banda@garylewis",
     "title": "Ein Weihnachtsoratorium: Barockorchester La Banda",
     "start": "2026-12-20T17:00:00+01:00",
@@ -2604,6 +2856,20 @@
     "last_verified": "2026-08-24"
   },
   {
+    "uid": "fuessen-2026-zauberhaftes-land-von-oz-premiere@garylewis",
+    "title": "Das zauberhafte Land von Oz (Premiere)",
+    "start": "2026-12-22T18:00:00+01:00",
+    "end": "2026-12-22T20:30:00+01:00",
+    "location": "Festspielhaus Neuschwanstein, Füssen",
+    "description": "Premiere of the family musical Das zauberhafte Land von Oz at the Festspielhaus Neuschwanstein: Dorothy is blown to the land of Oz and travels with the scarecrow, the tin man and the cowardly lion, with live music and large scale staging. Recommended from age 5, about 2 hours plus a 30 minute interval. Tickets from 39.99 EUR via das-festspielhaus.de.",
+    "url": "https://das-festspielhaus.de/programm/das-zauberhafte-land-von-oz/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "kids",
+    "alarm": true,
+    "last_verified": "2026-09-14"
+  },
+  {
     "uid": "fuessen-2026-evf-riessersee-vorweihnachten@garylewis",
     "title": "EV Füssen vs SC Riessersee (Vorweihnachts-Derby)",
     "start": "2026-12-23T19:30:00+01:00",
@@ -2615,6 +2881,160 @@
     "sequence": 0,
     "category": "hockey",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-09-14"
+  },
+  {
+    "uid": "fuessen-2026-zauberhaftes-land-von-oz-1226@garylewis",
+    "title": "Das zauberhafte Land von Oz",
+    "start": "2026-12-26T14:30:00+01:00",
+    "end": "2026-12-26T17:00:00+01:00",
+    "location": "Festspielhaus Neuschwanstein, Füssen",
+    "description": "Boxing Day matinee of the family musical Das zauberhafte Land von Oz at the Festspielhaus Neuschwanstein, from age 5, about 2 hours plus interval. Daily matinees at 14:30 from 26 to 30 December. Tickets from 39.99 EUR via das-festspielhaus.de.",
+    "url": "https://das-festspielhaus.de/programm/das-zauberhafte-land-von-oz/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "kids",
+    "alarm": false,
+    "last_verified": "2026-09-14"
+  },
+  {
+    "uid": "fuessen-2026-evf-toelzer-loewen-1228@garylewis",
+    "title": "EV Füssen vs Tölzer Löwen (Bavarian Derby)",
+    "start": "2026-12-28T18:00:00+01:00",
+    "end": "2026-12-28T20:30:00+01:00",
+    "location": "Bundesstützpunkt Arena, Füssen",
+    "description": "Oberliga Süd home game against the Tölzer Löwen between Christmas and New Year, one of the classic Bavarian derbies and usually a full house at the Bundesstützpunkt Arena. Face off 18:00. Tickets at the box office or via evfuessen.de.",
+    "url": "https://www.eishockeynews.de/verein/ev-fuessen/termine",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "hockey",
+    "alarm": false,
+    "last_verified": "2026-09-14"
+  },
+  {
+    "uid": "fuessen-2026-gluehweinparty-feuerwehr-weissensee@garylewis",
+    "title": "Glühweinparty der Feuerwehr",
+    "start": "2026-12-29T18:00:00+01:00",
+    "end": "2026-12-29T22:00:00+01:00",
+    "location": "Feuerwehrhaus, Füssen-Weissensee",
+    "description": "Public mulled wine party of the Feuerwehr Weissensee at the fire station in the village, listed as öffentlich in the Weissensee Terminkalender 2026. An easy walk-to evening between the years.",
+    "url": "https://fuessen-weissensee.de/wp-content/uploads/2025/11/vereinstermine-2026.pdf",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "community",
+    "alarm": false,
+    "last_verified": "2026-09-14"
+  },
+  {
+    "uid": "fuessen-2026-pianotainment-jubilaeum-kempten@garylewis",
+    "title": "Pianotainment: Das Jubiläumskonzert",
+    "start": "2026-12-29T20:00:00+01:00",
+    "end": "2026-12-29T22:15:00+01:00",
+    "location": "Stadttheater, Kempten",
+    "description": "Marcel Dorn and Stephan Weh celebrate 30 years of Pianotainment at the Stadttheater Kempten, a four hands piano show on one instrument ranging from baroque to rock and tango to techno, with surprise guests. Tickets 17 to 46 EUR via theaterinkempten.de.",
+    "url": "https://theaterinkempten.de/produktion/pianotainment-das-jubilaeumskonzert/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "classical",
+    "alarm": false,
+    "last_verified": "2026-09-14"
+  },
+  {
+    "uid": "fuessen-2026-silvesterkonzert-smetana-kempten@garylewis",
+    "title": "Silvesterkonzert: Smetana Philharmoniker Prag",
+    "start": "2026-12-31T15:00:00+01:00",
+    "end": "2026-12-31T17:00:00+01:00",
+    "location": "Stadttheater, Kempten",
+    "description": "New Year's Eve concert with the Smetana Philharmoniker Prag under Hans Richter at the Stadttheater Kempten, a full symphony orchestra playing film music from Harry Potter and My Fair Lady to James Bond. Only one performance this season and it is in the afternoon at 15:00. Tickets via theaterinkempten.de.",
+    "url": "https://theaterinkempten.de/produktion/silvesterkonzert-2/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "classical",
+    "alarm": true,
+    "last_verified": "2026-09-14"
+  },
+  {
+    "uid": "fuessen-2026-ludwig-2-silvester@garylewis",
+    "title": "LUDWIG² an Silvester",
+    "start": "2026-12-31T20:00:00+01:00",
+    "end": "2026-12-31T22:45:00+01:00",
+    "location": "Festspielhaus Neuschwanstein, Füssen",
+    "description": "New Year's Eve performance of Ludwig², the Festspielhaus flagship musical about King Ludwig II, with ensemble and live band in the theatre on the Forggensee. Tickets via das-festspielhaus.de.",
+    "url": "https://das-festspielhaus.de/alle-veranstaltungen/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": true,
+    "last_verified": "2026-09-14"
+  },
+  {
+    "uid": "fuessen-2027-zauberhaftes-land-von-oz-0102@garylewis",
+    "title": "Das zauberhafte Land von Oz",
+    "start": "2027-01-02T14:30:00+01:00",
+    "end": "2027-01-02T17:00:00+01:00",
+    "location": "Festspielhaus Neuschwanstein, Füssen",
+    "description": "New Year matinee of the family musical Das zauberhafte Land von Oz at the Festspielhaus Neuschwanstein, from age 5, about 2 hours plus interval. A further show follows on 3 January at 11:00. Tickets from 39.99 EUR via das-festspielhaus.de.",
+    "url": "https://das-festspielhaus.de/programm/das-zauberhafte-land-von-oz/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "kids",
+    "alarm": false,
+    "last_verified": "2026-09-14"
+  },
+  {
+    "uid": "fuessen-2027-zauberhaftes-land-von-oz-0106@garylewis",
+    "title": "Das zauberhafte Land von Oz",
+    "start": "2027-01-06T14:00:00+01:00",
+    "end": "2027-01-06T16:30:00+01:00",
+    "location": "Festspielhaus Neuschwanstein, Füssen",
+    "description": "Heilige Drei Könige holiday matinee of Das zauberhafte Land von Oz at the Festspielhaus Neuschwanstein, from age 5. Further performances on 7 January at 14:30, 9 January at 14:30 and 10 January at 11:00. Tickets from 39.99 EUR via das-festspielhaus.de.",
+    "url": "https://das-festspielhaus.de/programm/das-zauberhafte-land-von-oz/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "kids",
+    "alarm": false,
+    "last_verified": "2026-09-14"
+  },
+  {
+    "uid": "fuessen-2027-ludwig-meets-michael-jackson@garylewis",
+    "title": "Ludwig meets Michael Jackson",
+    "start": "2027-01-08T19:00:00+01:00",
+    "end": "2027-01-08T21:30:00+01:00",
+    "location": "Festspielhaus Neuschwanstein, Füssen",
+    "description": "Crossover concert show at the Festspielhaus Neuschwanstein pairing the Ludwig² songbook with Michael Jackson hits, sung by the Festspielhaus ensemble with live band. Tickets via das-festspielhaus.de.",
+    "url": "https://das-festspielhaus.de/alle-veranstaltungen/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-09-14"
+  },
+  {
+    "uid": "fuessen-2027-evf-ec-peiting-0108@garylewis",
+    "title": "EV Füssen vs EC Peiting (Oberland Derby)",
+    "start": "2027-01-08T19:30:00+01:00",
+    "end": "2027-01-08T22:00:00+01:00",
+    "location": "Bundesstützpunkt Arena, Füssen",
+    "description": "Oberliga Süd home game against EC Peiting, the short trip Oberland derby that Füssen hosts only once in the main round. Face off 19:30. Tickets at the box office or via evfuessen.de.",
+    "url": "https://www.eishockeynews.de/verein/ev-fuessen/termine",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "hockey",
+    "alarm": false,
+    "last_verified": "2026-09-14"
+  },
+  {
+    "uid": "fuessen-2027-brandner-kaspar-0114@garylewis",
+    "title": "Brandner Kaspar - Das Musical",
+    "start": "2027-01-14T17:00:00+01:00",
+    "end": "2027-01-14T19:30:00+01:00",
+    "location": "Festspielhaus Neuschwanstein, Füssen",
+    "description": "Brandner Kaspar - Das Musical returns to the Festspielhaus Neuschwanstein for a January run, the Bavarian tale of the man who outwits death, with ensemble and live band. A further performance follows on 15 January at 19:30. Tickets via das-festspielhaus.de.",
+    "url": "https://das-festspielhaus.de/alle-veranstaltungen/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-09-14"
   }
 ]
