@@ -1859,7 +1859,7 @@
     "sequence": 0,
     "category": "concert",
     "alarm": true,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-dav-sektionsabend-unterwegs-polarkreis@garylewis",
@@ -1873,7 +1873,7 @@
     "sequence": 1,
     "category": "talk",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-2-fire-trail-nesselwang@garylewis",
@@ -1881,13 +1881,13 @@
     "start": "2026-10-10T10:00:00+02:00",
     "end": "2026-10-10T13:30:00+02:00",
     "location": "Alpspitzbahn, Nesselwang",
-    "description": "The second Fire Trail Nesselwang turns the Alpspitz area into a trail running arena on Saturday 10 October, about 20 minutes from Füssen. Bib collection 07:30 to 09:30 at the Explorer Hotel start area, first runner off at 10:00 with the rest starting at 30 second intervals by bib number, award ceremony around 13:00 and a grill evening at the fire station from 18:00. Info and registration at fire-trail-nesselwang.de.",
+    "description": "The second Fire Trail Nesselwang turns the Alpspitz area into a trail running arena, about 20 minutes from Füssen. Bib pickup Friday 16 October 17:00 to 19:00 with a pasta party at the fire station from 18:00, or on race day 07:30 to 09:00 at the Explorer Hotel start area. First runner off at 10:00, the rest at 30 second intervals by bib number. Awards around 13:00 and a grill evening at the fire station from 18:00.",
     "url": "https://www.xn--fire-trail-allgu-9nb.de/nesselwang/wettkampf/zeitplan",
     "status": "confirmed",
-    "sequence": 1,
+    "sequence": 2,
     "category": "running",
     "alarm": false,
-    "last_verified": "2026-09-14"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-krimi-dinner-testament-la@garylewis",
@@ -1895,27 +1895,27 @@
     "start": "2026-10-10T19:00:00+02:00",
     "end": "2026-10-10T23:00:00+02:00",
     "location": "Bootshafen Füssen (MS Füssen), Füssen",
-    "description": "Murder mystery dinner cruise closing the event season, an interactive Kriminal-Dinner performance with a three course menu, drinks not included; admission from age 16. Boarding from 18:30, departure 19:00, about 4 hours. 109 EUR per person; advance booking via the Forggensee-Schifffahrt online shop is required since menu events cannot be bought at the on-board box office.",
+    "description": "Murder mystery dinner cruise closing the event season, an interactive Kriminal-Dinner performance with a three course menu, drinks not included; admission from age 16. Boarding from 18:30, departure 19:00, about 4 hours. 109 EUR per person, online booking only, last booking date Thursday 8 October.",
     "url": "https://www.forggensee-schifffahrt.de/veranstaltungen/",
     "status": "confirmed",
-    "sequence": 0,
+    "sequence": 1,
     "category": "cruise",
     "alarm": true,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-blasmusikfest-1010@garylewis",
-    "title": "Blasmusikfest",
+    "title": "Blasmusikabend mit der Musikkapelle Prem",
     "start": "2026-10-10T19:30:00+02:00",
     "end": "2026-10-10T21:30:00+02:00",
     "location": "Bannwaldsee-Stadl, Schwangau",
-    "description": "Bavarian evening with traditional Blasmusik (brass band) at the Bannwaldsee-Stadl by the Bannwaldsee in Schwangau. Info via the Schwangau event calendar at schwangau.de.",
-    "url": "https://veranstaltungen.erlebe.bayern/schwangau/blasmusikfest-ed015bc851a19109e7acf724c10c5b60e.html",
+    "description": "Brass band evening with the Musikkapelle Prem at the Bannwaldsee-Stadl in Schwangau. Free entry, free parking from 18:00.",
+    "url": "https://bannwaldsee-stadl.de/oktober-2026/",
     "status": "confirmed",
-    "sequence": 0,
+    "sequence": 1,
     "category": "concert",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-colomansfest-colomansritt@garylewis",
@@ -1929,7 +1929,7 @@
     "sequence": 1,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-09-14"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-bruckner-festkonzert-basilika@garylewis",
@@ -1943,7 +1943,7 @@
     "sequence": 0,
     "category": "classical",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-reinhold-messner-uber-leben@garylewis",
@@ -1957,7 +1957,7 @@
     "sequence": 0,
     "category": "talk",
     "alarm": true,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-weinfest-festspielhaus@garylewis",
@@ -1971,7 +1971,7 @@
     "sequence": 0,
     "category": "town",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-troubadour-opera-romana-modeon@garylewis",
@@ -1985,7 +1985,7 @@
     "sequence": 0,
     "category": "classical",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-samuel-heinrich-handpan@garylewis",
@@ -1999,35 +1999,35 @@
     "sequence": 0,
     "category": "bar-music",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-schanzenlauf-oberstdorf@garylewis",
     "title": "Schanzenlauf Oberstdorf",
     "start": "2026-10-17T08:00:00+02:00",
-    "end": "2026-10-17T11:00:00+02:00",
-    "location": "Skiflugschanze, Oberstdorf",
-    "description": "Race up the roughly 1000 steps of the Oberstdorf ski flying hill with 162 m of climbing, organised by the Feuerwehr Oberstdorf, a fun spectacle to watch with kids. Start listed around 08:00 but not officially confirmed, time tbc, verify before travelling.",
-    "url": "https://running.life/running-calendar/austria/tirol/reutte",
-    "status": "tentative",
-    "sequence": 0,
+    "end": "2026-10-17T16:45:00+02:00",
+    "location": "Heini-Klopfer-Skiflugschanze, Oberstdorf",
+    "description": "300 two-person teams from fire brigades and THW race up the Heini-Klopfer ski flying hill: 412 m of distance, 207 m of climbing and more than 1000 steps, carrying about 20 kg of kit, many with breathing apparatus. Starts from 08:00 at 60 second intervals, awards around 16:45. All team places are taken; it is a spectator event and fun to watch with kids.",
+    "url": "https://feuerwehr-oberstdorf.de/aktuelles/schanzenlauf",
+    "status": "confirmed",
+    "sequence": 1,
     "category": "running",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-35-rottachseelauf-oy-mittelberg@garylewis",
     "title": "35. Rottachseelauf Oy-Mittelberg",
-    "start": "2026-10-17T13:30:00+02:00",
-    "end": "2026-10-17T16:00:00+02:00",
+    "start": "2026-10-17T13:15:00+02:00",
+    "end": "2026-10-17T16:30:00+02:00",
     "location": "Vereins- und Gästehaus Petersthal, Oy-Mittelberg",
-    "description": "The 35. Rottachseelauf of TSV Petersthal on Saturday 17 October: 15 km main run from age 16, 2.4 km for U14 and U16 and 1.2 km for U8, U10 and U12, about 30 minutes from Füssen. Neither the LADV Ausschreibung nor the club page publishes start times; secondary running calendars give 13:30 for the children's races and 14:00 for the 15 km, so time tbc, verify with TSV Petersthal before travelling. Registration via tsvpetersthal.de.",
-    "url": "https://ladv.de/ausschreibung/detail/45719/35.-Rottachseelauf-2026-Oy-Mittelberg.htm",
-    "status": "tentative",
-    "sequence": 1,
+    "description": "The 35. Rottachseelauf of TSV Petersthal, about 30 minutes from Füssen. Schülerlauf starts 13:15: 1.2 km for U8, U10 and U12 (minimum age 6) and 2.4 km for U14 and U16, awards about 14:15. The 15 km Hauptlauf starts at 14:00, awards about 16:30. Fees 8 EUR for children, 20 EUR for adults; late entry up to an hour before the start costs 2 or 5 EUR extra. Bibs 11:30 to 13:30 in the Vereinshaus.",
+    "url": "https://www.tsvpetersthal.de/.cm4all/uproc.php/0/Infos%20RSL%202026_V00.pdf",
+    "status": "confirmed",
+    "sequence": 2,
     "category": "running",
     "alarm": false,
-    "last_verified": "2026-09-14"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-zirkus-charles-knie-kaufbeuren@garylewis",
@@ -2041,7 +2041,7 @@
     "sequence": 0,
     "category": "kids",
     "alarm": true,
-    "last_verified": "2026-09-14"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-wirtshausmusik-kerzenstoana-1017@garylewis",
@@ -2055,7 +2055,7 @@
     "sequence": 0,
     "category": "concert",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-blasmusikabend@garylewis",
@@ -2063,13 +2063,13 @@
     "start": "2026-10-17T19:30:00+02:00",
     "end": "2026-10-17T21:30:00+02:00",
     "location": "Bannwaldsee-Stadl, Schwangau",
-    "description": "Evening of traditional Bavarian Blasmusik (brass band) at the Bannwaldsee-Stadl in Schwangau. Info via the Schwangau event calendar at schwangau.de.",
+    "description": "Evening of traditional Bavarian Blasmusik (brass band) at the Bannwaldsee-Stadl in Schwangau. The Schwangau calendar still lists it, but the venue's own October programme skips from 10 to 24 October, so it may be off. Verify before going.",
     "url": "https://veranstaltungen.erlebe.bayern/schwangau/blasmusikabend-ef49de9192bcf91e9029ae345c2d9f738.html",
-    "status": "confirmed",
-    "sequence": 0,
+    "status": "tentative",
+    "sequence": 1,
     "category": "concert",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-torgellenabend@garylewis",
@@ -2083,7 +2083,7 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-09-14"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-gunther-jauch-trifft-best@garylewis",
@@ -2097,7 +2097,7 @@
     "sequence": 0,
     "category": "concert",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-reinhold-messner-uber-leben-1018@garylewis",
@@ -2111,7 +2111,7 @@
     "sequence": 0,
     "category": "talk",
     "alarm": true,
-    "last_verified": "2026-08-10"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-film-forggensee-1018@garylewis",
@@ -2125,7 +2125,7 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-zeppelin-musical@garylewis",
@@ -2139,7 +2139,7 @@
     "sequence": 0,
     "category": "concert",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-wirtshausbuehne-glueck-1022@garylewis",
@@ -2153,7 +2153,7 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-ev-fussen-esv-kaufbeuren@garylewis",
@@ -2161,13 +2161,13 @@
     "start": "2026-10-23T19:30:00+02:00",
     "end": "2026-10-23T22:00:00+02:00",
     "location": "Bundesstützpunkt Eishockey Arena, Füssen",
-    "description": "Allgäu derby in the Oberliga Süd as EV Füssen hosts neighbours ESV Kaufbeuren on a Friday night. Kaufbeuren travel with a big away following, so this is one of the hottest home dates of the Hauptrunde. Listed face-off 19:30, verify on evfuessen.de closer to the date; tickets via the EV Füssen online shop.",
-    "url": "https://www.eishockeynews.de/verein/ev-fuessen/termine",
+    "description": "Allgäu derby in the Oberliga Süd, matchday 12: EV Füssen host neighbours ESV Kaufbeuren on a Friday night. Face-off 19:30. Public ticket sales opened Monday 5 October at 12:00 via evfuessen.de/tickets and Eventim outlets, and the club advises buying early.",
+    "url": "https://www.eishockeynews.de/spiel/ev-fuessen-gegen-esv-kaufbeuren-5240489/info",
     "status": "confirmed",
-    "sequence": 0,
+    "sequence": 1,
     "category": "hockey",
     "alarm": true,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-herbstmarkt-weissensee@garylewis",
@@ -2181,7 +2181,7 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-09-14"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-heimatabend-schlossbrauhaus-1030@garylewis",
@@ -2195,7 +2195,7 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-evf-toelzer-loewen@garylewis",
@@ -2209,7 +2209,7 @@
     "sequence": 0,
     "category": "hockey",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-klassiker-fc-bayern-munchen@garylewis",
@@ -2223,7 +2223,7 @@
     "sequence": 1,
     "category": "football",
     "alarm": true,
-    "last_verified": "2026-09-14"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-sommernachtstraeume-gaertnerplatz@garylewis",
@@ -2232,12 +2232,12 @@
     "end": "2026-11-04T22:00:00+01:00",
     "location": "Stadttheater, Kempten",
     "description": "The production previously announced as Sommernachtsträume now runs under the title BEL CANTO ME, a staged Liederabend by the Opernstudio des Staatstheaters am Gärtnerplatz inspired by A Midsummer Night's Dream. Singers Yoojin Lee, Tamara Obermayr, Thomas McGowan and Juho Stén with Hibiki Sagae at the piano, in works by Monteverdi, Purcell, Mozart, Schubert, Gounod, Donizetti, Sondheim and Elton John. Tickets via theaterinkempten.de.",
-    "url": "https://theaterinkempten.de/produktion/sommernachtstraeume/",
+    "url": "https://theaterinkempten.de/produktion/bel-canto-me/",
     "status": "confirmed",
     "sequence": 1,
     "category": "classical",
     "alarm": false,
-    "last_verified": "2026-09-14"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-wirtshausbuehne-glueck-1105@garylewis",
@@ -2251,7 +2251,7 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-heimatabend-schlossbrauhaus-1106@garylewis",
@@ -2265,7 +2265,7 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-schone-biest-musical@garylewis",
@@ -2279,7 +2279,7 @@
     "sequence": 0,
     "category": "kids",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-guacayo-live-cafe-bar@garylewis",
@@ -2293,21 +2293,21 @@
     "sequence": 0,
     "category": "bar-music",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-ronsberger-crosslauf@garylewis",
-    "title": "Ronsberger Sparkassen-Crosslauf",
-    "start": "2026-11-08T10:00:00+01:00",
-    "end": "2026-11-08T13:00:00+01:00",
-    "location": "Ronsberg / Obergünzburg",
-    "description": "Autumn cross country race of about 8 km on trails in the Obergünzburg and Ronsberg area, roughly 45 minutes from Füssen. Cross-country events of this kind usually include children's races. The running calendar listed Obergünzburg as the reference town, so the exact start location is unconfirmed, and no start time is published yet. Location and time tbc, verify.",
-    "url": "https://running.life/running-calendar/germany/bayern/kempten-allgau",
-    "status": "tentative",
-    "sequence": 1,
+    "title": "41. Ronsberger Sparkassen-Crosslauf",
+    "start": "2026-11-08T13:00:00+01:00",
+    "end": "2026-11-08T15:00:00+01:00",
+    "location": "Sportplatz Ronsberg, Engetrieder Str. 200, Ronsberg",
+    "description": "Cross country races of SC 1919 Ronsberg, about 45 minutes from Füssen. 13:00 500 m for children born 2019 or later, 13:10 1 km for born 2015 to 2018, 13:25 2 km for born 2011 to 2014, 13:45 8.1 km for youth and adults. Fees in advance / on the day: children 6 / 7 EUR, pupils and youth 8 / 10 EUR, adults 14 / 17 EUR. End time not published. Same afternoon as the U18 national team game in Füssen.",
+    "url": "https://www.sc1919ronsberg.de/downloads/41crosslauf2026.pdf",
+    "status": "confirmed",
+    "sequence": 2,
     "category": "running",
     "alarm": false,
-    "last_verified": "2026-08-10"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-bremer-stadtmusikanten-puppentheater@garylewis",
@@ -2315,13 +2315,13 @@
     "start": "2026-11-08T16:00:00+01:00",
     "end": "2026-11-08T17:00:00+01:00",
     "location": "Puppentheater Kaufbeuren, Wagenseilstr. 14a, Kaufbeuren",
-    "description": "Guest performance of the Marionettentheater Bille with the Grimm tale Die Bremer Stadtmusikanten as a marionette show, 60 minutes, for children from age 3. Children 7.50 EUR, adults 9.50 EUR. Info at puppentheater-kaufbeuren.de.",
+    "description": "Guest performance of the Marionettentheater Bille with the Grimm tale Die Bremer Stadtmusikanten as a marionette show, 60 minutes, for children from age 3. Both public shows on 8 November (14:00 and 16:00) are now sold out.",
     "url": "https://puppentheater-kaufbeuren.de/",
     "status": "confirmed",
-    "sequence": 0,
+    "sequence": 1,
     "category": "kids",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-grosses-kreissingen-modeon@garylewis",
@@ -2335,7 +2335,7 @@
     "sequence": 0,
     "category": "classical",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-konzert-frieden-markus-stockhausen@garylewis",
@@ -2349,7 +2349,7 @@
     "sequence": 0,
     "category": "concert",
     "alarm": false,
-    "last_verified": "2026-08-02"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-film-forggensee-1108@garylewis",
@@ -2363,7 +2363,7 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-dav-kempten-solo-wanderung-gr10@garylewis",
@@ -2377,21 +2377,21 @@
     "sequence": 0,
     "category": "talk",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-25-romantischer-weihnachtsmarkt-schloss@garylewis",
     "title": "25. Romantischer Weihnachtsmarkt Schloss Kronburg (1. Wochenende)",
-    "start": "2026-11-13T14:00:00+01:00",
-    "end": "2026-11-13T16:00:00+01:00",
+    "start": "2026-11-13T15:00:00+01:00",
+    "end": "2026-11-13T20:00:00+01:00",
     "location": "Schloss Kronburg, Kronburg",
-    "description": "The 25th Romantischer Weihnachtsmarkt in the courtyard of Schloss Kronburg with artisan craftspeople in a castle setting, one of the most atmospheric Christmas markets in the Allgäu. First weekend runs 13 to 15 November 2026. Opening hours not yet published, time tbc, verify at schloss-kronburg.de before going.",
-    "url": "https://www.schloss-kronburg.de/termine-2026",
-    "status": "tentative",
-    "sequence": 0,
+    "description": "The 25th Romantischer Weihnachtsmarkt in the courtyard of Schloss Kronburg with artisan craftspeople in a castle setting. First weekend: Friday 13 November 15:00 to 20:00, Saturday 14 and Sunday 15 November 11:00 to 20:00. Entry 5 EUR, children up to 14 free. Free meadow parking about 15 minutes' walk away; no shuttle buses in 2026.",
+    "url": "https://www.schloss-kronburg.de/weihnachtsmarkt2026",
+    "status": "confirmed",
+    "sequence": 1,
     "category": "medieval",
     "alarm": false,
-    "last_verified": "2026-08-02"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-lumagica-reutte-eroffnung-des@garylewis",
@@ -2399,13 +2399,13 @@
     "start": "2026-11-13T17:00:00+01:00",
     "end": "2026-11-13T21:00:00+01:00",
     "location": "Burgenwelt Ehrenberg, Reutte in Tirol",
-    "description": "Opening day of the magical light park Lumagica at the castle world Ehrenberg near Reutte, with illuminated animals and mythical creatures along a walk through the historic fortress grounds. Season runs 13 November 2026 to 21 February 2027, open Friday to Sunday 17:00 to 21:00 until 20 December, then daily over Christmas. The Lumagica ticket includes entry to the Reutte on Ice ice park. Tickets and info at reutte.com and ehrenberg.at.",
+    "description": "Opening day of the Lumagica light park at the Ehrenberg castle grounds near Reutte, this year themed Ritter Rüdigers Reise um die Welt. Season runs 13 November 2026 to 21 February 2027, 17:00 to 21:00 (17:30 from 11 January, 18:00 from 1 February), closed 24 and 31 December. Online prices: adults 19.90 EUR, children 4 to 14 14.90 EUR, under 4 free; box office a bit more. The ticket gives 50% off a Reutte on Ice day ticket.",
     "url": "https://www.reutte.com/en/lumagica-reutte/opening-hours",
     "status": "confirmed",
-    "sequence": 0,
+    "sequence": 1,
     "category": "kids",
     "alarm": false,
-    "last_verified": "2026-09-14"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-evf-ec-peiting@garylewis",
@@ -2419,7 +2419,7 @@
     "sequence": 1,
     "category": "hockey",
     "alarm": false,
-    "last_verified": "2026-09-14"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-veteranenjahrtag@garylewis",
@@ -2433,7 +2433,7 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-09-14"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-nfl-munich-game-2026@garylewis",
@@ -2441,27 +2441,27 @@
     "start": "2026-11-15T15:30:00+01:00",
     "end": "2026-11-15T19:00:00+01:00",
     "location": "Allianz Arena, München",
-    "description": "The NFL returns to Munich for a week 10 regular season game between the New England Patriots and the Detroit Lions with German star Amon-Ra St. Brown. Kickoff is Sunday 15 November at 15:30 at the Allianz Arena. Tickets sell out fast and run roughly 84 to 414 Euro via Ticketmaster.",
+    "description": "The NFL returns to Munich for a week 10 regular season game between the New England Patriots and the Detroit Lions with German star Amon-Ra St. Brown. Kickoff Sunday 15 November at 15:30 at the Allianz Arena. Sold out according to muenchen.de; free-to-air on RTL.",
     "url": "https://www.muenchen.de/veranstaltungen/sport/nfl-muenchen-2026",
     "status": "confirmed",
-    "sequence": 0,
+    "sequence": 1,
     "category": "football",
     "alarm": true,
-    "last_verified": "2026-08-02"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-25-romantischer-weihnachtsmarkt-schloss-1120@garylewis",
     "title": "25. Romantischer Weihnachtsmarkt Schloss Kronburg (2. Wochenende)",
-    "start": "2026-11-20T14:00:00+01:00",
-    "end": "2026-11-20T16:00:00+01:00",
+    "start": "2026-11-20T15:00:00+01:00",
+    "end": "2026-11-20T20:00:00+01:00",
     "location": "Schloss Kronburg, Kronburg",
-    "description": "Second weekend of the 25th Romantischer Weihnachtsmarkt at Schloss Kronburg, 20 to 22 November 2026, with artisan stalls in the historic castle courtyard. Opening hours not yet published, time tbc, verify at schloss-kronburg.de before going.",
-    "url": "https://www.schloss-kronburg.de/termine-2026",
-    "status": "tentative",
-    "sequence": 0,
+    "description": "Second weekend of the 25th Romantischer Weihnachtsmarkt at Schloss Kronburg with artisan stalls in the castle courtyard: Friday 20 November 15:00 to 20:00, Saturday 21 and Sunday 22 November 11:00 to 20:00. Entry 5 EUR, children up to 14 free. Free meadow parking about 15 minutes' walk away; no shuttle buses in 2026.",
+    "url": "https://www.schloss-kronburg.de/weihnachtsmarkt2026",
+    "status": "confirmed",
+    "sequence": 1,
     "category": "medieval",
     "alarm": false,
-    "last_verified": "2026-08-02"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-alice-wunderland-theater-tanz@garylewis",
@@ -2475,7 +2475,7 @@
     "sequence": 0,
     "category": "kids",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-oeffentliche-generalprobe-mkw@garylewis",
@@ -2489,21 +2489,21 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-09-14"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-erlebnisweihnacht-bad-hindelang-w1@garylewis",
     "title": "Erlebnis-Weihnachtsmarkt Bad Hindelang (1. Wochenende)",
     "start": "2026-11-26T14:00:00+01:00",
-    "end": "2026-11-29T19:00:00+01:00",
+    "end": "2026-11-29T21:00:00+01:00",
     "location": "Ortszentrum, Bad Hindelang",
-    "description": "Opening weekend of the famous medieval-style Erlebnisweihnacht that turns the whole village centre of Bad Hindelang into a historic Christmas town, Thursday to Sunday. The Märchenumzug parade with about 150 fairy tale figures runs on Friday and Sunday (about 1 hour). Children under 12 free; entry includes shuttle buses and parking. Opening hours tbc, verify at badhindelang.de.",
-    "url": "https://www.badhindelang.de/weihnachtsmarkt",
-    "status": "tentative",
-    "sequence": 0,
+    "description": "Opening weekend of the Erlebnisweihnacht, which turns the village centre of Bad Hindelang into a historic Christmas town. Thursday and Friday 14:00 to 21:00, Saturday and Sunday 11:00 to 21:00. Christmas and fairy-tale parade with about 160 figures on Friday 27 November at 18:30 and Sunday 29 November at 18:00. Day tickets Thursday 7, Friday 12, Saturday 10, Sunday 12 EUR; weekend ticket 29 EUR; children up to 12 free.",
+    "url": "https://erlebnis-weihnachtsmarkt.de/service/",
+    "status": "confirmed",
+    "sequence": 1,
     "category": "medieval",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-geist-weihnacht-musical@garylewis",
@@ -2517,7 +2517,7 @@
     "sequence": 2,
     "category": "kids",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-meisterkonzert-litauisches-orchester@garylewis",
@@ -2531,7 +2531,7 @@
     "sequence": 0,
     "category": "classical",
     "alarm": false,
-    "last_verified": "2026-09-14"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-geist-der-weihnacht-1128@garylewis",
@@ -2545,7 +2545,7 @@
     "sequence": 0,
     "category": "kids",
     "alarm": true,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-dornroeschen-ballett-modeon@garylewis",
@@ -2559,7 +2559,7 @@
     "sequence": 0,
     "category": "kids",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-jahreskonzert-musikkapelle-weissensee@garylewis",
@@ -2573,7 +2573,7 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-09-14"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-weihnachtsmarkt-kiosk@garylewis",
@@ -2587,7 +2587,7 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-09-14"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-quadro-nuevo-weihnachtslieder@garylewis",
@@ -2601,21 +2601,21 @@
     "sequence": 0,
     "category": "concert",
     "alarm": true,
-    "last_verified": "2026-09-14"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-erlebnisweihnacht-bad-hindelang-w2@garylewis",
     "title": "Erlebnis-Weihnachtsmarkt Bad Hindelang (2. Wochenende)",
     "start": "2026-12-03T14:00:00+01:00",
-    "end": "2026-12-06T19:00:00+01:00",
+    "end": "2026-12-06T21:00:00+01:00",
     "location": "Ortszentrum, Bad Hindelang",
-    "description": "Second weekend of the medieval-style Erlebnisweihnacht in Bad Hindelang, Thursday to Sunday, with the Märchenumzug parade of about 150 fairy tale figures on Friday and Sunday. Children under 12 free; entry includes shuttle buses and parking. Opening hours tbc, verify at badhindelang.de.",
-    "url": "https://www.badhindelang.de/weihnachtsmarkt",
-    "status": "tentative",
-    "sequence": 0,
+    "description": "Second weekend of the Erlebnisweihnacht in Bad Hindelang. Thursday 3 December is Kindertag (14:00 to 21:00, 7 EUR), Friday 14:00 to 21:00 (10 EUR), Saturday and Sunday 11:00 to 21:00 (12 and 10 EUR). One anniversary parade on Saturday 5 December at 18:00. Children up to 12 free.",
+    "url": "https://erlebnis-weihnachtsmarkt.de/service/",
+    "status": "confirmed",
+    "sequence": 1,
     "category": "medieval",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-dav-kempten-faszination-hoehlen@garylewis",
@@ -2629,7 +2629,7 @@
     "sequence": 0,
     "category": "talk",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-fuessener-adventsmarkt-w1@garylewis",
@@ -2643,7 +2643,7 @@
     "sequence": 1,
     "category": "town",
     "alarm": false,
-    "last_verified": "2026-09-14"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-geist-der-weihnacht-1205@garylewis",
@@ -2657,7 +2657,7 @@
     "sequence": 0,
     "category": "kids",
     "alarm": true,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-hakuna-matata-kindermusical-gala@garylewis",
@@ -2665,27 +2665,27 @@
     "start": "2026-12-05T17:00:00+01:00",
     "end": "2026-12-05T19:00:00+01:00",
     "location": "MODEON, Marktoberdorf",
-    "description": "Children's musical gala of vocal highlights from the best known musicals and Disney films, including König der Löwen, Die Eiskönigin and Tabaluga, with songs to sing and dance along to. A show for the whole family. Tickets from about 26 to 32 EUR.",
-    "url": "https://veranstaltungen.meinestadt.de/deutschland/event-detail/41614318",
+    "description": "Children's musical gala of vocal highlights from the best known musicals and Disney films, including König der Löwen, Die Eiskönigin and Tabaluga, with songs to sing and dance along to. From age 4. Tickets 31.50 EUR.",
+    "url": "https://www.modeon.de/termine/6450/1796486400/hakuna-matata---die-einzigartige-grosse-kindermusical-gala",
     "status": "confirmed",
-    "sequence": 0,
+    "sequence": 1,
     "category": "kids",
     "alarm": true,
-    "last_verified": "2026-08-10"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-nikolauslauf-immenstadt@garylewis",
     "title": "Nikolauslauf Immenstadt",
-    "start": "2026-12-06T10:00:00+01:00",
-    "end": "2026-12-06T13:00:00+01:00",
-    "location": "Immenstadt im Allgäu",
-    "description": "Cancelled for 2026: runme.de states the Nikolauslauf Immenstadt findet im aktuellen Jahr nicht statt and hdsports knows of no further edition. Nikolaus themed December road race at Immenstadt with 5 km and 10 km options, about an hour from Füssen. Start time not yet published, time tbc, verify.",
-    "url": "https://www.runme.de/deutschland/nikolauslauf-immenstadt/",
-    "status": "cancelled",
-    "sequence": 1,
+    "start": "2026-12-05T10:00:00+01:00",
+    "end": "2026-12-05T13:00:00+01:00",
+    "location": "Auwald Stadion, Immenstadt im Allgäu",
+    "description": "Back on for 2026 under a new organiser, TV Immenstadt Triathlon, now on Saturday 5 December. 5 km and 10 km plus children's races from age 6, about an hour from Füssen. Start times not published yet, time tbc, verify. Registration via my.raceresult.com/395909.",
+    "url": "https://tvimmenstadt-triathlon.de/aktuelles/NIkOLAUSLAUF_2026.php",
+    "status": "tentative",
+    "sequence": 2,
     "category": "running",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-raeuber-hotzenplotz-1206@garylewis",
@@ -2699,21 +2699,21 @@
     "sequence": 0,
     "category": "kids",
     "alarm": true,
-    "last_verified": "2026-09-14"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-erlebnisweihnacht-bad-hindelang-w3@garylewis",
     "title": "Erlebnis-Weihnachtsmarkt Bad Hindelang (3. Wochenende)",
     "start": "2026-12-10T14:00:00+01:00",
-    "end": "2026-12-13T19:00:00+01:00",
+    "end": "2026-12-13T21:00:00+01:00",
     "location": "Ortszentrum, Bad Hindelang",
-    "description": "Final weekend of the medieval-style Erlebnisweihnacht in Bad Hindelang, Thursday to Sunday, with the Märchenumzug parade of about 150 fairy tale figures on Friday and Sunday. Children under 12 free; entry includes shuttle buses and parking. Opening hours tbc, verify at badhindelang.de.",
-    "url": "https://www.badhindelang.de/weihnachtsmarkt",
-    "status": "tentative",
-    "sequence": 0,
+    "description": "Final weekend of the Erlebnisweihnacht in Bad Hindelang. Thursday and Friday 14:00 to 21:00 (7 and 12 EUR), Saturday and Sunday 11:00 to 21:00 (10 and 12 EUR). Parades on Friday 11 December and Sunday 13 December at 18:00. Children up to 12 free.",
+    "url": "https://erlebnis-weihnachtsmarkt.de/service/",
+    "status": "confirmed",
+    "sequence": 1,
     "category": "medieval",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-fuessener-adventsmarkt-w2@garylewis",
@@ -2727,7 +2727,7 @@
     "sequence": 1,
     "category": "town",
     "alarm": false,
-    "last_verified": "2026-09-14"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-nikolausschiessen-weissensee@garylewis",
@@ -2741,7 +2741,7 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-09-14"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-adventsnachmittag-magnushaus@garylewis",
@@ -2755,7 +2755,7 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-09-14"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-broadway-kurt-weill-kempten@garylewis",
@@ -2769,7 +2769,7 @@
     "sequence": 0,
     "category": "classical",
     "alarm": false,
-    "last_verified": "2026-09-14"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-we-love-christmas@garylewis",
@@ -2783,7 +2783,7 @@
     "sequence": 0,
     "category": "concert",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-kerzenschein-vokalensemble-basilika@garylewis",
@@ -2797,7 +2797,7 @@
     "sequence": 0,
     "category": "classical",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-klassik-radio-filmmusik-bigbox@garylewis",
@@ -2811,7 +2811,7 @@
     "sequence": 0,
     "category": "concert",
     "alarm": true,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-brandner-kaspar-1219@garylewis",
@@ -2825,7 +2825,7 @@
     "sequence": 0,
     "category": "concert",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-raeuber-hotzenplotz-1220@garylewis",
@@ -2839,7 +2839,7 @@
     "sequence": 0,
     "category": "kids",
     "alarm": false,
-    "last_verified": "2026-09-14"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-weihnachtsoratorium-la-banda@garylewis",
@@ -2853,7 +2853,7 @@
     "sequence": 0,
     "category": "classical",
     "alarm": false,
-    "last_verified": "2026-08-24"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-zauberhaftes-land-von-oz-premiere@garylewis",
@@ -2867,7 +2867,7 @@
     "sequence": 0,
     "category": "kids",
     "alarm": true,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-evf-riessersee-vorweihnachten@garylewis",
@@ -2881,7 +2881,7 @@
     "sequence": 0,
     "category": "hockey",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-zauberhaftes-land-von-oz-1226@garylewis",
@@ -2895,7 +2895,7 @@
     "sequence": 0,
     "category": "kids",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-evf-toelzer-loewen-1228@garylewis",
@@ -2909,7 +2909,7 @@
     "sequence": 0,
     "category": "hockey",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-gluehweinparty-feuerwehr-weissensee@garylewis",
@@ -2923,7 +2923,7 @@
     "sequence": 0,
     "category": "community",
     "alarm": false,
-    "last_verified": "2026-09-14"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-pianotainment-jubilaeum-kempten@garylewis",
@@ -2931,13 +2931,13 @@
     "start": "2026-12-29T20:00:00+01:00",
     "end": "2026-12-29T22:15:00+01:00",
     "location": "Stadttheater, Kempten",
-    "description": "Marcel Dorn and Stephan Weh celebrate 30 years of Pianotainment at the Stadttheater Kempten, a four hands piano show on one instrument ranging from baroque to rock and tango to techno, with surprise guests. Tickets 17 to 46 EUR via theaterinkempten.de.",
+    "description": "Marcel Dorn and Stephan Weh celebrate 30 years of Pianotainment at the Stadttheater Kempten, a four hands piano show on one instrument ranging from baroque to rock and tango to techno, with surprise guests. A second show has been added the same day at 17:00. Tickets 17 to 46 EUR via theaterinkempten.de.",
     "url": "https://theaterinkempten.de/produktion/pianotainment-das-jubilaeumskonzert/",
     "status": "confirmed",
-    "sequence": 0,
+    "sequence": 1,
     "category": "classical",
     "alarm": false,
-    "last_verified": "2026-09-14"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-silvesterkonzert-smetana-kempten@garylewis",
@@ -2951,7 +2951,7 @@
     "sequence": 0,
     "category": "classical",
     "alarm": true,
-    "last_verified": "2026-09-14"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-ludwig-2-silvester@garylewis",
@@ -2965,7 +2965,7 @@
     "sequence": 0,
     "category": "concert",
     "alarm": true,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2027-zauberhaftes-land-von-oz-0102@garylewis",
@@ -2979,7 +2979,7 @@
     "sequence": 0,
     "category": "kids",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2027-zauberhaftes-land-von-oz-0106@garylewis",
@@ -2993,7 +2993,7 @@
     "sequence": 0,
     "category": "kids",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2027-ludwig-meets-michael-jackson@garylewis",
@@ -3007,7 +3007,7 @@
     "sequence": 0,
     "category": "concert",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2027-evf-ec-peiting-0108@garylewis",
@@ -3021,7 +3021,7 @@
     "sequence": 0,
     "category": "hockey",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2027-brandner-kaspar-0114@garylewis",
@@ -3035,7 +3035,7 @@
     "sequence": 0,
     "category": "concert",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-orff-meets-techno-modeon@garylewis",
@@ -3049,7 +3049,7 @@
     "sequence": 0,
     "category": "classical",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-fruchtiger-beigeschmack-bar-ifni@garylewis",
@@ -3057,13 +3057,13 @@
     "start": "2026-10-17T20:00:00+02:00",
     "end": "2026-10-17T22:30:00+02:00",
     "location": "Café Bar Ifni, Füssen",
-    "description": "Live music night with the band Fruchtiger Beigeschmack at Café Bar Ifni in Füssen. Genre not verified, listed under concerts. Tickets via the meinestadt.de listing.",
-    "url": "https://veranstaltungen.meinestadt.de/fuessen/konzerte/alle",
+    "description": "Jazz and blues night with the band Fruchtiger Beigeschmack at Café Bar Ifni in Füssen. Tickets from 23.69 EUR via Eventim.",
+    "url": "https://fruchtigerbeigeschmack.de/",
     "status": "confirmed",
-    "sequence": 0,
+    "sequence": 1,
     "category": "bar-music",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-alpen-film-festival-alpenfilmtheater@garylewis",
@@ -3071,13 +3071,13 @@
     "start": "2026-11-01T19:00:00+01:00",
     "end": "2026-11-01T21:00:00+01:00",
     "location": "Alpenfilmtheater, Füssen",
-    "description": "Live moderated mountain film evening with five documentaries, about 105 minutes. Main film is Nanga Parbat: Echoes of Sisyphus (45 min, Tom Dauer) about David Göttler and his five expeditions on the Schell route over ten years, plus 50-50, Steile Karrieren, Fathom and Ein ganz normales Leben. Date and time taken from the cinema programme page; the festival tour site did not list the Füssen stop yet, so recheck closer to the date. Tickets via the Alpenfilmtheater.",
+    "description": "Live moderated mountain film evening with five documentaries, about 105 minutes. Main film is Nanga Parbat: Echoes of Sisyphus (45 min, Tom Dauer) about David Göttler and his five expeditions on the Schell route over ten years, plus 50-50, Steile Karrieren, Fathom and Ein ganz normales Leben. This is an extra show after the 13 September screening sold out; the festival's own tour list now confirms the Füssen date. Tickets via the Alpenfilmtheater.",
     "url": "https://www.alpenfilmtheater.de/detail/130112/ALPEN%20FILM%20FESTIVAL",
     "status": "confirmed",
-    "sequence": 0,
+    "sequence": 1,
     "category": "talk",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-impulso-tenors-modeon@garylewis",
@@ -3091,7 +3091,7 @@
     "sequence": 0,
     "category": "classical",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-muralim-bar-ifni@garylewis",
@@ -3099,13 +3099,13 @@
     "start": "2026-11-21T20:00:00+01:00",
     "end": "2026-11-21T22:30:00+01:00",
     "location": "Café Bar Ifni, Füssen",
-    "description": "Live music night with Muralim at Café Bar Ifni in Füssen. Genre not verified, listed under concerts. Tickets via the meinestadt.de listing.",
-    "url": "https://veranstaltungen.meinestadt.de/fuessen/konzerte/alle",
-    "status": "confirmed",
-    "sequence": 0,
+    "description": "Jazz night with Muralim, the project of saxophonist and composer Mauro Reimann, at Café Bar Ifni in Füssen. Start time not published, time tbc, verify.",
+    "url": "https://www.muralim.ch/",
+    "status": "tentative",
+    "sequence": 1,
     "category": "bar-music",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2026-silvesterlauf-kempten@garylewis",
@@ -3113,13 +3113,13 @@
     "start": "2026-12-31T13:00:00+01:00",
     "end": "2026-12-31T16:00:00+01:00",
     "location": "Illerstadion, Illerdamm 12, Kempten",
-    "description": "New Year's Eve run in Kempten with 5 km and 10 km races, opener of the Laufsport Saukel Cup 2027. Date 31 Dec 2026 confirmed on running.life; the 2026 Ausschreibung is not out yet. Placeholder times from the 2025 edition (5 km 13:00, open from U12; 10 km 14:00), time tbc, verify at 808project.de/silvesterlauf.",
-    "url": "https://running.life/en/event/silvesterlauf-kempten",
-    "status": "tentative",
-    "sequence": 0,
+    "description": "New Year's Eve run in Kempten, opener of the Laufsport Saukel Cup 2027. 5 km at 13:00 (born 2016 or earlier, so the boys are too young), 10 km (2 x 5 km) at 14:00 (born 2014 or earlier). Fees 20 EUR for 5 km until 20 December, 25 EUR for 10 km.",
+    "url": "https://www.datasport.de/anmeldeservice/silvesterlaufkempten2026/",
+    "status": "confirmed",
+    "sequence": 1,
     "category": "running",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2027-titanic-musical-modeon@garylewis",
@@ -3133,7 +3133,7 @@
     "sequence": 0,
     "category": "concert",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
   },
   {
     "uid": "fuessen-2027-falco-meets-amadeus@garylewis",
@@ -3147,6 +3147,1028 @@
     "sequence": 0,
     "category": "concert",
     "alarm": false,
-    "last_verified": "2026-09-21"
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-fruehschoppen-festspielhaus-1011@garylewis",
+    "title": "Frühschoppenkonzert im Biergarten am Festspielhaus",
+    "start": "2026-10-11T11:00:00+02:00",
+    "end": "2026-10-11T13:00:00+02:00",
+    "location": "Biergarten am Festspielhaus, Füssen",
+    "description": "Free Sunday morning brass band concert by a Musikkapelle of the Allgäu-Schwäbischer Musikbund in the Festspielhaus beer garden on the Forggensee shore, weather permitting. The October dates are back on the programme: 11, 18 and 25 October are the last three of the season.",
+    "url": "https://das-festspielhaus.de/alle-veranstaltungen/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-fruehschoppen-festspielhaus-1018@garylewis",
+    "title": "Frühschoppenkonzert im Biergarten am Festspielhaus",
+    "start": "2026-10-18T11:00:00+02:00",
+    "end": "2026-10-18T13:00:00+02:00",
+    "location": "Biergarten am Festspielhaus, Füssen",
+    "description": "Free Sunday morning brass band concert by a Musikkapelle of the Allgäu-Schwäbischer Musikbund in the Festspielhaus beer garden on the Forggensee shore, weather permitting. The October dates are back on the programme: 11, 18 and 25 October are the last three of the season.",
+    "url": "https://das-festspielhaus.de/alle-veranstaltungen/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-fruehschoppen-festspielhaus-1025@garylewis",
+    "title": "Frühschoppenkonzert im Biergarten am Festspielhaus",
+    "start": "2026-10-25T11:00:00+01:00",
+    "end": "2026-10-25T13:00:00+01:00",
+    "location": "Biergarten am Festspielhaus, Füssen",
+    "description": "Free Sunday morning brass band concert by a Musikkapelle of the Allgäu-Schwäbischer Musikbund in the Festspielhaus beer garden on the Forggensee shore, weather permitting. The October dates are back on the programme: 11, 18 and 25 October are the last three of the season.",
+    "url": "https://das-festspielhaus.de/alle-veranstaltungen/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2027-es-war-einmal-festspielhaus@garylewis",
+    "title": "Es war Einmal...",
+    "start": "2027-01-23T15:00:00+01:00",
+    "end": "2027-01-23T17:30:00+01:00",
+    "location": "Festspielhaus Neuschwanstein, Füssen",
+    "description": "Family musical revue with songs from musicals and films such as Frozen, Shrek and The Lion King, plus dancers, aerial acrobatics and a live band. Soloists Maria Meßner, Daniel Mladenov, Kristin Hesse and Patrick Granado. Billed as the last run of this show. Tickets 45.90 to 84.90 EUR.",
+    "url": "https://das-festspielhaus.de/programm/es-war-einmal/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "kids",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2027-cinderella-musical-festspielhaus@garylewis",
+    "title": "Cinderella - Das Musical",
+    "start": "2027-01-24T11:00:00+01:00",
+    "end": "2027-01-24T13:00:00+01:00",
+    "location": "Festspielhaus Neuschwanstein, Füssen",
+    "description": "Family musical based on the Brothers Grimm fairy tale. More shows on 30 January at 14:00 and 18:30 and on 31 January at 11:00. Tickets 39.99 to 109.99 EUR via the Festspielhaus eventim shop.",
+    "url": "https://das-festspielhaus.de/alle-veranstaltungen/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "kids",
+    "alarm": true,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2027-jenaer-philharmonie-kempten@garylewis",
+    "title": "Meisterkonzert: Jenaer Philharmonie",
+    "start": "2027-01-23T19:00:00+01:00",
+    "end": "2027-01-23T21:15:00+01:00",
+    "location": "Stadttheater, Kempten",
+    "description": "Symphony orchestra concert conducted by Simon Gaudenz with Daniel Ottensamer on clarinet: Tomlinson's Highway to the Sun, Copland's Concerto for Clarinet, Harp and Orchestra, and Dvořák's Symphony No. 8. Introductory talk 45 minutes before the start. Tickets 22 to 58 EUR.",
+    "url": "https://theaterinkempten.de/produktion/jenaer-philharmonie/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "classical",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2027-fin-de-siecle-pariser-salon@garylewis",
+    "title": "FIN DE SIÈCLE IM PARISER SALON",
+    "start": "2027-02-05T20:00:00+01:00",
+    "end": "2027-02-05T21:30:00+01:00",
+    "location": "TheaterOben, Theater in Kempten, Kempten",
+    "description": "Cello and piano recital with readings about the French composer Mel Bonis and her era. Dorothee Gurski (cello) and Annette Naumann (piano) play Bonis's Sonata for cello and piano and her Serenade, Saint-Saëns's The Swan, Fauré's Berceuse and Sicilienne, and Boulanger's Trois pièces. Premiere; repeats 6 February 19:00 and 7 February 18:00. 24 EUR, small studio stage.",
+    "url": "https://theaterinkempten.de/produktion/fin-de-siecle-im-pariser-salon/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "classical",
+    "alarm": true,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-adventskonzert-muenchner-symphoniker-bigbox@garylewis",
+    "title": "Adventskonzert: Musikalische Schlittenfahrt",
+    "start": "2026-12-06T19:00:00+01:00",
+    "end": "2026-12-06T21:00:00+01:00",
+    "location": "klassikBOX, bigBOX ALLGÄU, Kempten",
+    "description": "Symphony orchestra concert by the Münchner Symphoniker under Joseph Bastian: Humperdinck's Hänsel und Gretel prelude, Respighi, Mozart's Zauberflöte overture, Leopold Mozart's Musikalische Schlittenfahrt, and winter and sleigh-ride pieces by Strauss, Delius and Waldteufel. Doors 18:00.",
+    "url": "https://www.bigboxallgaeu.de/events/klassik-oper-ballett-theater/adventskonzert-06-12-2026",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "classical",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2027-neujahrskonzert-muenchner-symphoniker-bigbox@garylewis",
+    "title": "Neujahrskonzert mit den Münchner Symphonikern",
+    "start": "2027-01-05T19:00:00+01:00",
+    "end": "2027-01-05T21:00:00+01:00",
+    "location": "klassikBOX, bigBOX ALLGÄU, Kempten",
+    "description": "Symphony orchestra New Year concert by the Münchner Symphoniker under Daniel Spaw, presented by Max Müller: polkas, waltzes and overtures by Suppè, the Strauss family, Ziehrer and Elgar. Doors 18:00.",
+    "url": "https://www.bigboxallgaeu.de/events/klassik-oper-ballett-theater/neujahrskonzert-05-01-2027",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "classical",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-violin-recital-richard-strauss-institut@garylewis",
+    "title": "1. Kammerkonzert: Violin-Recital",
+    "start": "2026-11-14T19:00:00+01:00",
+    "end": "2026-11-14T21:00:00+01:00",
+    "location": "Konzertsaal, Richard-Strauss-Institut, Garmisch-Partenkirchen",
+    "description": "Violin and piano recital by Julia Galic (violin) and Angela-Charlott Linckelmann (piano): Pejačević's Sonata op. 26, Richard Strauss's Sonata op. 18 and Biber's Mystery Sonatas 1 and 10. 29 EUR, reduced 10 EUR.",
+    "url": "https://www.richard-strauss-institut.de/de/veranstaltungen/detail/1163",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "classical",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-liederabend-richard-strauss-institut@garylewis",
+    "title": "Liederabend (Sonderkonzert)",
+    "start": "2026-11-28T18:00:00+01:00",
+    "end": "2026-11-28T20:00:00+01:00",
+    "location": "Konzertsaal, Richard-Strauss-Institut, Garmisch-Partenkirchen",
+    "description": "Song recital for soprano, clarinet and piano with Alexandra Steier, László Kuti and Paul Rivinius: Spohr, Strauss, le Beau, Schumann and Cornelius. 29 EUR, reduced 10 EUR.",
+    "url": "https://www.richard-strauss-institut.de/de/veranstaltungen/detail/753",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "classical",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-opernabend-sinfonieorchester-marktoberdorf@garylewis",
+    "title": "Opernabend mit Julie und Johannes Mooser",
+    "start": "2026-10-25T19:00:00+01:00",
+    "end": "2026-10-25T21:00:00+01:00",
+    "location": "Musikakademie, Marktoberdorf",
+    "description": "Opera evening of the Sinfonieorchester Marktoberdorf (symphony orchestra) with Julie and Johannes Mooser, music by Mozart, Rossini, Dvořák, Wagner and Puccini. Voice types and prices not published.",
+    "url": "https://sinfonieorchester-marktoberdorf.de/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "classical",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2027-concilium-musicum-wien-kaufbeuren@garylewis",
+    "title": "Neujahrskonzert: Tanzmusik aus dem kaiserlichen Wien",
+    "start": "2027-01-06T17:00:00+01:00",
+    "end": "2027-01-06T19:00:00+01:00",
+    "location": "Stadtsaal, Kaufbeuren",
+    "description": "Chamber ensemble Concilium Musicum Wien: Christoph Angerer (violin, viola d'amore), Milan Nikolić (violin), Cecilia Hatos (viola), Ute Groh (cello), Damián Posse (double bass) and Robert Pin (flute) play dance music by Haydn, Mozart, Beethoven, Schubert, Strauss and Lanner. Tickets via Reservix.",
+    "url": "https://kulturring-kaufbeuren.de/events/concilium-musicum-wien",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "classical",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-plansee-konzert-hanke-brothers@garylewis",
+    "title": "Plansee Konzert: Vier Brüder und das Fest der wilden Töne",
+    "start": "2026-10-22T20:00:00+02:00",
+    "end": "2026-10-22T22:00:00+02:00",
+    "location": "Walter Schwarzkopf-Saal der Plansee Group, Breitenwang (Reutte)",
+    "description": "The Hanke Brothers, a chamber ensemble of four brothers, mix classical music with jazz and pop in the Plansee Konzerte series, about 20 minutes from Füssen. Instruments not confirmed.",
+    "url": "https://www.reutte.at/Plansee_Konzert_Vier_Brueder_und_das_Fest_der_wilden_Toene",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "classical",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-stadl-fest-blechragu-1009@garylewis",
+    "title": "Stadl-Fest mit Blechragu & Georg Ried",
+    "start": "2026-10-09T19:30:00+02:00",
+    "end": "2026-10-09T22:30:00+02:00",
+    "location": "Bannwaldsee-Stadl, Münchener Str. 151, Schwangau",
+    "description": "Live music evening at the Bannwaldsee-Stadl with Blechragu and Georg Ried, genre not verified. Free entry. Run by Campingplatz Bannwaldsee.",
+    "url": "https://bannwaldsee-stadl.de/oktober-2026/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-konzert-mk-hopfen-1018@garylewis",
+    "title": "Konzert der Musikkapelle Hopfen am See",
+    "start": "2026-10-18T10:00:00+02:00",
+    "end": "2026-10-18T11:30:00+02:00",
+    "location": "Haus Hopfensee, Füssen-Hopfen am See",
+    "description": "Sunday morning brass band concert by the Musikkapelle Hopfen am See. Free entry.",
+    "url": "https://www.fuessenaktuell.de/index.php/konzerte/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-grizzly-bird-kulturinitiative@garylewis",
+    "title": "Grizzly Bird - Trio Konzert",
+    "start": "2026-10-23T20:00:00+02:00",
+    "end": "2026-10-23T22:00:00+02:00",
+    "location": "Altes Spital, Spitalgasse 6, Füssen",
+    "description": "Kulturinitiative Füssen concert by Grizzly Bird, the folk and singer-songwriter project of Füssen musician Hans Gnendinger (vocals, guitar), with Nils Wenzel on bass and Florian Dietrich on drums. Start time not published, time tbc, verify at kifuessen.de.",
+    "url": "https://kifuessen.de/calendar/grizzly-bird",
+    "status": "tentative",
+    "sequence": 0,
+    "category": "bar-music",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-sing-und-swing-lechchorallen@garylewis",
+    "title": "\"Sing und Swing\" mit den Allgäuer LechCHORallen",
+    "start": "2026-10-23T19:00:00+02:00",
+    "end": "2026-10-23T21:00:00+02:00",
+    "location": "Museum der bayerischen Könige, Alpseestraße 27, Hohenschwangau",
+    "description": "Choir concert conducted by Walter Dolak, songs from Udo Jürgens to Queen. Guests Markus Kerber (flutes, saxophone, cajon) and singer Florian Keller. Price not published.",
+    "url": "http://veranstaltungen.erlebe.bayern/schwangau/sing-und-swing-mit-den-allgaeuer-lechchorallen-e891f2bbbeb7e011f6a632f734f046c0f.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-blasmusikabend-blonhofen-1024@garylewis",
+    "title": "Blasmusikabend mit der Musikkapelle Blonhofen",
+    "start": "2026-10-24T19:30:00+02:00",
+    "end": "2026-10-24T21:30:00+02:00",
+    "location": "Bannwaldsee-Stadl, Münchener Str. 151, Schwangau",
+    "description": "Brass band evening with the Musikkapelle Blonhofen at the Bannwaldsee-Stadl. Free entry.",
+    "url": "https://bannwaldsee-stadl.de/oktober-2026/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-volksmusikabend-oberer-lechgau@garylewis",
+    "title": "Volksmusikabend Oberer Lechgau",
+    "start": "2026-11-07T19:00:00+01:00",
+    "end": "2026-11-07T22:00:00+01:00",
+    "location": "Schlossbrauhaus, Gipsmühlweg 5, Schwangau",
+    "description": "Folk music evening with groups from the Oberer Lechgau: Bloßamol and the Kemptner Tanzlmusi, the singing groups Zwoastimmig, Wieser Orgelpfeifen and Bidinger Sänger, the Brotzeitmusi, the duo Vreni und Moritz, and the Goasslschnalzer Roßhaupten (whip crackers) to close. BR Heimat records it for broadcast.",
+    "url": "http://veranstaltungen.erlebe.bayern/schwangau/volksmusikabend-oberer-lechgau-e3abca0f0dff66f4b581737a81524b962.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-benefizkonzert-hugo-schlossbrauhaus@garylewis",
+    "title": "Benefizkonzert Hugo 4.0",
+    "start": "2026-11-27T20:00:00+01:00",
+    "end": "2026-11-27T22:00:00+01:00",
+    "location": "Schlossbrauhaus, Gipsmühlweg 5, Schwangau",
+    "description": "Benefit concert by a 13-piece ensemble playing Renaissance music, film and musical songs, and rock and pop hits. Donations go to Kartei der Not and the Allgäuer Hilfsfonds.",
+    "url": "http://veranstaltungen.erlebe.bayern/schwangau/benefizkonzert-hugo-40-ea92e156e93a7ff5bfbe21d4d640e7fd8.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-december-project-schlossbrauhaus@garylewis",
+    "title": "Konzert \"December - Project\"",
+    "start": "2026-11-28T19:00:00+01:00",
+    "end": "2026-11-28T21:00:00+01:00",
+    "location": "Schlossbrauhaus, Gipsmühlweg 5, Schwangau",
+    "description": "Acoustic four-piece band (Klaus Görne, Daniele Granito, Wolfgang Sauter, Michael Ostrowski) with multi-part vocals, covering Crosby, Stills & Nash, Simon & Garfunkel and the Eagles. Same evening as the Musikkapelle Weissensee Jahreskonzert.",
+    "url": "http://veranstaltungen.erlebe.bayern/schwangau/konzert-december-project-e7985cb6164114993ee46ad416697483f.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-heimische-musik-advent-schwangau@garylewis",
+    "title": "Heimische Musik zum Advent",
+    "start": "2026-12-06T17:00:00+01:00",
+    "end": "2026-12-06T18:00:00+01:00",
+    "location": "Pfarrkirche St. Maria und Florian, Forggenseestraße 74, Schwangau",
+    "description": "Advent folk music in the Schwangau parish church with readings by Andrea Höß: Schwangauer Bläser (wind ensemble), Tocamos (vocals, guitar), Lechtaler Viergesang (vocal quartet), Angelika & Herbert (guitar, zither) and John & Rudi (violin, accordion). Same day as the Schwangauer Nikolausmarkt.",
+    "url": "http://veranstaltungen.erlebe.bayern/schwangau/heimische-musik-zum-advent-e02611ceb2d2db27c31837effd9b012fe.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "concert",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-messner-weltberge-garmisch@garylewis",
+    "title": "Reinhold Messner: Weltberge - Die 4. Dimension",
+    "start": "2026-10-17T20:00:00+02:00",
+    "end": "2026-10-17T22:00:00+02:00",
+    "location": "Kongresshaus, Garmisch-Partenkirchen",
+    "description": "A different lecture from the Über Leben show in Füssen and Oberstdorf: Messner presents 13 of the world's great mountains in 3D satellite visualisations built with DLR data, with his own stories from them. Doors 19:00, tickets from 44.90 EUR via eventim and GAP-Ticket.",
+    "url": "https://www.reinholdmessner.com/de/aktuelles/tourneen/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "talk",
+    "alarm": true,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-eoft-alpenfilmtheater@garylewis",
+    "title": "European Outdoor Film Tour 2026 (E.O.F.T.)",
+    "start": "2026-12-19T16:00:00+01:00",
+    "end": "2026-12-19T18:00:00+01:00",
+    "location": "Alpenfilmtheater Saal 1, Augustenstraße 15, Füssen",
+    "description": "About two hours of outdoor and adventure films in original language with German subtitles, free seating. Two shows: 16:00 (doors 15:30) and 20:00 (doors 19:30). The same programme plays the Kornhaus Kempten on 25 and 26 November if you want it earlier.",
+    "url": "https://de.eoft.eu/de/tickets/fuessen",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "talk",
+    "alarm": true,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-christine-thuermer-bigbox@garylewis",
+    "title": "Christine Thürmer: WANDERN TOTAL - Die Welt zu deinen Füßen",
+    "start": "2026-11-11T20:00:00+01:00",
+    "end": "2026-11-11T22:00:00+01:00",
+    "location": "kultBOX, bigBOX ALLGÄU, Kempten",
+    "description": "Live talk by long-distance hiker Christine Thürmer, who has walked more than 65,000 km on five continents, comparing hiking cultures in 40 countries. Doors 19:00.",
+    "url": "https://www.bigboxallgaeu.de/events/vortraege-lesungen/christine-thuermer-11-11-2026",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "talk",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2027-dav-sektionsabend-ruth-zeller@garylewis",
+    "title": "DAV Sektionsabend: Vortrag mit Ruth Zeller",
+    "start": "2027-01-14T19:00:00+01:00",
+    "end": "2027-01-14T21:00:00+01:00",
+    "location": "Aula der Grundschule am Aybühlweg, Kempten",
+    "description": "DAV Allgäu-Kempten lecture evening with Ruth Zeller, topic not yet announced. Free entry, non-members welcome.",
+    "url": "https://www.dav-kempten.de/aktivitaeten/details/SKA-701",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "talk",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-kinder-uni-auto-der-zukunft@garylewis",
+    "title": "Kinder-Uni: Wie fährt das Auto der Zukunft?",
+    "start": "2026-11-19T16:00:00+01:00",
+    "end": "2026-11-19T17:00:00+01:00",
+    "location": "Thomas-Dachser-Auditorium (Audimax), Hochschule Kempten, Bahnhofstr. 61, Kempten",
+    "description": "Children's university lecture for ages 8 to 12: Prof. Dr. Gregor Bischoff explains petrol, diesel, electric and hydrogen drives with demonstrations. Free, accompanying adults welcome; only school classes register.",
+    "url": "https://www.hs-kempten.de/hochschule/aktuelles/veranstaltungen-termine/termin/kinder-uni-wie-faehrt-das-auto-der-zukunft-4166",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "science",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2027-kinder-uni-ausserirdische@garylewis",
+    "title": "Kinder-Uni: Gibt es Außerirdische? Die Suche nach Leben im Weltall",
+    "start": "2027-01-14T16:00:00+01:00",
+    "end": "2027-01-14T17:00:00+01:00",
+    "location": "Thomas-Dachser-Auditorium (Audimax), Hochschule Kempten, Bahnhofstr. 61, Kempten",
+    "description": "Children's university lecture for ages 8 to 12: Prof. Dr. Thomas Eimüller turns the audience into alien detectives searching for life in space. Free, 350 seats.",
+    "url": "https://www.hs-kempten.de/hochschule/aktuelles/veranstaltungen-termine/termin/kinder-uni-gibt-es-ausserirdische-die-suche-nach-leben-im-weltall-4168",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "science",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-hs-kempten-grossbatteriespeicher@garylewis",
+    "title": "Ohne Speicher keine Energiewende? Wie Großbatteriespeicher das Stromnetz stabilisieren",
+    "start": "2026-10-13T18:00:00+02:00",
+    "end": "2026-10-13T19:30:00+02:00",
+    "location": "Hörsaal 411, Building V, Hochschule Kempten, Bahnhofstr. 61, Kempten",
+    "description": "Public lecture in the Hochschule Kempten technical series with VDE and VDI: Christoph Lienert (CEO of green flexibility) on how grid-scale batteries keep the power grid stable. Free, also streamed on Zoom.",
+    "url": "https://www.hs-kempten.de/hochschule/aktuelles/veranstaltungen-termine/termin/ohne-speicher-keine-energiewende-wie-grossbatteriespeicher-das-stromnetz-stabilisieren-4197",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "science",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-sternwarte-ottobeuren-sternbilder-herbst@garylewis",
+    "title": "Sternbilder des Herbst",
+    "start": "2026-10-09T19:30:00+02:00",
+    "end": "2026-10-09T21:30:00+02:00",
+    "location": "Allgäuer Volkssternwarte Ottobeuren, Wolferts 40, Ottobeuren",
+    "description": "Guide to the autumn constellations. Show at the Allgäuer Volkssternwarte Ottobeuren, about 65 minutes from Füssen, with telescope viewing if the sky is clear. 8 EUR, 4 EUR off for children under 10, cash only, book a place via the event page.",
+    "url": "https://www.avso.de/events/sternbilder-2026-herbst/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "science",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-sternwarte-ottobeuren-mond@garylewis",
+    "title": "Der Mond - die Sonne der Nacht",
+    "start": "2026-10-23T19:30:00+02:00",
+    "end": "2026-10-23T21:30:00+02:00",
+    "location": "Allgäuer Volkssternwarte Ottobeuren, Wolferts 40, Ottobeuren",
+    "description": "Evening about the Moon. Show at the Allgäuer Volkssternwarte Ottobeuren, about 65 minutes from Füssen, with telescope viewing if the sky is clear. 8 EUR, 4 EUR off for children under 10, cash only, book a place via the event page.",
+    "url": "https://www.avso.de/events/mond-2026-10/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "science",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-sternwarte-ottobeuren-saturn@garylewis",
+    "title": "SATURN - die Highlights der Cassini-Huygens-Mission",
+    "start": "2026-11-13T19:30:00+01:00",
+    "end": "2026-11-13T21:00:00+01:00",
+    "location": "Allgäuer Volkssternwarte Ottobeuren, Wolferts 40, Ottobeuren",
+    "description": "Saturn and the results of the Cassini-Huygens mission. Show at the Allgäuer Volkssternwarte Ottobeuren, about 65 minutes from Füssen, with telescope viewing if the sky is clear. 8 EUR, 4 EUR off for children under 10, cash only, book a place via the event page.",
+    "url": "https://www.avso.de/events/saturn_2026-11/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "science",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-sternwarte-ottobeuren-stern-bethlehem@garylewis",
+    "title": "Der Stern von Bethlehem",
+    "start": "2026-12-18T19:30:00+01:00",
+    "end": "2026-12-18T21:00:00+01:00",
+    "location": "Allgäuer Volkssternwarte Ottobeuren, Wolferts 40, Ottobeuren",
+    "description": "Advent programme on the astronomy behind the Star of Bethlehem. Show at the Allgäuer Volkssternwarte Ottobeuren, about 65 minutes from Füssen, with telescope viewing if the sky is clear. 8 EUR, 4 EUR off for children under 10, cash only, book a place via the event page.",
+    "url": "https://www.avso.de/veranstaltungen/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "science",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-ov-20261012@garylewis",
+    "title": "Heart of the Beast (OV)",
+    "start": "2026-10-12T20:00:00+02:00",
+    "end": "2026-10-12T21:45:00+02:00",
+    "location": "Alpenfilmtheater, Füssen",
+    "description": "English original version of David Ayer's survival drama with Brad Pitt (USA 2026), about 101 minutes, FSK 6. The cinema's OV list names 12 October but the OV start time is not published yet; the dubbed version plays at 20:00 this week. Time tbc, verify. Same evening as Messner at the Festspielhaus.",
+    "url": "https://www.alpenfilmtheater.de/detail/98707/Heart+Of+The+Beast+%28OV%29",
+    "status": "tentative",
+    "sequence": 0,
+    "category": "ov-film",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2027-evf-esv-kaufbeuren-0129@garylewis",
+    "title": "EV Füssen vs ESV Kaufbeuren (Allgäu Derby)",
+    "start": "2027-01-29T19:30:00+01:00",
+    "end": "2027-01-29T22:00:00+01:00",
+    "location": "Bundesstützpunkt Eishockey Arena, Füssen",
+    "description": "Second Füssen home derby of the season against ESV Kaufbeuren, Oberliga Süd matchday 43, Friday night. Face-off 19:30. Tickets via evfuessen.de/tickets.",
+    "url": "https://www.eishockeynews.de/spiel/ev-fuessen-gegen-esv-kaufbeuren-5240707/info",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "hockey",
+    "alarm": true,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-u18-4-nationen-ger-den@garylewis",
+    "title": "U18 4-Nationen-Turnier: Deutschland vs Dänemark",
+    "start": "2026-11-06T19:00:00+01:00",
+    "end": "2026-11-06T21:30:00+01:00",
+    "location": "Füssen (DEB names only the town; check deb-online.de for arena and admission)",
+    "description": "German U18 men's national team at home in a four-nations tournament (2 to 8 November) against Denmark, Norway and Slovakia. Admission not published.",
+    "url": "https://www.deb-online.de/u18-maenner-nationalmannschaft/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "hockey",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-u18-4-nationen-ger-nor@garylewis",
+    "title": "U18 4-Nationen-Turnier: Deutschland vs Norwegen",
+    "start": "2026-11-07T19:00:00+01:00",
+    "end": "2026-11-07T21:30:00+01:00",
+    "location": "Füssen (DEB names only the town; check deb-online.de for arena and admission)",
+    "description": "German U18 men's national team at home in a four-nations tournament (2 to 8 November) against Denmark, Norway and Slovakia. Admission not published.",
+    "url": "https://www.deb-online.de/u18-maenner-nationalmannschaft/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "hockey",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-u18-4-nationen-ger-svk@garylewis",
+    "title": "U18 4-Nationen-Turnier: Deutschland vs Slowakei",
+    "start": "2026-11-08T14:30:00+01:00",
+    "end": "2026-11-08T17:00:00+01:00",
+    "location": "Füssen (DEB names only the town; check deb-online.de for arena and admission)",
+    "description": "German U18 men's national team at home in a four-nations tournament (2 to 8 November) against Denmark, Norway and Slovakia. Admission not published.",
+    "url": "https://www.deb-online.de/u18-maenner-nationalmannschaft/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "hockey",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-schoellanger-herbstlauf@garylewis",
+    "title": "Schöllanger Herbstlauf",
+    "start": "2026-10-11T12:00:00+02:00",
+    "end": "2026-10-11T15:00:00+02:00",
+    "location": "Ortseingang Schöllang, Oberstdorf",
+    "description": "SC Rubihorn race with distances for every age, from a 750 m Bambini race up to 5 km or 10 km for adults, plus Nordic walking. About an hour from Füssen. Entries close Thursday 8 October at 18:00 via rennmeldung.de. Same day as the Colomansfest.",
+    "url": "https://www.sc-rubihorn.de/aktuelles/news",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "running",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-eibsee-herbstlauf@garylewis",
+    "title": "45. Eibsee-Herbstlauf",
+    "start": "2026-10-25T10:00:00+01:00",
+    "end": "2026-10-25T12:30:00+01:00",
+    "location": "Zugspitzbad / Kurhaus Grainau, Parkweg 8, Grainau",
+    "description": "12.2 km run from Grainau up to the Eibsee below the Zugspitze north face, about 370 m of climbing, organised by SC Eibsee Grainau. Nordic walking starts 09:30, run 10:00. Entry 18 EUR, no kids race. About an hour from Füssen via Reutte.",
+    "url": "https://www.sceg.de/PublicEibseelauf",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "running",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-neuschwanstein-klimastreifen@garylewis",
+    "title": "Schloss Neuschwanstein in Klimastreifen - Auftakt zur Bayerischen Klimawoche",
+    "start": "2026-10-08T20:30:00+02:00",
+    "end": "2026-10-08T23:00:00+02:00",
+    "location": "Schloss Neuschwanstein, Neuschwansteinstraße 20, Schwangau",
+    "description": "The Bavarian environment ministry projects the Bavarian climate stripes onto Neuschwanstein to open Climate Week Bavaria. Visible from Schwangau and the Forggensee shore.",
+    "url": "http://veranstaltungen.erlebe.bayern/schwangau/schloss-neuschwanstein-in-klimastreifen-auftakt-zur-bayerischen-klimawoche-e5996749942d81a73057854dbbbfe350c.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "community",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-hopfener-brauchtumsabend@garylewis",
+    "title": "Hopfener Brauchtumsabend",
+    "start": "2026-10-09T20:00:00+02:00",
+    "end": "2026-10-09T22:30:00+02:00",
+    "location": "Haus Hopfensee, Füssen-Hopfen am See",
+    "description": "Folk evening with the Trachtenverein Burg Hopfen and its children's and youth groups. Free entry, doors 18:00.",
+    "url": "https://www.fuessen.de/fileadmin/userdaten/docs/service/W%C3%B6chentliche_Veranstaltungen/Woechentliche_Veranstaltungen_vom_03.10.-09.10.2026.pdf",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "community",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-alpabtrieb-ziegen-rohrkopfhuette@garylewis",
+    "title": "Alp-Abtrieb der Ziegen",
+    "start": "2026-10-17T12:00:00+02:00",
+    "end": "2026-10-17T18:00:00+02:00",
+    "location": "Rohrkopfhütte, Rohrkopf 1, Schwangau",
+    "description": "The hut's goats Stella, Sina and Rohrgina come down from the alp to close the Rohrkopfhütte's summer season, with roast pork and Kesselfleisch at the hut.",
+    "url": "http://veranstaltungen.erlebe.bayern/schwangau/alp-abtrieb-der-ziegen-e290797047ac9393f477e7ba6d55705bf.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "community",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-halloweenabenteuer-schwansee@garylewis",
+    "title": "Wanderung \"Halloweenabenteuer am See\"",
+    "start": "2026-10-31T15:00:00+01:00",
+    "end": "2026-10-31T17:00:00+01:00",
+    "location": "Parkplatz Schwansee, Königssträßchen, Schwangau",
+    "description": "Halloween-themed guided walk by the Tourist Information Schwangau; children only with an adult. Price and booking not published.",
+    "url": "http://veranstaltungen.erlebe.bayern/schwangau/wanderung-halloweenabenteuer-am-see-e56cdc5db2d98ef39fb19460d37aed859.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "kids",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-kinderlesung-wintersterne@garylewis",
+    "title": "Kinderlesung \"Die Wintersterne\"",
+    "start": "2026-11-02T16:00:00+01:00",
+    "end": "2026-11-02T17:00:00+01:00",
+    "location": "Schlossbrauhaus, Gipsmühlweg 5, Schwangau",
+    "description": "Children's reading by Marie Luise Kaiser. Age range and price not published.",
+    "url": "http://veranstaltungen.erlebe.bayern/schwangau/kinderlesung-die-wintersterne-e3b6fb696454d06c6956b5bf6177a9df3.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "kids",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-faschingseroeffnung-schwangau@garylewis",
+    "title": "Faschingseröffnung",
+    "start": "2026-11-11T20:11:00+01:00",
+    "end": "2026-11-11T23:00:00+01:00",
+    "location": "Schneiderhanser (Hotel Helmer), Mitteldorf 10, Schwangau",
+    "description": "Start of the Schwangau Fasching season at 20:11 on 11.11.",
+    "url": "http://veranstaltungen.erlebe.bayern/schwangau/faschingseroeffnung-e8584c001859978eb5ce748be702a764a.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "community",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-st-martin-hohenschwangau@garylewis",
+    "title": "St. Martin mit Laternenumzug",
+    "start": "2026-11-13T16:45:00+01:00",
+    "end": "2026-11-13T18:30:00+01:00",
+    "location": "Start at Alpseestraße / Fürstenstraße, Hohenschwangau",
+    "description": "Children carry lanterns up to the courtyard of Schloss Hohenschwangau, where St. Martin arrives on horseback, the local youth band plays and everyone sings Martin songs. Hot drinks and roast goose. Bring your own cup, LED lanterns only. Organised by the Wittelsbacher Ausgleichsfonds.",
+    "url": "http://veranstaltungen.erlebe.bayern/schwangau/st-martin-mit-laternenumzug-e08f9d4fc7a115e4f745b3f07330522eb.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "kids",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-comedy-dino-show-schlossbrauhaus@garylewis",
+    "title": "Die Comedy Dino Show",
+    "start": "2026-11-15T11:00:00+01:00",
+    "end": "2026-11-15T12:00:00+01:00",
+    "location": "Schlossbrauhaus, Gipsmühlweg 5, Schwangau",
+    "description": "Family comedy show by Andreas Lang (magicdresi.de). Second show at 14:00. Price not published.",
+    "url": "http://veranstaltungen.erlebe.bayern/schwangau/die-comedy-dino-show-e374273d1a3ac4ad77042b49feb82e581.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "kids",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-film-bau-lechstaustufe@garylewis",
+    "title": "Filmvorführung \"Bau der Lechstaustufe 1\"",
+    "start": "2026-11-22T19:30:00+01:00",
+    "end": "2026-11-22T21:30:00+01:00",
+    "location": "Schlossbrauhaus, Gipsmühlweg 5, Schwangau",
+    "description": "Restored 35 mm documentary about building the Forggensee dam, which opened in 1954, shown in public for the first time in over 60 years.",
+    "url": "http://veranstaltungen.erlebe.bayern/schwangau/filmvorfuehrung-bau-der-lechstaustufe-1-e054bc079ecfba9ec31c45bf2b0f57c82.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "community",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-gunglhos-vorverkauf@garylewis",
+    "title": "Gunglhos: Kartenvorverkauf",
+    "start": "2026-11-28T09:00:00+01:00",
+    "end": "2026-11-28T11:00:00+01:00",
+    "location": "Schlossbrauhaus, Gipsmühlweg 5, Schwangau",
+    "description": "Ticket presale for the six Gunglhos Fasching shows in January 2027: 16, 22, 23, 29 and 30 January at 19:30 and the Familiengunglhos on 17 January at 14:00. Sales start 09:00 at the Schlossbrauhaus, QR-code queue numbers from 08:00, max 24 tickets per person, cash or card.",
+    "url": "http://veranstaltungen.erlebe.bayern/schwangau/1-gunglhos-e3629b0a4f609736372d107c63d5fd63d.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "community",
+    "alarm": true,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-schwangauer-nikolausmarkt@garylewis",
+    "title": "Schwangauer Nikolausmarkt",
+    "start": "2026-12-06T13:00:00+01:00",
+    "end": "2026-12-06T18:00:00+01:00",
+    "location": "Mitteldorf 18, Schwangau",
+    "description": "Christmas market of the Kur- und Verkehrsverein with wooden stalls, homemade food, Christmas baking and handmade gifts. At dusk the Nikolaus arrives in a horse-drawn carriage and hands out small presents. Proceeds go to local social causes. Closing time not published.",
+    "url": "http://veranstaltungen.erlebe.bayern/waltenhofen/schwangauer-nikolausmarkt-eacb1ef1ea6ba0f9f37f4d942ded63eea.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "community",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-bergweihnacht-drehhuette@garylewis",
+    "title": "Bergweihnacht an der Drehhütte",
+    "start": "2026-12-19T11:00:00+01:00",
+    "end": "2026-12-19T17:00:00+01:00",
+    "location": "Drehhütte 1, Schwangau",
+    "description": "Mountain Christmas market at the Drehhütte above Schwangau, 19 December from 11:00 and 20 December from 10:00. No car access: allow 1 to 1.5 hours on foot from the upper Drehhütten car park. Closing time not published.",
+    "url": "http://veranstaltungen.erlebe.bayern/schwangau/bergweihnacht-ece2ffb566a37b468abe447d2ec07244c.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "community",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-heimatabend-schlossbrauhaus-1228@garylewis",
+    "title": "Heimatabend am Schlossbrauhaus",
+    "start": "2026-12-28T19:00:00+01:00",
+    "end": "2026-12-28T22:00:00+01:00",
+    "location": "Schlossbrauhaus, Gipsmühlweg 5, Schwangau",
+    "description": "Christmas-week Heimatabend at the Schlossbrauhaus. The listing names no group yet; the October and November evenings have D'Schwanstoaner. Table reservation recommended.",
+    "url": "http://veranstaltungen.erlebe.bayern/schwangau/heimatabend-eda15751953a06015c86fdf6cd81b7094.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "community",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-kinderlesung-schneeflockenmaerchen@garylewis",
+    "title": "Kinderlesung \"Schneeflockenmärchen\"",
+    "start": "2026-12-28T16:00:00+01:00",
+    "end": "2026-12-28T17:00:00+01:00",
+    "location": "Schwangau (venue not confirmed)",
+    "description": "Children's reading in the Schwangau event calendar. Venue and price not confirmed; the November reading was at the Schlossbrauhaus.",
+    "url": "http://veranstaltungen.erlebe.bayern/schwangau/kinderlesung-schneeflockenmaerchen-e71a10f02c3af4382f8e41fb7ebf851e8.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "kids",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-fuessener-rutschparty@garylewis",
+    "title": "Füssener Rutschparty",
+    "start": "2026-12-30T18:00:00+01:00",
+    "end": "2026-12-31T00:30:00+01:00",
+    "location": "Kaiser-Maximilian-Platz, Füssen",
+    "description": "Free open-air party the day before New Year's Eve around the winter bar in front of the Tourist Info, with DJs and live bands (acts not named yet).",
+    "url": "https://www.allgaeu.de/veranstaltungen/rutschparty-1",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "town",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2027-neujahrs-fackelschwimmen@garylewis",
+    "title": "Neujahrs-Fackelschwimmen im Lech",
+    "start": "2027-01-01T16:00:00+01:00",
+    "end": "2027-01-01T18:00:00+01:00",
+    "location": "Theresienbrücke / Lechhalde, Füssen",
+    "description": "34th edition: water rescue swimmers carry torches down the Lech past the old town at dusk, first torches around 17:30, with cannon salutes and fireworks. Mulled wine and sausages from 16:00.",
+    "url": "https://www.fuessen.de/kultur/veranstaltungen/neujahrs-fackelschwimmen/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "town",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2027-familiengunglhos@garylewis",
+    "title": "Familiengunglhos",
+    "start": "2027-01-17T14:00:00+01:00",
+    "end": "2027-01-17T17:00:00+01:00",
+    "location": "Schlossbrauhaus, Gipsmühlweg 5, Schwangau",
+    "description": "Family afternoon edition of the Schwangau Fasching show: sketches about the past village year, Garde dances and the Kaiser-Wilhelm-Gedächtnis-Kapelle. Evening shows 16, 22, 23, 29 and 30 January at 19:30. Tickets in the presale on 28 November.",
+    "url": "http://veranstaltungen.erlebe.bayern/schwangau/familiengunglhos-ecee914ee7164241f2328e9ccd5e5e5f0.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "community",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2027-jubilaeumsabend-kwg-kapelle@garylewis",
+    "title": "Jubiläumsabend der Kaiser-Wilhelm-Gedächtniskapelle",
+    "start": "2027-02-04T18:00:00+01:00",
+    "end": "2027-02-04T23:00:00+01:00",
+    "location": "Schlossbrauhaus, Gipsmühlweg 5, Schwangau",
+    "description": "50 years of Schwangau's Fasching band, founded 1977, which plays in old firefighter uniforms and gold helmets. Los Chicos play for dancing.",
+    "url": "http://veranstaltungen.erlebe.bayern/schwangau/jubilaeumsabend-der-kaiser-wilhelm-gedaechniskapelle-ea9473e98fee965bd69d081fccfb66f5b.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "community",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-matze-blaue-tatze-kaufbeuren@garylewis",
+    "title": "Familienkonzert \"Matze mit der blauen Tatze\"",
+    "start": "2026-10-24T16:00:00+02:00",
+    "end": "2026-10-24T17:00:00+02:00",
+    "location": "Stadttheater, Kaufbeuren",
+    "description": "Jazz concert for children in the mini.musik series about a cat with a blue paw who travels the world and makes friends. Band of saxophone, violin, guitar, drums and double bass. Tickets from 6.15 EUR.",
+    "url": "https://r.jina.ai/https://kulturwerkstatt-kaufbeuren.reservix.de/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "kids",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-frau-lavendel-kaufbeuren@garylewis",
+    "title": "Frau Lavendel - Ein Gruselspaß für Mutige",
+    "start": "2026-10-30T17:00:00+01:00",
+    "end": "2026-10-30T18:00:00+01:00",
+    "location": "Schauburg (Café), Kaufbeuren",
+    "description": "Spooky Halloween-season play by the Kulturwerkstatt Kaufbeuren: Frau Lavendel opens suitcases full of figures and masks. Age 7+, 14.70 EUR. Second show Saturday 31 October at 17:00.",
+    "url": "https://r.jina.ai/https://kulturwerkstatt-kaufbeuren.reservix.de/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "kids",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-kaufbeurer-engele-kulturwerkstatt@garylewis",
+    "title": "Die wirklich wahre Geschichte vom Kaufbeurer Engele",
+    "start": "2026-11-28T17:00:00+01:00",
+    "end": "2026-11-28T18:15:00+01:00",
+    "location": "Kulturwerkstatt, Kaufbeuren",
+    "description": "Play about Kaufbeuren's Christmas angel tradition, age 6+, 19.70 EUR. Second show Sunday 29 November at 17:00.",
+    "url": "https://r.jina.ai/https://kulturwerkstatt-kaufbeuren.reservix.de/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "kids",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-ox-und-esel-kulturwerkstatt@garylewis",
+    "title": "Ox und Esel - Das Kultstück zur Weihnachtszeit",
+    "start": "2026-12-20T15:00:00+01:00",
+    "end": "2026-12-20T16:15:00+01:00",
+    "location": "Kulturwerkstatt, Kaufbeuren",
+    "description": "The Kulturwerkstatt's annual Christmas play: the nativity told by an ox and a donkey. Age 6+, 19.70 EUR. Other shows 19 December 15:00, 23 December 19:00 and 24 December 13:30.",
+    "url": "https://r.jina.ai/https://kulturwerkstatt-kaufbeuren.reservix.de/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "kids",
+    "alarm": true,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-drei-haselnuesse-aschenbroedel-bigbox@garylewis",
+    "title": "Drei Haselnüsse für Aschenbrödel - Das Musical",
+    "start": "2026-11-22T18:00:00+01:00",
+    "end": "2026-11-22T20:15:00+01:00",
+    "location": "bigBOX ALLGÄU, Kempten",
+    "description": "Family stage musical of the Christmas film with Karel Svoboda's original score and new songs by Thomas Zaufke. The tour lists age 6+ and about 2 hours 15 minutes including a 20 minute interval. Doors 17:00.",
+    "url": "https://www.bigboxallgaeu.de/events/kinderveranstaltung/drei-haselnuesse-fuer-aschenbroedel-22-11-2026",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "kids",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-dikka-bigbox@garylewis",
+    "title": "DIKKA - BOAH IST DAS KRASS TOUR 2",
+    "start": "2026-12-18T17:00:00+01:00",
+    "end": "2026-12-18T18:30:00+01:00",
+    "location": "bigBOX ALLGÄU, Kempten",
+    "description": "Live sing-along show by the children's rap rhino DIKKA, with songs about self-confidence and setting boundaries. Doors 15:00.",
+    "url": "https://www.bigboxallgaeu.de/events/kinderveranstaltung/dikka-18-12-2026",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "kids",
+    "alarm": true,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-nussknacker-maerchenerzaehler-bigbox@garylewis",
+    "title": "Der Nussknacker mit Märchenerzähler",
+    "start": "2026-12-30T15:00:00+01:00",
+    "end": "2026-12-30T17:00:00+01:00",
+    "location": "bigBOX ALLGÄU, Kempten",
+    "description": "Royal Classical Ballet dances the Nutcracker with a narrator who explains each scene, so young children can follow. Doors 14:00.",
+    "url": "https://www.bigboxallgaeu.de/events/klassik-oper-ballett-theater/nussknacker-30-12-2026",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "kids",
+    "alarm": true,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2027-chinesischer-nationalcircus-zensation@garylewis",
+    "title": "Chinesischer Nationalcircus: ZENsation",
+    "start": "2027-01-15T20:00:00+01:00",
+    "end": "2027-01-15T22:00:00+01:00",
+    "location": "bigBOX ALLGÄU, Kempten",
+    "description": "Touring Chinese acrobatics show with balance artists. Late 20:00 start on a Friday. Price not checked.",
+    "url": "https://www.new-facts.eu/kempten/2026/09/02/bigbox-allgaeu-alle-veranstaltungen-und-hoehepunkte-2026-und-2027-im-ueberblick/726827/",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "kids",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-nikolo-on-ice-reutte@garylewis",
+    "title": "Nikolo on Ice",
+    "start": "2026-12-06T17:00:00+01:00",
+    "end": "2026-12-06T19:00:00+01:00",
+    "location": "Reutte on Ice, Stadtpark / Untermarkt, Reutte",
+    "description": "St. Nicholas and his Krampus companions visit the Reutte on Ice skating park. Ice park entry adults 11 EUR, children 4 to 14 7 EUR, kids' skate hire 4 EUR.",
+    "url": "https://r.jina.ai/https://www.reutte.com/en/reutte-on-ice/events",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "kids",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2027-fasching-on-ice-reutte@garylewis",
+    "title": "Fasching on Ice",
+    "start": "2027-01-24T14:00:00+01:00",
+    "end": "2027-01-24T17:00:00+01:00",
+    "location": "Reutte on Ice, Stadtpark / Untermarkt, Reutte",
+    "description": "Carnival afternoon at the Reutte on Ice skating park with face painting, a colouring station, a magician and a balloon artist, at normal ice park prices.",
+    "url": "https://r.jina.ai/https://www.reutte.com/en/reutte-on-ice/events",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "kids",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-kaltenberg-weihnachtsmarkt@garylewis",
+    "title": "Schloss Kaltenberg Weihnachtsmarkt (1. Adventswochenende)",
+    "start": "2026-11-27T14:00:00+01:00",
+    "end": "2026-11-27T20:00:00+01:00",
+    "location": "Schloss Kaltenberg, Geltendorf",
+    "description": "Castle Christmas market on all four Advent weekends, Friday to Sunday (27 to 29 November, 4 to 6, 11 to 13 and 18 to 20 December), with a Brothers Grimm fairy-tale world and stage, an ice rink in the tournament arena (skate hire 5 EUR per hour) and St. Nicholas. Children under 15 free. A bit over an hour from Füssen. Opening hours and 2026 adult prices not published yet, time tbc, verify.",
+    "url": "https://schloss-kaltenberg.de/",
+    "status": "tentative",
+    "sequence": 0,
+    "category": "medieval",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-ausserferner-weihnachtsmarkt@garylewis",
+    "title": "Außerferner Weihnachtsmarkt Reutte",
+    "start": "2026-11-27T16:00:00+01:00",
+    "end": "2026-11-27T21:00:00+01:00",
+    "location": "Stadtpark, Untermarkt 34, Reutte",
+    "description": "Christmas market in the Reutte town park next to the Reutte on Ice skating park, easy to combine with Lumagica. Three weekends: 27 to 29 November, 4 to 6 December and 11 to 13 December; Fridays 16:00 to 21:00, Saturdays 14:00 to 21:00, Sundays 14:00 to 20:00.",
+    "url": "https://www.lechtal.at/en/event/ausserferner-weihnachtsmarkt.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "town",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-pfrontener-weihnachtsmarkt@garylewis",
+    "title": "36. Pfrontener Weihnachtsmarkt",
+    "start": "2026-12-13T13:00:00+01:00",
+    "end": "2026-12-13T20:00:00+01:00",
+    "location": "Leonhardsplatz, Tiroler Str. 9-11, Pfronten",
+    "description": "More than 30 stalls of local crafts and a stage programme. The Nikolaus and his Klausen bring a present for every child, and nativity dioramas are on show in the Heitlern church. Free entry.",
+    "url": "https://www.allgaeu.de/veranstaltungen/36-pfrontener-weihnachtsmarkt-am-13122026",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "town",
+    "alarm": false,
+    "last_verified": "2026-10-05"
+  },
+  {
+    "uid": "fuessen-2026-nesselwanger-adventsmarkt@garylewis",
+    "title": "16. Nesselwanger Adventsmarkt",
+    "start": "2026-12-12T15:00:00+01:00",
+    "end": "2026-12-12T21:00:00+01:00",
+    "location": "Parkplatz Alpspitzhalle, Nesselwang",
+    "description": "Charity Advent market run by KIM (Kinder im Markt) with local handmade crafts, waffles, mulled wine and music.",
+    "url": "https://www.nesselwang.de/nesselwanger_adventsmarkt.html",
+    "status": "confirmed",
+    "sequence": 0,
+    "category": "community",
+    "alarm": false,
+    "last_verified": "2026-10-05"
   }
 ]

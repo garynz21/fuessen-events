@@ -25,635 +25,9 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:fuessen-2026-gastspiel-iberl-buhne-hollerkuacherl@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260917T200000
-DTEND;TZID=Europe/Berlin:20260917T220000
-SUMMARY:Gastspiel Iberl Bühne: Hollerküacherl
-LOCATION:Schlossbrauhaus\, Schwangau
-DESCRIPTION:Guest performance of the Munich Iberl Bühne with the play Holl
- erküacherl on Uli Pickls Wirtshausbühne at the Schlossbrauhaus. Doors at
-  17:30\, performance at 20:00\, admission 15 Euro. Tickets at Tourist Info
- rmation Schwangau.
-URL:https://www.schlossbrauhaus.de/service/events
-CATEGORIES:community
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-heimatabend-schlossbrauhaus-0918@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260918T190000
-DTEND;TZID=Europe/Berlin:20260918T220000
-SUMMARY:Heimatabend am Schlossbrauhaus
-LOCATION:Schlossbrauhaus\, Schwangau
-DESCRIPTION:Bavarian Heimatabend with the Gebirgstrachten- und Heimatverein
-  D'Schwanstoaner Schwangau: traditional dancing\, Schuhplattln and Bavaria
- n brass band music. Table reservations recommended via the Schlossbrauhaus
- .
-URL:https://www.schlossbrauhaus.de/service/events
-CATEGORIES:community
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-rockevent-evil-lions@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260918T190000
-DTEND;TZID=Europe/Berlin:20260918T213000
-SUMMARY:Rockevent mit Evil Lions
-LOCATION:Bootshafen Füssen (MS Füssen)\, Füssen
-DESCRIPTION:"We rock the Ship" party cruise with cover rock band Evil Lions
-  from the Unterallgäu\, playing classic rock and heavy metal from the 80s
-  and 90s through to current hits. Boarding from 18:30\, departure 19:00\, 
- about 2.5 hours. 42 EUR including a welcome drink\; tickets online via the
-  Forggensee-Schifffahrt shop or at the evening box office on board.
-URL:https://www.forggensee-schifffahrt.de/veranstaltungen/
-CATEGORIES:cruise
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-lechlauf-4-0-weissenbach@garylewis
-SEQUENCE:1
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260919T103000
-DTEND;TZID=Europe/Berlin:20260919T133000
-SUMMARY:Lechlauf 4.0 Weißenbach am Lech
-LOCATION:Sportplatz\, Weißenbach am Lech (Tirol)
-DESCRIPTION:Fourth edition of the Lechlauf trail event along the wild Lech 
- river\, roughly 20 minutes from Füssen\, on Saturday 19 September. Start 
- times are now fixed: KinderLauf 10:30\, HauptLauf 11 km 11:15\, HobbyLauf 
- 6.8 km 11:30\; the long trails start earlier (05:00\, 10:00 and 10:15). Ki
- ds skill run plus bouncy castle\, climbing and parkour at the Sportplatz. 
- Registration at lechlauf.at\, HobbyLauf 25 to 35 EUR.
-URL:https://www.lechlauf.at/
-CATEGORIES:running
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-alphornspielen-forggensee-0919@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260919T180000
-DTEND;TZID=Europe/Berlin:20260919T200000
-SUMMARY:Alphornspielen am Forggensee
-LOCATION:Bootsanlegestelle Waltenhofen\, Schwangau
-DESCRIPTION:Last listed date of the season for the alphorn players at the b
- oat landing in Schwangau-Waltenhofen on the Forggensee\, alpine horn music
-  by the lake. Free open-air event. Info via Tourist Information Schwangau\
- , schwangau.de.
-URL:https://veranstaltungen.erlebe.bayern/schwangau/alphornspielen-am-forgg
- ensee-eb7a6b6ff69be00fe1064e0a2d8aeaf5a.html
-CATEGORIES:concert
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-classix-kempten-universum-fabian@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260919T190000
-DTEND;TZID=Europe/Berlin:20260919T210000
-SUMMARY:ClassiX Kempten: Universum - Fabian Ziegler & Daniel Schnyder
-LOCATION:Theater Kempten\, Kempten
-DESCRIPTION:Opening concert of the ClassiX Kempten chamber music festival 2
- 026 under the motto Sonne\, Mond und Sterne. Vivaldi and Händel in fresh 
- arrangements with Fabian Ziegler (Marimba) and Daniel Schnyder (Saxophon).
-  Tickets via classix-kempten.de and Theater Kempten.
-URL:https://www.classix-kempten.de/
-CATEGORIES:classical
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-fabriklar-open-air-altes-spital@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260919T190000
-DTEND;TZID=Europe/Berlin:20260919T213000
-SUMMARY:Open Air Konzert: Fabriklar
-LOCATION:Altes Spital\, Spitalgasse 6\, Füssen
-DESCRIPTION:Open air concert by Fabriklar\, an eight piece band playing the
- ir own funk and soul arrangements\, at the Altes Spital in the Füssen old
-  town\, presented by the Kulturinitiative Füssen. Start time not publishe
- d\, time tbc\, verify at kifuessen.de.
-URL:https://kifuessen.de/calendar
-CATEGORIES:bar-music
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-rudolf-musical-premiere-festspielhaus@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260919T193000
-DTEND;TZID=Europe/Berlin:20260919T213000
-SUMMARY:RUDOLF - Das Musical (Premiere im Festspielhaus)
-LOCATION:Festspielhaus Neuschwanstein\, Füssen
-DESCRIPTION:The musical RUDOLF about the Habsburg crown prince opens at the
-  Festspielhaus Neuschwanstein on 19 September 2026 (shows at 14:30 and 19:
- 30 that day) and runs on weekends and selected weekdays through 11 October
-  2026. Tickets via das-festspielhaus.de or hotline 08362 5077 777.
-URL:https://www.kulturpur.de/buehnen/ludwigs-festspielhaus-neuschwanstein/s
- pielplan/2026-09
-CATEGORIES:concert
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-live-musik-abend-ludwig-0919@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260919T203000
-DTEND;TZID=Europe/Berlin:20260919T223000
-SUMMARY:Live-Musik-Abend in der Ludwig Bar
-LOCATION:Ludwig Bar\, AMERON Neuschwanstein Alpsee Resort\, Hohenschwangau
-DESCRIPTION:Weekly Saturday live music evening in the Ludwig Bar of the AME
- RON Neuschwanstein Alpsee Resort in Hohenschwangau\, with changing artists
-  each week. Info via the hotel or the Schwangau event calendar at schwanga
- u.de.
-URL:https://veranstaltungen.erlebe.bayern/schwangau/live-musik-abend-e8dd13
- 780133977d75db9912439c9a28a.html
-CATEGORIES:bar-music
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-fruehschoppenkonzert-biergarten@garylewis
-SEQUENCE:1
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260920T110000
-DTEND;TZID=Europe/Berlin:20260920T130000
-SUMMARY:Frühschoppenkonzert im Biergarten am Festspielhaus
-LOCATION:Biergarten am Festspielhaus\, Füssen
-DESCRIPTION:Morning Frühschoppen concert in the Festspielhaus beer garden 
- on the Forggensee shore\, live music of unverified genre\, typically Bavar
- ian brass. The official programme currently lists further Frühschoppenkon
- zerte at 11:00 on 27 September and 3 October 2026\; later October dates th
- at appeared earlier are no longer listed. Free entry\, info at das-festspi
- elhaus.de.
-URL:https://das-festspielhaus.de/alle-veranstaltungen/
-CATEGORIES:concert
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-fruehschoppen-illerblosn-0920@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260920T110000
-DTEND;TZID=Europe/Berlin:20260920T140000
-SUMMARY:Frühschoppen mit den Illerblosn
-LOCATION:Schlossbrauhaus\, Schwangau
-DESCRIPTION:Sunday morning Frühschoppen at the Schlossbrauhaus in Schwanga
- u with the Illerblosn\, traditional Bavarian Blasmusik (brass band). Free 
- entry to the beer hall\, table reservations recommended via the Schlossbra
- uhaus.
-URL:https://www.schlossbrauhaus.de/service/events
-CATEGORIES:concert
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-offentliche-schlossfuhrung-schloss-kronburg-0920@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260920T140000
-DTEND;TZID=Europe/Berlin:20260920T160000
-SUMMARY:Öffentliche Schlossführung Schloss Kronburg
-LOCATION:Schloss Kronburg\, Kronburg
-DESCRIPTION:Public guided tour of the castle courtyard and museum at Schlos
- s Kronburg\, about 1.5 hours\, 10 Euro per person. A separate Burgentage A
- llgäu-Außerfern tour also happens at the castle in September\, date to b
- e announced. Registration desired at 08394-271\, details at schloss-kronbu
- rg.de.
-URL:https://www.schloss-kronburg.de/termine-2026
-CATEGORIES:medieval
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-classix-kempten-sonnenaufgang-chelsea@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260920T170000
-DTEND;TZID=Europe/Berlin:20260920T190000
-SUMMARY:ClassiX Kempten: Sonnenaufgang - Chelsea Zurflüh
-LOCATION:Theater Kempten\, Kempten
-DESCRIPTION:Soprano Chelsea Zurflüh\, billed as Supernova mit Jahrhunderts
- timme\, sings at the ClassiX Kempten festival 2026. Tickets via classix-ke
- mpten.de and Theater Kempten.
-URL:https://www.classix-kempten.de/
-CATEGORIES:classical
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-ev-fussen-sc-riessersee@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260920T180000
-DTEND;TZID=Europe/Berlin:20260920T203000
-SUMMARY:EV Füssen vs SC Riessersee (Season Home Opener\, Derby)
-LOCATION:Bundesstützpunkt Eishockey Arena\, Füssen
-DESCRIPTION:EV Füssen opens the 2026/27 Oberliga Süd home campaign with t
- he classic Bavarian derby against SC Riessersee. The club confirmed the fi
- xture for Sunday 20 September at 18:00 in the heimische Bundesstützpunkt 
- Arena. Expect a full house for the opener\, tickets via the EV Füssen onl
- ine ticket shop at evfuessen.de.
-URL:https://evfuessen.de/news/spielplan-veroeffentlicht-ev-fuessen-startet-
- in-erding-in-die-oberliga-saison-2026-27/
-CATEGORIES:hockey
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Tickets: EV Füssen vs SC Riessersee (Season Home Opener\, Derb
- y)
-TRIGGER:-P14D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-zirkus-charles-knie-splash@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260923T153000
-DTEND;TZID=Europe/Berlin:20260923T173000
-SUMMARY:Zirkus Charles Knie: SPLASH 2026 (Familienvorstellung)
-LOCATION:Platz an der Allgäuhalle\, Kotterner Str. 54\, Kempten
-DESCRIPTION:Big touring circus in Kempten from 23 to 28 September 2026 with
-  the water show SPLASH\, featuring 40 international artists and a 100000 l
- iter water stage. The opening family matinee has tickets from 18 Euro. Fur
- ther shows daily at 15:30 and 19:30\, Sunday at 11:00 and 15:00\, Monday o
- nly 15:30. Tickets via Reservix or at the box office.
-URL:https://oberallgaeu.info/veranstaltungen-im-oberallg%C3%A4u/zirkus-char
- les-knie-2026-in-kempten-im-allgau
-CATEGORIES:kids
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-classix-kempten-zenit-simon@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260923T190000
-DTEND;TZID=Europe/Berlin:20260923T210000
-SUMMARY:ClassiX Kempten: Zenit - Simon Höfele
-LOCATION:Theater Kempten\, Kempten
-DESCRIPTION:Star trumpeter Simon Höfele performs at the ClassiX Kempten fe
- stival 2026\, a programme of trumpet brilliance under the festival motto S
- onne\, Mond und Sterne. Tickets via classix-kempten.de and Theater Kempten
- .
-URL:https://www.classix-kempten.de/
-CATEGORIES:classical
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-wirtshausmusik-spaetlese-0923@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260923T190000
-DTEND;TZID=Europe/Berlin:20260923T220000
-SUMMARY:Wirtshausmusik mit der Spätlese Tanzlmusi
-LOCATION:Schlossbrauhaus\, Schwangau
-DESCRIPTION:Wirtshausmusik evening at the Schlossbrauhaus in Schwangau with
-  the Spätlese Tanzlmusi playing traditional Bavarian Tanzlmusi\, acoustic
-  folk dance music. Free entry\, table reservations recommended via the Sch
- lossbrauhaus.
-URL:https://www.schlossbrauhaus.de/service/events
-CATEGORIES:concert
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-classix-kempten-1001-nacht@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260924T190000
-DTEND;TZID=Europe/Berlin:20260924T210000
-SUMMARY:ClassiX Kempten: 1001 Nacht - Mozart meets Scheherazade
-LOCATION:Theater Kempten\, Kempten
-DESCRIPTION:Evening concert at the ClassiX Kempten festival 2026 combining 
- Mozart with Rimsky-Korsakov's Scheherazade. Tickets via classix-kempten.de
-  and Theater Kempten.
-URL:https://www.classix-kempten.de/
-CATEGORIES:classical
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-musikalische-grusse@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260924T193000
-DTEND;TZID=Europe/Berlin:20260924T213000
-SUMMARY:Musikalische Grüße
-LOCATION:Bannwaldsee Stadl\, Schwangau
-DESCRIPTION:Evening of traditional Bavarian Blasmusik (brass band) at the B
- annwaldsee Stadl in Schwangau. Info via the Schwangau event calendar at sc
- hwangau.de.
-URL:https://veranstaltungen.erlebe.bayern/schwangau/musikalische-gruesse-e4
- 20f2794403c0606610b1fbab90aa529.html
-CATEGORIES:concert
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-classix-kempten-moonlight-david@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260925T190000
-DTEND;TZID=Europe/Berlin:20260925T210000
-SUMMARY:ClassiX Kempten: Moonlight - David Orlowsky
-LOCATION:Theater Kempten\, Kempten
-DESCRIPTION:Clarinetist David Orlowsky presents Moonlight\, meditation meet
- s classical music\, at the ClassiX Kempten festival 2026. Tickets via clas
- six-kempten.de and Theater Kempten.
-URL:https://www.classix-kempten.de/
-CATEGORIES:classical
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-open-mic-6-kulturinitiative@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260925T190000
-DTEND;TZID=Europe/Berlin:20260925T210000
-SUMMARY:Open Mic #6 der Kulturinitiative Füssen
-LOCATION:Altes Spital\, Spitalgasse 6\, Füssen
-DESCRIPTION:Open microphone evening of the Kulturinitiative Füssen where l
- ocal musicians and performers present their own material in the Altes Spit
- al in the old town. Start time not yet published\, time tbc\, verify at ki
- fuessen.de. Usually free or low cost entry.
-URL:https://kifuessen.de/calendar
-CATEGORIES:bar-music
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-wiesn-bord@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260925T190000
-DTEND;TZID=Europe/Berlin:20260925T213000
-SUMMARY:Wiesn an Bord
-LOCATION:Bootshafen Füssen (MS Füssen)\, Füssen
-DESCRIPTION:Oktoberfest evening on the Forggensee with hearty Brotzeit\, be
- er and live entertainment by the Original Wasenmooser\; Dirndl and Lederho
- sn encouraged. Boarding from 18:30\, departure 19:00\, about 2.5 hours. Ad
- ults 35 EUR\, children 17.50 EUR\, including a welcome drink\; tickets onl
- ine via the Forggensee-Schifffahrt shop or on board.
-URL:https://www.forggensee-schifffahrt.de/veranstaltungen/
-CATEGORIES:cruise
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-blasmusikfest-0925@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260925T193000
-DTEND;TZID=Europe/Berlin:20260925T213000
-SUMMARY:Blasmusikfest
-LOCATION:Bannwaldsee-Stadl\, Schwangau
-DESCRIPTION:Bavarian evening with traditional Blasmusik (brass band) at the
-  Bannwaldsee-Stadl by the Bannwaldsee in Schwangau. Info via the Schwangau
-  event calendar at schwangau.de.
-URL:https://veranstaltungen.erlebe.bayern/schwangau/blasmusikfest-ed015bc85
- 1a19109e7acf724c10c5b60e.html
-CATEGORIES:concert
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-festival-nationen-eroffnungskonzert-sol@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260925T193000
-DTEND;TZID=Europe/Berlin:20260925T213000
-SUMMARY:Festival der Nationen: Eröffnungskonzert mit Sol Gabetta
-LOCATION:Kurhaus\, Bad Wörishofen
-DESCRIPTION:Opening concert of the Festival der Nationen 2026 with star cel
- list Sol Gabetta and the Deutsche Kammerphilharmonie Bremen under Aurel Da
- widiuk\, playing Schubert\, Elgar and Brahms. A major cello highlight abou
- t an hour from Füssen. Tickets via festivaldernationen.de or the Kurhaus 
- box office\, phone 08247 9690-444.
-URL:https://www.festivaldernationen.de/programm-2026
-CATEGORIES:classical
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Tickets: Festival der Nationen: Eröffnungskonzert mit Sol Gabe
- tta
-TRIGGER:-P14D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-musikalische-grusse-0925@garylewis
-SEQUENCE:1
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260925T193000
-DTEND;TZID=Europe/Berlin:20260925T213000
-SUMMARY:Musikalische Grüße
-LOCATION:Schlossbrauhaus\, Schwangau
-DESCRIPTION:Evening of traditional Bavarian Blasmusik (brass band) at the S
- chlossbrauhaus in Schwangau\, played by the Musikkapelle Bernbeuren. Free 
- entry to the beer hall\, table reservations recommended via the Schlossbra
- uhaus.
-URL:https://www.schlossbrauhaus.de/service/events
-CATEGORIES:concert
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-fruhschoppen-bord-oktoberfest-wochenende@garylewis
-SEQUENCE:1
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260926T100000
-DTEND;TZID=Europe/Berlin:20260926T120000
-SUMMARY:Frühschoppen an Bord (Oktoberfest-Wochenende)
-LOCATION:Bootshafen Füssen (MS Füssen)\, Füssen
-DESCRIPTION:Cancelled: the Fruehschoppen an Bord does not appear on the 202
- 6 Forggensee-Schifffahrt events program\; it was a 2025 event that did not
-  return. Bavarian Frühschoppen with live music aboard the MS Füssen on t
- he 10:00 Große Rundfahrt during the Oktoberfest-Wochenende\, at no surcha
- rge over the normal round trip fare of 22 EUR. Boarding from 9:40\, depart
- ure 10:00\, about 2 hours. Tickets on board or via the Forggensee-Schifffa
- hrt online shop.
-URL:https://www.forggensee-schifffahrt.de/wp-content/uploads/2026/04/WEB.pd
- f
-CATEGORIES:cruise
-STATUS:CANCELLED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-odeon-jugendsymphonieorchester-munchen-jubilaumskonzert@ga
- rylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260926T190000
-DTEND;TZID=Europe/Berlin:20260926T220000
-SUMMARY:ODEON Jugendsymphonieorchester München: Jubiläumskonzert
-LOCATION:Stadtsaal\, Kaufbeuren
-DESCRIPTION:Jubilee concert of the ODEON Jugendsymphonieorchester München 
- under Julio Doggenweiler Fernández\, presented by Kulturring Kaufbeuren. 
- On the programme: Ravel's Ma mère l'oye\, Saint-Saëns' Danse Macabre and
-  Stravinsky's Petruschka. Tickets via kaufbeuren.reservix.de.
-URL:https://kulturring-kaufbeuren.de/veranstaltung/odeon-jugendsymphonieorc
- hester-muenchen/
-CATEGORIES:classical
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-wiesn-bord-0926@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260926T190000
-DTEND;TZID=Europe/Berlin:20260926T213000
-SUMMARY:Wiesn an Bord
-LOCATION:Bootshafen Füssen (MS Füssen)\, Füssen
-DESCRIPTION:Second night of the Oktoberfest cruise with Brotzeit\, beer and
-  live entertainment by the Original Wasenmooser during the Oktoberfest-Woc
- henende of the Forggensee-Schifffahrt. Boarding from 18:30\, departure 19:
- 00\, about 2.5 hours. Adults 35 EUR\, children 17.50 EUR\, including a wel
- come drink\; tickets online via the Forggensee-Schifffahrt shop or on boar
- d.
-URL:https://www.forggensee-schifffahrt.de/veranstaltungen/
-CATEGORIES:cruise
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-festival-nationen-igor-levit@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260926T200000
-DTEND;TZID=Europe/Berlin:20260926T220000
-SUMMARY:Festival der Nationen: Igor Levit & Next Generation
-LOCATION:Kurhaus\, Bad Wörishofen
-DESCRIPTION:Igor Levit plays Beethoven's Piano Concerto No. 3 with the vbw 
- Festivalorchester under Christoph Adt\, framed by the Coriolan overture an
- d Symphony No. 5. Part of the Festival der Nationen 2026 in Bad Wörishofe
- n. Tickets via festivaldernationen.de or the Kurhaus box office\, phone 08
- 247 9690-444.
-URL:https://www.festivaldernationen.de/programm-2026
-CATEGORIES:classical
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Tickets: Festival der Nationen: Igor Levit & Next Generation
-TRIGGER:-P14D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-live-musik-abend-ludwig-0926@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260926T203000
-DTEND;TZID=Europe/Berlin:20260926T223000
-SUMMARY:Live-Musik-Abend in der Ludwig Bar
-LOCATION:Ludwig Bar\, AMERON Neuschwanstein Alpsee Resort\, Hohenschwangau
-DESCRIPTION:Last listed Saturday live music evening of the season in the Lu
- dwig Bar of the AMERON Neuschwanstein Alpsee Resort in Hohenschwangau\, wi
- th changing artists each week. Info via the hotel or the Schwangau event c
- alendar at schwangau.de.
-URL:https://veranstaltungen.erlebe.bayern/schwangau/live-musik-abend-e8dd13
- 780133977d75db9912439c9a28a.html
-CATEGORIES:bar-music
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-fruhschoppen-bord-oktoberfest-wochenende-0927@garylewis
-SEQUENCE:1
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260927T100000
-DTEND;TZID=Europe/Berlin:20260927T120000
-SUMMARY:Frühschoppen an Bord (Oktoberfest-Wochenende)
-LOCATION:Bootshafen Füssen (MS Füssen)\, Füssen
-DESCRIPTION:Cancelled: the Fruehschoppen an Bord does not appear on the 202
- 6 Forggensee-Schifffahrt events program\; it was a 2025 event that did not
-  return. Sunday edition of the Frühschoppen with live music aboard the MS
-  Füssen on the 10:00 Große Rundfahrt\, closing the Oktoberfest-Wochenend
- e at no surcharge over the normal fare of 22 EUR. Boarding from 9:40\, dep
- arture 10:00\, about 2 hours. Tickets on board or via the Forggensee-Schif
- ffahrt online shop.
-URL:https://www.forggensee-schifffahrt.de/wp-content/uploads/2026/04/WEB.pd
- f
-CATEGORIES:cruise
-STATUS:CANCELLED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-heiterwanger-see-lauf@garylewis
-SEQUENCE:1
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260927T110000
-DTEND;TZID=Europe/Berlin:20260927T130000
-SUMMARY:Heiterwanger-See-Lauf
-LOCATION:Fischer am See\, Heiterwang (Tirol)
-DESCRIPTION:Traditional autumn run around the scenic Heiterwanger See near 
- Reutte\, about 20 minutes from Füssen\, on Sunday 27 September. Kids race
- s start the day from 11:00\, followed by the 10.4 km main run and 7 km hob
- by run from the Hotel Fischer am See. Online registration is open at heite
- rwangerseelauf.at.
-URL:http://www.heiterwangerseelauf.at/
-CATEGORIES:running
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-classix-kempten-sonnenuntergang-melodie@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260927T170000
-DTEND;TZID=Europe/Berlin:20260927T190000
-SUMMARY:ClassiX Kempten: Sonnenuntergang - Mélodie Zhao\, Klavier
-LOCATION:Theater Kempten\, Kempten
-DESCRIPTION:Closing concert of ClassiX Kempten 2026: pianist Mélodie Zhao 
- plays an evening glow programme with Chopin and Gershwin. A good pick for 
- piano fans. Tickets via classix-kempten.de and Theater Kempten.
-URL:https://www.classix-kempten.de/
-CATEGORIES:classical
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fuessen-2026-festival-nationen-pianissimo-mao@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20260927T190000
-DTEND;TZID=Europe/Berlin:20260927T210000
-SUMMARY:Festival der Nationen: Pianissimo! mit Mao Fujita
-LOCATION:Kurhaus\, Bad Wörishofen
-DESCRIPTION:Pianist Mao Fujita performs Prokofiev's Piano Concerto No. 2 wi
- th the Bamberger Symphoniker under Jonathan Nott\, plus Schubert's Symphon
- y No. 8. Part of the Festival der Nationen 2026. Tickets via festivalderna
- tionen.de or the Kurhaus box office\, phone 08247 9690-444.
-URL:https://www.festivaldernationen.de/programm-2026
-CATEGORIES:classical
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Tickets: Festival der Nationen: Pianissimo! mit Mao Fujita
-TRIGGER:-P14D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:fuessen-2026-festival-nationen-quadro-nuevo@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20260929T200000
 DTEND;TZID=Europe/Berlin:20260929T220000
 SUMMARY:Festival der Nationen: Quadro Nuevo - 30 Jahre um die Welt
@@ -670,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-yakari-freunde-furs-leben@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20260930T163000
 DTEND;TZID=Europe/Berlin:20260930T183000
 SUMMARY:Yakari - Freunde fürs Leben (Kindermusical)
@@ -687,7 +61,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-wenn-buhne-auf-leben@garylewis
 SEQUENCE:1
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20260930T180000
 DTEND;TZID=Europe/Berlin:20260930T200000
 SUMMARY:Wenn Bühne auf Leben trifft: Jan Ammann und Ensemble
@@ -705,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-nationen-julia-fischer@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20260930T200000
 DTEND;TZID=Europe/Berlin:20260930T220000
 SUMMARY:Festival der Nationen: Julia Fischer spielt Vivaldis Vier Jahreszei
@@ -730,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-wirtshausbuehne-glueck-1001@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261001T200000
 DTEND;TZID=Europe/Berlin:20261001T223000
 SUMMARY:Wirtshausbühne: Das Glück kommt durch die Hintertür
@@ -746,7 +120,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-blasmusikfest-1002@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261002T193000
 DTEND;TZID=Europe/Berlin:20261002T213000
 SUMMARY:Blasmusikfest
@@ -763,7 +137,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-nationen-rudolf-buchbinder@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261002T200000
 DTEND;TZID=Europe/Berlin:20261002T220000
 SUMMARY:Festival der Nationen: Rudolf Buchbinder spielt Mozart
@@ -785,7 +159,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-gaupreisplattln-aktiv@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261003T090000
 DTEND;TZID=Europe/Berlin:20261003T170000
 SUMMARY:Gaupreisplattln Aktiv
@@ -802,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-maus-tueroeffnertag-hs-kempten@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261003T090000
 DTEND;TZID=Europe/Berlin:20261003T130000
 SUMMARY:Maus-Türöffnertag: Technik entdecken und ausprobieren
@@ -818,7 +192,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-kunsthandwerkermarkt-schlossbrauhaus@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261003T110000
 DTEND;TZID=Europe/Berlin:20261004T170000
 SUMMARY:Kunsthandwerkermarkt am Schlossbrauhaus
@@ -835,7 +209,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-wilde-fahrt-den-alpengrageelern@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261003T193000
 DTEND;TZID=Europe/Berlin:20261003T220000
 SUMMARY:Wilde Fahrt mit den AlpenGrageelern
@@ -858,7 +232,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-nationen-sonderkonzert-zum@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261003T200000
 DTEND;TZID=Europe/Berlin:20261003T220000
 SUMMARY:Festival der Nationen: Sonderkonzert zum 70. Geburtstag von Nigel K
@@ -882,7 +256,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-erntedank-kirchzug-kirchenkaffee@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261004T084500
 DTEND;TZID=Europe/Berlin:20261004T104500
 SUMMARY:Erntedank Kirchzug mit Kirchenkaffee
@@ -899,7 +273,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-festival-nationen-abschlussgala-270@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261004T190000
 DTEND;TZID=Europe/Berlin:20261004T210000
 SUMMARY:Festival der Nationen: Abschlussgala 270 Jahre Mozart mit Rolando V
@@ -923,7 +297,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-film-forggensee-1004@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261004T201500
 DTEND;TZID=Europe/Berlin:20261004T220000
 SUMMARY:Filmvorführung "Der Forggensee"
@@ -940,7 +314,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-im-weissen-roessl@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261007T180000
 DTEND;TZID=Europe/Berlin:20261007T213000
 SUMMARY:Im Weißen Rössl (Dinner-Show)
@@ -963,7 +337,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-dav-sektionsabend-unterwegs-polarkreis@garylewis
 SEQUENCE:1
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261008T190000
 DTEND;TZID=Europe/Berlin:20261008T210000
 SUMMARY:DAV Sektionsabend: Unterwegs im Polarkreis (Armin Hofmann)
@@ -981,7 +355,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-orff-meets-techno-modeon@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261008T190000
 DTEND;TZID=Europe/Berlin:20261008T213000
 SUMMARY:Orff meets Techno & Weltmusik (17. Orff-Tage)
@@ -999,19 +373,87 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-neuschwanstein-klimastreifen@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261008T203000
+DTEND;TZID=Europe/Berlin:20261008T230000
+SUMMARY:Schloss Neuschwanstein in Klimastreifen - Auftakt zur Bayerischen K
+ limawoche
+LOCATION:Schloss Neuschwanstein\, Neuschwansteinstraße 20\, Schwangau
+DESCRIPTION:The Bavarian environment ministry projects the Bavarian climate
+  stripes onto Neuschwanstein to open Climate Week Bavaria. Visible from Sc
+ hwangau and the Forggensee shore.
+URL:http://veranstaltungen.erlebe.bayern/schwangau/schloss-neuschwanstein-i
+ n-klimastreifen-auftakt-zur-bayerischen-klimawoche-e5996749942d81a73057854
+ dbbbfe350c.html
+CATEGORIES:community
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-stadl-fest-blechragu-1009@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261009T193000
+DTEND;TZID=Europe/Berlin:20261009T223000
+SUMMARY:Stadl-Fest mit Blechragu & Georg Ried
+LOCATION:Bannwaldsee-Stadl\, Münchener Str. 151\, Schwangau
+DESCRIPTION:Live music evening at the Bannwaldsee-Stadl with Blechragu and 
+ Georg Ried\, genre not verified. Free entry. Run by Campingplatz Bannwalds
+ ee.
+URL:https://bannwaldsee-stadl.de/oktober-2026/
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-sternwarte-ottobeuren-sternbilder-herbst@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261009T193000
+DTEND;TZID=Europe/Berlin:20261009T213000
+SUMMARY:Sternbilder des Herbst
+LOCATION:Allgäuer Volkssternwarte Ottobeuren\, Wolferts 40\, Ottobeuren
+DESCRIPTION:Guide to the autumn constellations. Show at the Allgäuer Volks
+ sternwarte Ottobeuren\, about 65 minutes from Füssen\, with telescope vie
+ wing if the sky is clear. 8 EUR\, 4 EUR off for children under 10\, cash o
+ nly\, book a place via the event page.
+URL:https://www.avso.de/events/sternbilder-2026-herbst/
+CATEGORIES:science
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-hopfener-brauchtumsabend@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261009T200000
+DTEND;TZID=Europe/Berlin:20261009T223000
+SUMMARY:Hopfener Brauchtumsabend
+LOCATION:Haus Hopfensee\, Füssen-Hopfen am See
+DESCRIPTION:Folk evening with the Trachtenverein Burg Hopfen and its childr
+ en's and youth groups. Free entry\, doors 18:00.
+URL:https://www.fuessen.de/fileadmin/userdaten/docs/service/W%C3%B6chentlic
+ he_Veranstaltungen/Woechentliche_Veranstaltungen_vom_03.10.-09.10.2026.pdf
+CATEGORIES:community
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-2-fire-trail-nesselwang@garylewis
-SEQUENCE:1
-DTSTAMP:20260921T060447Z
+SEQUENCE:2
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261010T100000
 DTEND;TZID=Europe/Berlin:20261010T133000
 SUMMARY:2. Fire Trail Nesselwang
 LOCATION:Alpspitzbahn\, Nesselwang
 DESCRIPTION:The second Fire Trail Nesselwang turns the Alpspitz area into a
-  trail running arena on Saturday 10 October\, about 20 minutes from Füsse
- n. Bib collection 07:30 to 09:30 at the Explorer Hotel start area\, first 
- runner off at 10:00 with the rest starting at 30 second intervals by bib n
- umber\, award ceremony around 13:00 and a grill evening at the fire statio
- n from 18:00. Info and registration at fire-trail-nesselwang.de.
+  trail running arena\, about 20 minutes from Füssen. Bib pickup Friday 16
+  October 17:00 to 19:00 with a pasta party at the fire station from 18:00\
+ , or on race day 07:30 to 09:00 at the Explorer Hotel start area. First ru
+ nner off at 10:00\, the rest at 30 second intervals by bib number. Awards 
+ around 13:00 and a grill evening at the fire station from 18:00.
 URL:https://www.xn--fire-trail-allgu-9nb.de/nesselwang/wettkampf/zeitplan
 CATEGORIES:running
 STATUS:CONFIRMED
@@ -1019,8 +461,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-krimi-dinner-testament-la@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
+SEQUENCE:1
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261010T190000
 DTEND;TZID=Europe/Berlin:20261010T230000
 SUMMARY:Krimi-Dinner "Testament à la Carte"
@@ -1028,9 +470,8 @@ LOCATION:Bootshafen Füssen (MS Füssen)\, Füssen
 DESCRIPTION:Murder mystery dinner cruise closing the event season\, an inte
  ractive Kriminal-Dinner performance with a three course menu\, drinks not 
  included\; admission from age 16. Boarding from 18:30\, departure 19:00\, 
- about 4 hours. 109 EUR per person\; advance booking via the Forggensee-Sch
- ifffahrt online shop is required since menu events cannot be bought at the
-  on-board box office.
+ about 4 hours. 109 EUR per person\, online booking only\, last booking dat
+ e Thursday 8 October.
 URL:https://www.forggensee-schifffahrt.de/veranstaltungen/
 CATEGORIES:cruise
 STATUS:CONFIRMED
@@ -1043,17 +484,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-blasmusikfest-1010@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
+SEQUENCE:1
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261010T193000
 DTEND;TZID=Europe/Berlin:20261010T213000
-SUMMARY:Blasmusikfest
+SUMMARY:Blasmusikabend mit der Musikkapelle Prem
 LOCATION:Bannwaldsee-Stadl\, Schwangau
-DESCRIPTION:Bavarian evening with traditional Blasmusik (brass band) at the
-  Bannwaldsee-Stadl by the Bannwaldsee in Schwangau. Info via the Schwangau
-  event calendar at schwangau.de.
-URL:https://veranstaltungen.erlebe.bayern/schwangau/blasmusikfest-ed015bc85
- 1a19109e7acf724c10c5b60e.html
+DESCRIPTION:Brass band evening with the Musikkapelle Prem at the Bannwaldse
+ e-Stadl in Schwangau. Free entry\, free parking from 18:00.
+URL:https://bannwaldsee-stadl.de/oktober-2026/
 CATEGORIES:concert
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1061,7 +500,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-colomansfest-colomansritt@garylewis
 SEQUENCE:1
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261011T093000
 DTEND;TZID=Europe/Berlin:20261011T163000
 SUMMARY:Colomansfest mit Colomansritt
@@ -1080,9 +519,43 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-fruehschoppen-festspielhaus-1011@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261011T110000
+DTEND;TZID=Europe/Berlin:20261011T130000
+SUMMARY:Frühschoppenkonzert im Biergarten am Festspielhaus
+LOCATION:Biergarten am Festspielhaus\, Füssen
+DESCRIPTION:Free Sunday morning brass band concert by a Musikkapelle of the
+  Allgäu-Schwäbischer Musikbund in the Festspielhaus beer garden on the F
+ orggensee shore\, weather permitting. The October dates are back on the pr
+ ogramme: 11\, 18 and 25 October are the last three of the season.
+URL:https://das-festspielhaus.de/alle-veranstaltungen/
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-schoellanger-herbstlauf@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261011T120000
+DTEND;TZID=Europe/Berlin:20261011T150000
+SUMMARY:Schöllanger Herbstlauf
+LOCATION:Ortseingang Schöllang\, Oberstdorf
+DESCRIPTION:SC Rubihorn race with distances for every age\, from a 750 m Ba
+ mbini race up to 5 km or 10 km for adults\, plus Nordic walking. About an 
+ hour from Füssen. Entries close Thursday 8 October at 18:00 via rennmeldu
+ ng.de. Same day as the Colomansfest.
+URL:https://www.sc-rubihorn.de/aktuelles/news
+CATEGORIES:running
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-bruckner-festkonzert-basilika@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261011T160000
 DTEND;TZID=Europe/Berlin:20261011T180000
 SUMMARY:Festkonzert 200 Jahre Chor der Basilika: Bruckner Messe f-moll & Te
@@ -1102,7 +575,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-reinhold-messner-uber-leben@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261012T200000
 DTEND;TZID=Europe/Berlin:20261012T220000
 SUMMARY:Reinhold Messner: Über Leben - Der neue Live-Vortrag
@@ -1124,9 +597,48 @@ TRIGGER:-P14D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-ov-20261012@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261012T200000
+DTEND;TZID=Europe/Berlin:20261012T214500
+SUMMARY:Heart of the Beast (OV)
+LOCATION:Alpenfilmtheater\, Füssen
+DESCRIPTION:English original version of David Ayer's survival drama with Br
+ ad Pitt (USA 2026)\, about 101 minutes\, FSK 6. The cinema's OV list names
+  12 October but the OV start time is not published yet\; the dubbed versio
+ n plays at 20:00 this week. Time tbc\, verify. Same evening as Messner at 
+ the Festspielhaus.
+URL:https://www.alpenfilmtheater.de/detail/98707/Heart+Of+The+Beast+%28OV%2
+ 9
+CATEGORIES:ov-film
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-hs-kempten-grossbatteriespeicher@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261013T180000
+DTEND;TZID=Europe/Berlin:20261013T193000
+SUMMARY:Ohne Speicher keine Energiewende? Wie Großbatteriespeicher das Str
+ omnetz stabilisieren
+LOCATION:Hörsaal 411\, Building V\, Hochschule Kempten\, Bahnhofstr. 61\, 
+ Kempten
+DESCRIPTION:Public lecture in the Hochschule Kempten technical series with 
+ VDE and VDI: Christoph Lienert (CEO of green flexibility) on how grid-scal
+ e batteries keep the power grid stable. Free\, also streamed on Zoom.
+URL:https://www.hs-kempten.de/hochschule/aktuelles/veranstaltungen-termine/
+ termin/ohne-speicher-keine-energiewende-wie-grossbatteriespeicher-das-stro
+ mnetz-stabilisieren-4197
+CATEGORIES:science
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-weinfest-festspielhaus@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261016T100000
 DTEND;TZID=Europe/Berlin:20261018T170000
 SUMMARY:Weinfest am Festspielhaus
@@ -1143,7 +655,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-troubadour-opera-romana-modeon@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261016T190000
 DTEND;TZID=Europe/Berlin:20261016T220000
 SUMMARY:Der Troubadour (Opera Romana)
@@ -1160,7 +672,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-samuel-heinrich-handpan@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261016T200000
 DTEND;TZID=Europe/Berlin:20261016T220000
 SUMMARY:Samuel Heinrich: Handpan und Synthesizer
@@ -1176,46 +688,64 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-schanzenlauf-oberstdorf@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
+SEQUENCE:1
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261017T080000
-DTEND;TZID=Europe/Berlin:20261017T110000
+DTEND;TZID=Europe/Berlin:20261017T164500
 SUMMARY:Schanzenlauf Oberstdorf
-LOCATION:Skiflugschanze\, Oberstdorf
-DESCRIPTION:Race up the roughly 1000 steps of the Oberstdorf ski flying hil
- l with 162 m of climbing\, organised by the Feuerwehr Oberstdorf\, a fun s
- pectacle to watch with kids. Start listed around 08:00 but not officially 
- confirmed\, time tbc\, verify before travelling.
-URL:https://running.life/running-calendar/austria/tirol/reutte
+LOCATION:Heini-Klopfer-Skiflugschanze\, Oberstdorf
+DESCRIPTION:300 two-person teams from fire brigades and THW race up the Hei
+ ni-Klopfer ski flying hill: 412 m of distance\, 207 m of climbing and more
+  than 1000 steps\, carrying about 20 kg of kit\, many with breathing appar
+ atus. Starts from 08:00 at 60 second intervals\, awards around 16:45. All 
+ team places are taken\; it is a spectator event and fun to watch with kids
+ .
+URL:https://feuerwehr-oberstdorf.de/aktuelles/schanzenlauf
 CATEGORIES:running
-STATUS:TENTATIVE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-alpabtrieb-ziegen-rohrkopfhuette@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261017T120000
+DTEND;TZID=Europe/Berlin:20261017T180000
+SUMMARY:Alp-Abtrieb der Ziegen
+LOCATION:Rohrkopfhütte\, Rohrkopf 1\, Schwangau
+DESCRIPTION:The hut's goats Stella\, Sina and Rohrgina come down from the a
+ lp to close the Rohrkopfhütte's summer season\, with roast pork and Kesse
+ lfleisch at the hut.
+URL:http://veranstaltungen.erlebe.bayern/schwangau/alp-abtrieb-der-ziegen-e
+ 290797047ac9393f477e7ba6d55705bf.html
+CATEGORIES:community
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-35-rottachseelauf-oy-mittelberg@garylewis
-SEQUENCE:1
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20261017T133000
-DTEND;TZID=Europe/Berlin:20261017T160000
+SEQUENCE:2
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261017T131500
+DTEND;TZID=Europe/Berlin:20261017T163000
 SUMMARY:35. Rottachseelauf Oy-Mittelberg
 LOCATION:Vereins- und Gästehaus Petersthal\, Oy-Mittelberg
-DESCRIPTION:The 35. Rottachseelauf of TSV Petersthal on Saturday 17 October
- : 15 km main run from age 16\, 2.4 km for U14 and U16 and 1.2 km for U8\, 
- U10 and U12\, about 30 minutes from Füssen. Neither the LADV Ausschreibun
- g nor the club page publishes start times\; secondary running calendars gi
- ve 13:30 for the children's races and 14:00 for the 15 km\, so time tbc\, 
- verify with TSV Petersthal before travelling. Registration via tsvpetersth
- al.de.
-URL:https://ladv.de/ausschreibung/detail/45719/35.-Rottachseelauf-2026-Oy-M
- ittelberg.htm
+DESCRIPTION:The 35. Rottachseelauf of TSV Petersthal\, about 30 minutes fro
+ m Füssen. Schülerlauf starts 13:15: 1.2 km for U8\, U10 and U12 (minimum
+  age 6) and 2.4 km for U14 and U16\, awards about 14:15. The 15 km Hauptla
+ uf starts at 14:00\, awards about 16:30. Fees 8 EUR for children\, 20 EUR 
+ for adults\; late entry up to an hour before the start costs 2 or 5 EUR ex
+ tra. Bibs 11:30 to 13:30 in the Vereinshaus.
+URL:https://www.tsvpetersthal.de/.cm4all/uproc.php/0/Infos%20RSL%202026_V00
+ .pdf
 CATEGORIES:running
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-zirkus-charles-knie-kaufbeuren@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261017T153000
 DTEND;TZID=Europe/Berlin:20261017T174500
 SUMMARY:Zirkus Charles Knie: SPLASH 2026 (Kaufbeuren)
@@ -1238,7 +768,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-wirtshausmusik-kerzenstoana-1017@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261017T190000
 DTEND;TZID=Europe/Berlin:20261017T220000
 SUMMARY:Wirtshausmusik mit der Kerzenstoana Spiel Partie
@@ -1254,25 +784,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-blasmusikabend@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
+SEQUENCE:1
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261017T193000
 DTEND;TZID=Europe/Berlin:20261017T213000
 SUMMARY:Blasmusikabend
 LOCATION:Bannwaldsee-Stadl\, Schwangau
 DESCRIPTION:Evening of traditional Bavarian Blasmusik (brass band) at the B
- annwaldsee-Stadl in Schwangau. Info via the Schwangau event calendar at sc
- hwangau.de.
+ annwaldsee-Stadl in Schwangau. The Schwangau calendar still lists it\, but
+  the venue's own October programme skips from 10 to 24 October\, so it may
+  be off. Verify before going.
 URL:https://veranstaltungen.erlebe.bayern/schwangau/blasmusikabend-ef49de91
  92bcf91e9029ae345c2d9f738.html
 CATEGORIES:concert
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-torgellenabend@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261017T200000
 DTEND;TZID=Europe/Berlin:20261017T220000
 SUMMARY:Törgellenabend
@@ -1288,24 +819,77 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-fruchtiger-beigeschmack-bar-ifni@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
+SEQUENCE:1
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261017T200000
 DTEND;TZID=Europe/Berlin:20261017T223000
 SUMMARY:Fruchtiger Beigeschmack live im Café Bar Ifni
 LOCATION:Café Bar Ifni\, Füssen
-DESCRIPTION:Live music night with the band Fruchtiger Beigeschmack at Café
-  Bar Ifni in Füssen. Genre not verified\, listed under concerts. Tickets 
- via the meinestadt.de listing.
-URL:https://veranstaltungen.meinestadt.de/fuessen/konzerte/alle
+DESCRIPTION:Jazz and blues night with the band Fruchtiger Beigeschmack at C
+ afé Bar Ifni in Füssen. Tickets from 23.69 EUR via Eventim.
+URL:https://fruchtigerbeigeschmack.de/
 CATEGORIES:bar-music
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-messner-weltberge-garmisch@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261017T200000
+DTEND;TZID=Europe/Berlin:20261017T220000
+SUMMARY:Reinhold Messner: Weltberge - Die 4. Dimension
+LOCATION:Kongresshaus\, Garmisch-Partenkirchen
+DESCRIPTION:A different lecture from the Über Leben show in Füssen and Ob
+ erstdorf: Messner presents 13 of the world's great mountains in 3D satelli
+ te visualisations built with DLR data\, with his own stories from them. Do
+ ors 19:00\, tickets from 44.90 EUR via eventim and GAP-Ticket.
+URL:https://www.reinholdmessner.com/de/aktuelles/tourneen/
+CATEGORIES:talk
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tickets: Reinhold Messner: Weltberge - Die 4. Dimension
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-konzert-mk-hopfen-1018@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261018T100000
+DTEND;TZID=Europe/Berlin:20261018T113000
+SUMMARY:Konzert der Musikkapelle Hopfen am See
+LOCATION:Haus Hopfensee\, Füssen-Hopfen am See
+DESCRIPTION:Sunday morning brass band concert by the Musikkapelle Hopfen am
+  See. Free entry.
+URL:https://www.fuessenaktuell.de/index.php/konzerte/
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-fruehschoppen-festspielhaus-1018@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261018T110000
+DTEND;TZID=Europe/Berlin:20261018T130000
+SUMMARY:Frühschoppenkonzert im Biergarten am Festspielhaus
+LOCATION:Biergarten am Festspielhaus\, Füssen
+DESCRIPTION:Free Sunday morning brass band concert by a Musikkapelle of the
+  Allgäu-Schwäbischer Musikbund in the Festspielhaus beer garden on the F
+ orggensee shore\, weather permitting. The October dates are back on the pr
+ ogramme: 11\, 18 and 25 October are the last three of the season.
+URL:https://das-festspielhaus.de/alle-veranstaltungen/
+CATEGORIES:concert
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-gunther-jauch-trifft-best@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261018T150000
 DTEND;TZID=Europe/Berlin:20261018T170000
 SUMMARY:Günther Jauch trifft Best of Festspielhaus
@@ -1322,7 +906,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-reinhold-messner-uber-leben-1018@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261018T180000
 DTEND;TZID=Europe/Berlin:20261018T200000
 SUMMARY:Reinhold Messner: Über Leben - Der neue Live-Vortrag
@@ -1345,7 +929,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-film-forggensee-1018@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261018T201500
 DTEND;TZID=Europe/Berlin:20261018T220000
 SUMMARY:Filmvorführung "Der Forggensee"
@@ -1361,7 +945,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-zeppelin-musical@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261022T160000
 DTEND;TZID=Europe/Berlin:20261022T180000
 SUMMARY:Zeppelin - Das Musical
@@ -1380,7 +964,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-wirtshausbuehne-glueck-1022@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261022T200000
 DTEND;TZID=Europe/Berlin:20261022T223000
 SUMMARY:Wirtshausbühne: Das Glück kommt durch die Hintertür
@@ -1394,19 +978,53 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:fuessen-2026-ev-fussen-esv-kaufbeuren@garylewis
+UID:fuessen-2026-plansee-konzert-hanke-brothers@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261022T200000
+DTEND;TZID=Europe/Berlin:20261022T220000
+SUMMARY:Plansee Konzert: Vier Brüder und das Fest der wilden Töne
+LOCATION:Walter Schwarzkopf-Saal der Plansee Group\, Breitenwang (Reutte)
+DESCRIPTION:The Hanke Brothers\, a chamber ensemble of four brothers\, mix 
+ classical music with jazz and pop in the Plansee Konzerte series\, about 2
+ 0 minutes from Füssen. Instruments not confirmed.
+URL:https://www.reutte.at/Plansee_Konzert_Vier_Brueder_und_das_Fest_der_wil
+ den_Toene
+CATEGORIES:classical
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-sing-und-swing-lechchorallen@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261023T190000
+DTEND;TZID=Europe/Berlin:20261023T210000
+SUMMARY:"Sing und Swing" mit den Allgäuer LechCHORallen
+LOCATION:Museum der bayerischen Könige\, Alpseestraße 27\, Hohenschwangau
+DESCRIPTION:Choir concert conducted by Walter Dolak\, songs from Udo Jürge
+ ns to Queen. Guests Markus Kerber (flutes\, saxophone\, cajon) and singer 
+ Florian Keller. Price not published.
+URL:http://veranstaltungen.erlebe.bayern/schwangau/sing-und-swing-mit-den-a
+ llgaeuer-lechchorallen-e891f2bbbeb7e011f6a632f734f046c0f.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-ev-fussen-esv-kaufbeuren@garylewis
+SEQUENCE:1
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261023T193000
 DTEND;TZID=Europe/Berlin:20261023T220000
 SUMMARY:EV Füssen vs ESV Kaufbeuren (Allgäu Derby)
 LOCATION:Bundesstützpunkt Eishockey Arena\, Füssen
-DESCRIPTION:Allgäu derby in the Oberliga Süd as EV Füssen hosts neighbou
- rs ESV Kaufbeuren on a Friday night. Kaufbeuren travel with a big away fol
- lowing\, so this is one of the hottest home dates of the Hauptrunde. Liste
- d face-off 19:30\, verify on evfuessen.de closer to the date\; tickets via
-  the EV Füssen online shop.
-URL:https://www.eishockeynews.de/verein/ev-fuessen/termine
+DESCRIPTION:Allgäu derby in the Oberliga Süd\, matchday 12: EV Füssen ho
+ st neighbours ESV Kaufbeuren on a Friday night. Face-off 19:30. Public tic
+ ket sales opened Monday 5 October at 12:00 via evfuessen.de/tickets and Ev
+ entim outlets\, and the club advises buying early.
+URL:https://www.eishockeynews.de/spiel/ev-fuessen-gegen-esv-kaufbeuren-5240
+ 489/info
 CATEGORIES:hockey
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1417,9 +1035,74 @@ TRIGGER:-P14D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-sternwarte-ottobeuren-mond@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261023T193000
+DTEND;TZID=Europe/Berlin:20261023T213000
+SUMMARY:Der Mond - die Sonne der Nacht
+LOCATION:Allgäuer Volkssternwarte Ottobeuren\, Wolferts 40\, Ottobeuren
+DESCRIPTION:Evening about the Moon. Show at the Allgäuer Volkssternwarte O
+ ttobeuren\, about 65 minutes from Füssen\, with telescope viewing if the 
+ sky is clear. 8 EUR\, 4 EUR off for children under 10\, cash only\, book a
+  place via the event page.
+URL:https://www.avso.de/events/mond-2026-10/
+CATEGORIES:science
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-grizzly-bird-kulturinitiative@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261023T200000
+DTEND;TZID=Europe/Berlin:20261023T220000
+SUMMARY:Grizzly Bird - Trio Konzert
+LOCATION:Altes Spital\, Spitalgasse 6\, Füssen
+DESCRIPTION:Kulturinitiative Füssen concert by Grizzly Bird\, the folk and
+  singer-songwriter project of Füssen musician Hans Gnendinger (vocals\, g
+ uitar)\, with Nils Wenzel on bass and Florian Dietrich on drums. Start tim
+ e not published\, time tbc\, verify at kifuessen.de.
+URL:https://kifuessen.de/calendar/grizzly-bird
+CATEGORIES:bar-music
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-matze-blaue-tatze-kaufbeuren@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261024T160000
+DTEND;TZID=Europe/Berlin:20261024T170000
+SUMMARY:Familienkonzert "Matze mit der blauen Tatze"
+LOCATION:Stadttheater\, Kaufbeuren
+DESCRIPTION:Jazz concert for children in the mini.musik series about a cat 
+ with a blue paw who travels the world and makes friends. Band of saxophone
+ \, violin\, guitar\, drums and double bass. Tickets from 6.15 EUR.
+URL:https://r.jina.ai/https://kulturwerkstatt-kaufbeuren.reservix.de/
+CATEGORIES:kids
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-blasmusikabend-blonhofen-1024@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261024T193000
+DTEND;TZID=Europe/Berlin:20261024T213000
+SUMMARY:Blasmusikabend mit der Musikkapelle Blonhofen
+LOCATION:Bannwaldsee-Stadl\, Münchener Str. 151\, Schwangau
+DESCRIPTION:Brass band evening with the Musikkapelle Blonhofen at the Bannw
+ aldsee-Stadl. Free entry.
+URL:https://bannwaldsee-stadl.de/oktober-2026/
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-herbstmarkt-weissensee@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261025T100000
 DTEND;TZID=Europe/Berlin:20261025T120000
 SUMMARY:Herbstmarkt Weissensee
@@ -1434,9 +1117,75 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-eibsee-herbstlauf@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261025T100000
+DTEND;TZID=Europe/Berlin:20261025T123000
+SUMMARY:45. Eibsee-Herbstlauf
+LOCATION:Zugspitzbad / Kurhaus Grainau\, Parkweg 8\, Grainau
+DESCRIPTION:12.2 km run from Grainau up to the Eibsee below the Zugspitze n
+ orth face\, about 370 m of climbing\, organised by SC Eibsee Grainau. Nord
+ ic walking starts 09:30\, run 10:00. Entry 18 EUR\, no kids race. About an
+  hour from Füssen via Reutte.
+URL:https://www.sceg.de/PublicEibseelauf
+CATEGORIES:running
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-fruehschoppen-festspielhaus-1025@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261025T110000
+DTEND;TZID=Europe/Berlin:20261025T130000
+SUMMARY:Frühschoppenkonzert im Biergarten am Festspielhaus
+LOCATION:Biergarten am Festspielhaus\, Füssen
+DESCRIPTION:Free Sunday morning brass band concert by a Musikkapelle of the
+  Allgäu-Schwäbischer Musikbund in the Festspielhaus beer garden on the F
+ orggensee shore\, weather permitting. The October dates are back on the pr
+ ogramme: 11\, 18 and 25 October are the last three of the season.
+URL:https://das-festspielhaus.de/alle-veranstaltungen/
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-opernabend-sinfonieorchester-marktoberdorf@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261025T190000
+DTEND;TZID=Europe/Berlin:20261025T210000
+SUMMARY:Opernabend mit Julie und Johannes Mooser
+LOCATION:Musikakademie\, Marktoberdorf
+DESCRIPTION:Opera evening of the Sinfonieorchester Marktoberdorf (symphony 
+ orchestra) with Julie and Johannes Mooser\, music by Mozart\, Rossini\, Dv
+ ořák\, Wagner and Puccini. Voice types and prices not published.
+URL:https://sinfonieorchester-marktoberdorf.de/
+CATEGORIES:classical
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-frau-lavendel-kaufbeuren@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261030T170000
+DTEND;TZID=Europe/Berlin:20261030T180000
+SUMMARY:Frau Lavendel - Ein Gruselspaß für Mutige
+LOCATION:Schauburg (Café)\, Kaufbeuren
+DESCRIPTION:Spooky Halloween-season play by the Kulturwerkstatt Kaufbeuren:
+  Frau Lavendel opens suitcases full of figures and masks. Age 7+\, 14.70 E
+ UR. Second show Saturday 31 October at 17:00.
+URL:https://r.jina.ai/https://kulturwerkstatt-kaufbeuren.reservix.de/
+CATEGORIES:kids
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-heimatabend-schlossbrauhaus-1030@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261030T190000
 DTEND;TZID=Europe/Berlin:20261030T220000
 SUMMARY:Heimatabend am Schlossbrauhaus
@@ -1452,7 +1201,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-evf-toelzer-loewen@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261030T193000
 DTEND;TZID=Europe/Berlin:20261030T220000
 SUMMARY:EV Füssen vs Tölzer Löwen (Bavarian Derby)
@@ -1466,9 +1215,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-halloweenabenteuer-schwansee@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261031T150000
+DTEND;TZID=Europe/Berlin:20261031T170000
+SUMMARY:Wanderung "Halloweenabenteuer am See"
+LOCATION:Parkplatz Schwansee\, Königssträßchen\, Schwangau
+DESCRIPTION:Halloween-themed guided walk by the Tourist Information Schwang
+ au\; children only with an adult. Price and booking not published.
+URL:http://veranstaltungen.erlebe.bayern/schwangau/wanderung-halloweenabent
+ euer-am-see-e56cdc5db2d98ef39fb19460d37aed859.html
+CATEGORIES:kids
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-klassiker-fc-bayern-munchen@garylewis
 SEQUENCE:1
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261031T183000
 DTEND;TZID=Europe/Berlin:20261031T203000
 SUMMARY:Der Klassiker: FC Bayern München vs Borussia Dortmund
@@ -1489,8 +1254,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-alpen-film-festival-alpenfilmtheater@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
+SEQUENCE:1
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261101T190000
 DTEND;TZID=Europe/Berlin:20261101T210000
 SUMMARY:Alpen Film Festival: Passion-Tour 2026
@@ -1499,18 +1264,34 @@ DESCRIPTION:Live moderated mountain film evening with five documentaries\,
  about 105 minutes. Main film is Nanga Parbat: Echoes of Sisyphus (45 min\,
   Tom Dauer) about David Göttler and his five expeditions on the Schell ro
  ute over ten years\, plus 50-50\, Steile Karrieren\, Fathom and Ein ganz n
- ormales Leben. Date and time taken from the cinema programme page\; the fe
- stival tour site did not list the Füssen stop yet\, so recheck closer to 
- the date. Tickets via the Alpenfilmtheater.
+ ormales Leben. This is an extra show after the 13 September screening sold
+  out\; the festival's own tour list now confirms the Füssen date. Tickets
+  via the Alpenfilmtheater.
 URL:https://www.alpenfilmtheater.de/detail/130112/ALPEN%20FILM%20FESTIVAL
 CATEGORIES:talk
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-kinderlesung-wintersterne@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261102T160000
+DTEND;TZID=Europe/Berlin:20261102T170000
+SUMMARY:Kinderlesung "Die Wintersterne"
+LOCATION:Schlossbrauhaus\, Gipsmühlweg 5\, Schwangau
+DESCRIPTION:Children's reading by Marie Luise Kaiser. Age range and price n
+ ot published.
+URL:http://veranstaltungen.erlebe.bayern/schwangau/kinderlesung-die-winters
+ terne-e3b6fb696454d06c6956b5bf6177a9df3.html
+CATEGORIES:kids
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-sommernachtstraeume-gaertnerplatz@garylewis
 SEQUENCE:1
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261104T200000
 DTEND;TZID=Europe/Berlin:20261104T220000
 SUMMARY:BEL CANTO ME: Opernstudio des Gärtnerplatztheaters
@@ -1522,7 +1303,7 @@ DESCRIPTION:The production previously announced as Sommernachtsträume now
  th Hibiki Sagae at the piano\, in works by Monteverdi\, Purcell\, Mozart\,
   Schubert\, Gounod\, Donizetti\, Sondheim and Elton John. Tickets via thea
  terinkempten.de.
-URL:https://theaterinkempten.de/produktion/sommernachtstraeume/
+URL:https://theaterinkempten.de/produktion/bel-canto-me/
 CATEGORIES:classical
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1530,7 +1311,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-wirtshausbuehne-glueck-1105@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261105T200000
 DTEND;TZID=Europe/Berlin:20261105T223000
 SUMMARY:Wirtshausbühne: Das Glück kommt durch die Hintertür
@@ -1546,7 +1327,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-impulso-tenors-modeon@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261105T200000
 DTEND;TZID=Europe/Berlin:20261105T221500
 SUMMARY:Impulso Tenors
@@ -1563,7 +1344,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-heimatabend-schlossbrauhaus-1106@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261106T190000
 DTEND;TZID=Europe/Berlin:20261106T220000
 SUMMARY:Heimatabend am Schlossbrauhaus
@@ -1577,9 +1358,26 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-u18-4-nationen-ger-den@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261106T190000
+DTEND;TZID=Europe/Berlin:20261106T213000
+SUMMARY:U18 4-Nationen-Turnier: Deutschland vs Dänemark
+LOCATION:Füssen (DEB names only the town\; check deb-online.de for arena a
+ nd admission)
+DESCRIPTION:German U18 men's national team at home in a four-nations tourna
+ ment (2 to 8 November) against Denmark\, Norway and Slovakia. Admission no
+ t published.
+URL:https://www.deb-online.de/u18-maenner-nationalmannschaft/
+CATEGORIES:hockey
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-schone-biest-musical@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261107T150000
 DTEND;TZID=Europe/Berlin:20261107T170000
 SUMMARY:Die Schöne und das Biest - das Musical
@@ -1595,7 +1393,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-guacayo-live-cafe-bar@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261107T180000
 DTEND;TZID=Europe/Berlin:20261107T200000
 SUMMARY:GUACAYO live im Café Bar Ifni
@@ -1611,36 +1409,89 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-volksmusikabend-oberer-lechgau@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261107T190000
+DTEND;TZID=Europe/Berlin:20261107T220000
+SUMMARY:Volksmusikabend Oberer Lechgau
+LOCATION:Schlossbrauhaus\, Gipsmühlweg 5\, Schwangau
+DESCRIPTION:Folk music evening with groups from the Oberer Lechgau: Bloßam
+ ol and the Kemptner Tanzlmusi\, the singing groups Zwoastimmig\, Wieser Or
+ gelpfeifen and Bidinger Sänger\, the Brotzeitmusi\, the duo Vreni und Mor
+ itz\, and the Goasslschnalzer Roßhaupten (whip crackers) to close. BR Hei
+ mat records it for broadcast.
+URL:http://veranstaltungen.erlebe.bayern/schwangau/volksmusikabend-oberer-l
+ echgau-e3abca0f0dff66f4b581737a81524b962.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-u18-4-nationen-ger-nor@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261107T190000
+DTEND;TZID=Europe/Berlin:20261107T213000
+SUMMARY:U18 4-Nationen-Turnier: Deutschland vs Norwegen
+LOCATION:Füssen (DEB names only the town\; check deb-online.de for arena a
+ nd admission)
+DESCRIPTION:German U18 men's national team at home in a four-nations tourna
+ ment (2 to 8 November) against Denmark\, Norway and Slovakia. Admission no
+ t published.
+URL:https://www.deb-online.de/u18-maenner-nationalmannschaft/
+CATEGORIES:hockey
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-ronsberger-crosslauf@garylewis
-SEQUENCE:1
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20261108T100000
-DTEND;TZID=Europe/Berlin:20261108T130000
-SUMMARY:Ronsberger Sparkassen-Crosslauf
-LOCATION:Ronsberg / Obergünzburg
-DESCRIPTION:Autumn cross country race of about 8 km on trails in the Oberg
- ünzburg and Ronsberg area\, roughly 45 minutes from Füssen. Cross-countr
- y events of this kind usually include children's races. The running calend
- ar listed Obergünzburg as the reference town\, so the exact start locatio
- n is unconfirmed\, and no start time is published yet. Location and time t
- bc\, verify.
-URL:https://running.life/running-calendar/germany/bayern/kempten-allgau
+SEQUENCE:2
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261108T130000
+DTEND;TZID=Europe/Berlin:20261108T150000
+SUMMARY:41. Ronsberger Sparkassen-Crosslauf
+LOCATION:Sportplatz Ronsberg\, Engetrieder Str. 200\, Ronsberg
+DESCRIPTION:Cross country races of SC 1919 Ronsberg\, about 45 minutes from
+  Füssen. 13:00 500 m for children born 2019 or later\, 13:10 1 km for bor
+ n 2015 to 2018\, 13:25 2 km for born 2011 to 2014\, 13:45 8.1 km for youth
+  and adults. Fees in advance / on the day: children 6 / 7 EUR\, pupils and
+  youth 8 / 10 EUR\, adults 14 / 17 EUR. End time not published. Same after
+ noon as the U18 national team game in Füssen.
+URL:https://www.sc1919ronsberg.de/downloads/41crosslauf2026.pdf
 CATEGORIES:running
-STATUS:TENTATIVE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-u18-4-nationen-ger-svk@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261108T143000
+DTEND;TZID=Europe/Berlin:20261108T170000
+SUMMARY:U18 4-Nationen-Turnier: Deutschland vs Slowakei
+LOCATION:Füssen (DEB names only the town\; check deb-online.de for arena a
+ nd admission)
+DESCRIPTION:German U18 men's national team at home in a four-nations tourna
+ ment (2 to 8 November) against Denmark\, Norway and Slovakia. Admission no
+ t published.
+URL:https://www.deb-online.de/u18-maenner-nationalmannschaft/
+CATEGORIES:hockey
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-bremer-stadtmusikanten-puppentheater@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
+SEQUENCE:1
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261108T160000
 DTEND;TZID=Europe/Berlin:20261108T170000
 SUMMARY:Die Bremer Stadtmusikanten (Marionettentheater Bille)
 LOCATION:Puppentheater Kaufbeuren\, Wagenseilstr. 14a\, Kaufbeuren
 DESCRIPTION:Guest performance of the Marionettentheater Bille with the Grim
  m tale Die Bremer Stadtmusikanten as a marionette show\, 60 minutes\, for 
- children from age 3. Children 7.50 EUR\, adults 9.50 EUR. Info at puppenth
- eater-kaufbeuren.de.
+ children from age 3. Both public shows on 8 November (14:00 and 16:00) are
+  now sold out.
 URL:https://puppentheater-kaufbeuren.de/
 CATEGORIES:kids
 STATUS:CONFIRMED
@@ -1649,7 +1500,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-grosses-kreissingen-modeon@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261108T170000
 DTEND;TZID=Europe/Berlin:20261108T193000
 SUMMARY:Großes Kreissingen
@@ -1665,7 +1516,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-konzert-frieden-markus-stockhausen@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261108T200000
 DTEND;TZID=Europe/Berlin:20261108T220000
 SUMMARY:Ein Konzert für Frieden: Markus Stockhausen\, Dinesh Mishra & Frie
@@ -1685,7 +1536,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-film-forggensee-1108@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261108T201500
 DTEND;TZID=Europe/Berlin:20261108T220000
 SUMMARY:Filmvorführung "Der Forggensee"
@@ -1699,9 +1550,41 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-christine-thuermer-bigbox@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261111T200000
+DTEND;TZID=Europe/Berlin:20261111T220000
+SUMMARY:Christine Thürmer: WANDERN TOTAL - Die Welt zu deinen Füßen
+LOCATION:kultBOX\, bigBOX ALLGÄU\, Kempten
+DESCRIPTION:Live talk by long-distance hiker Christine Thürmer\, who has w
+ alked more than 65\,000 km on five continents\, comparing hiking cultures 
+ in 40 countries. Doors 19:00.
+URL:https://www.bigboxallgaeu.de/events/vortraege-lesungen/christine-thuerm
+ er-11-11-2026
+CATEGORIES:talk
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-faschingseroeffnung-schwangau@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261111T201100
+DTEND;TZID=Europe/Berlin:20261111T230000
+SUMMARY:Faschingseröffnung
+LOCATION:Schneiderhanser (Hotel Helmer)\, Mitteldorf 10\, Schwangau
+DESCRIPTION:Start of the Schwangau Fasching season at 20:11 on 11.11.
+URL:http://veranstaltungen.erlebe.bayern/schwangau/faschingseroeffnung-e858
+ 4c001859978eb5ce748be702a764a.html
+CATEGORIES:community
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-dav-kempten-solo-wanderung-gr10@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261112T190000
 DTEND;TZID=Europe/Berlin:20261112T210000
 SUMMARY:DAV Sektionsabend: Auf Solo-Wanderung (Nina Rühlig\, GR10 Pyrenäe
@@ -1717,37 +1600,56 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-25-romantischer-weihnachtsmarkt-schloss@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20261113T140000
-DTEND;TZID=Europe/Berlin:20261113T160000
+SEQUENCE:1
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261113T150000
+DTEND;TZID=Europe/Berlin:20261113T200000
 SUMMARY:25. Romantischer Weihnachtsmarkt Schloss Kronburg (1. Wochenende)
 LOCATION:Schloss Kronburg\, Kronburg
 DESCRIPTION:The 25th Romantischer Weihnachtsmarkt in the courtyard of Schlo
- ss Kronburg with artisan craftspeople in a castle setting\, one of the mos
- t atmospheric Christmas markets in the Allgäu. First weekend runs 13 to 1
- 5 November 2026. Opening hours not yet published\, time tbc\, verify at sc
- hloss-kronburg.de before going.
-URL:https://www.schloss-kronburg.de/termine-2026
+ ss Kronburg with artisan craftspeople in a castle setting. First weekend: 
+ Friday 13 November 15:00 to 20:00\, Saturday 14 and Sunday 15 November 11:
+ 00 to 20:00. Entry 5 EUR\, children up to 14 free. Free meadow parking abo
+ ut 15 minutes' walk away\; no shuttle buses in 2026.
+URL:https://www.schloss-kronburg.de/weihnachtsmarkt2026
 CATEGORIES:medieval
-STATUS:TENTATIVE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-st-martin-hohenschwangau@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261113T164500
+DTEND;TZID=Europe/Berlin:20261113T183000
+SUMMARY:St. Martin mit Laternenumzug
+LOCATION:Start at Alpseestraße / Fürstenstraße\, Hohenschwangau
+DESCRIPTION:Children carry lanterns up to the courtyard of Schloss Hohensch
+ wangau\, where St. Martin arrives on horseback\, the local youth band play
+ s and everyone sings Martin songs. Hot drinks and roast goose. Bring your 
+ own cup\, LED lanterns only. Organised by the Wittelsbacher Ausgleichsfond
+ s.
+URL:http://veranstaltungen.erlebe.bayern/schwangau/st-martin-mit-laternenum
+ zug-e08f9d4fc7a115e4f745b3f07330522eb.html
+CATEGORIES:kids
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-lumagica-reutte-eroffnung-des@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
+SEQUENCE:1
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261113T170000
 DTEND;TZID=Europe/Berlin:20261113T210000
 SUMMARY:Lumagica Reutte - Eröffnung des Lichterparks auf Ehrenberg
 LOCATION:Burgenwelt Ehrenberg\, Reutte in Tirol
-DESCRIPTION:Opening day of the magical light park Lumagica at the castle wo
- rld Ehrenberg near Reutte\, with illuminated animals and mythical creature
- s along a walk through the historic fortress grounds. Season runs 13 Novem
- ber 2026 to 21 February 2027\, open Friday to Sunday 17:00 to 21:00 until 
- 20 December\, then daily over Christmas. The Lumagica ticket includes entr
- y to the Reutte on Ice ice park. Tickets and info at reutte.com and ehrenb
- erg.at.
+DESCRIPTION:Opening day of the Lumagica light park at the Ehrenberg castle 
+ grounds near Reutte\, this year themed Ritter Rüdigers Reise um die Welt.
+  Season runs 13 November 2026 to 21 February 2027\, 17:00 to 21:00 (17:30 
+ from 11 January\, 18:00 from 1 February)\, closed 24 and 31 December. Onli
+ ne prices: adults 19.90 EUR\, children 4 to 14 14.90 EUR\, under 4 free\; 
+ box office a bit more. The ticket gives 50% off a Reutte on Ice day ticket
+ .
 URL:https://www.reutte.com/en/lumagica-reutte/opening-hours
 CATEGORIES:kids
 STATUS:CONFIRMED
@@ -1756,7 +1658,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-evf-ec-peiting@garylewis
 SEQUENCE:1
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261113T193000
 DTEND;TZID=Europe/Berlin:20261113T220000
 SUMMARY:EV Füssen vs EC Peiting (Oberland Derby)
@@ -1773,9 +1675,43 @@ STATUS:CANCELLED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-sternwarte-ottobeuren-saturn@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261113T193000
+DTEND;TZID=Europe/Berlin:20261113T210000
+SUMMARY:SATURN - die Highlights der Cassini-Huygens-Mission
+LOCATION:Allgäuer Volkssternwarte Ottobeuren\, Wolferts 40\, Ottobeuren
+DESCRIPTION:Saturn and the results of the Cassini-Huygens mission. Show at 
+ the Allgäuer Volkssternwarte Ottobeuren\, about 65 minutes from Füssen\,
+  with telescope viewing if the sky is clear. 8 EUR\, 4 EUR off for childre
+ n under 10\, cash only\, book a place via the event page.
+URL:https://www.avso.de/events/saturn_2026-11/
+CATEGORIES:science
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-violin-recital-richard-strauss-institut@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261114T190000
+DTEND;TZID=Europe/Berlin:20261114T210000
+SUMMARY:1. Kammerkonzert: Violin-Recital
+LOCATION:Konzertsaal\, Richard-Strauss-Institut\, Garmisch-Partenkirchen
+DESCRIPTION:Violin and piano recital by Julia Galic (violin) and Angela-Cha
+ rlott Linckelmann (piano): Pejačević's Sonata op. 26\, Richard Strauss's
+  Sonata op. 18 and Biber's Mystery Sonatas 1 and 10. 29 EUR\, reduced 10 E
+ UR.
+URL:https://www.richard-strauss-institut.de/de/veranstaltungen/detail/1163
+CATEGORIES:classical
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-veteranenjahrtag@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261115T090000
 DTEND;TZID=Europe/Berlin:20261115T110000
 SUMMARY:Veteranenjahrtag
@@ -1791,17 +1727,33 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:fuessen-2026-nfl-munich-game-2026@garylewis
+UID:fuessen-2026-comedy-dino-show-schlossbrauhaus@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261115T110000
+DTEND;TZID=Europe/Berlin:20261115T120000
+SUMMARY:Die Comedy Dino Show
+LOCATION:Schlossbrauhaus\, Gipsmühlweg 5\, Schwangau
+DESCRIPTION:Family comedy show by Andreas Lang (magicdresi.de). Second show
+  at 14:00. Price not published.
+URL:http://veranstaltungen.erlebe.bayern/schwangau/die-comedy-dino-show-e37
+ 4273d1a3ac4ad77042b49feb82e581.html
+CATEGORIES:kids
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-nfl-munich-game-2026@garylewis
+SEQUENCE:1
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261115T153000
 DTEND;TZID=Europe/Berlin:20261115T190000
 SUMMARY:NFL Munich Game 2026: New England Patriots vs Detroit Lions
 LOCATION:Allianz Arena\, München
 DESCRIPTION:The NFL returns to Munich for a week 10 regular season game bet
  ween the New England Patriots and the Detroit Lions with German star Amon-
- Ra St. Brown. Kickoff is Sunday 15 November at 15:30 at the Allianz Arena.
-  Tickets sell out fast and run roughly 84 to 414 Euro via Ticketmaster.
+ Ra St. Brown. Kickoff Sunday 15 November at 15:30 at the Allianz Arena. So
+ ld out according to muenchen.de\; free-to-air on RTL.
 URL:https://www.muenchen.de/veranstaltungen/sport/nfl-muenchen-2026
 CATEGORIES:football
 STATUS:CONFIRMED
@@ -1814,26 +1766,46 @@ TRIGGER:-P14D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fuessen-2026-25-romantischer-weihnachtsmarkt-schloss-1120@garylewis
+UID:fuessen-2026-kinder-uni-auto-der-zukunft@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20261120T140000
-DTEND;TZID=Europe/Berlin:20261120T160000
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261119T160000
+DTEND;TZID=Europe/Berlin:20261119T170000
+SUMMARY:Kinder-Uni: Wie fährt das Auto der Zukunft?
+LOCATION:Thomas-Dachser-Auditorium (Audimax)\, Hochschule Kempten\, Bahnhof
+ str. 61\, Kempten
+DESCRIPTION:Children's university lecture for ages 8 to 12: Prof. Dr. Grego
+ r Bischoff explains petrol\, diesel\, electric and hydrogen drives with de
+ monstrations. Free\, accompanying adults welcome\; only school classes reg
+ ister.
+URL:https://www.hs-kempten.de/hochschule/aktuelles/veranstaltungen-termine/
+ termin/kinder-uni-wie-faehrt-das-auto-der-zukunft-4166
+CATEGORIES:science
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-25-romantischer-weihnachtsmarkt-schloss-1120@garylewis
+SEQUENCE:1
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261120T150000
+DTEND;TZID=Europe/Berlin:20261120T200000
 SUMMARY:25. Romantischer Weihnachtsmarkt Schloss Kronburg (2. Wochenende)
 LOCATION:Schloss Kronburg\, Kronburg
 DESCRIPTION:Second weekend of the 25th Romantischer Weihnachtsmarkt at Schl
- oss Kronburg\, 20 to 22 November 2026\, with artisan stalls in the histori
- c castle courtyard. Opening hours not yet published\, time tbc\, verify at
-  schloss-kronburg.de before going.
-URL:https://www.schloss-kronburg.de/termine-2026
+ oss Kronburg with artisan stalls in the castle courtyard: Friday 20 Novemb
+ er 15:00 to 20:00\, Saturday 21 and Sunday 22 November 11:00 to 20:00. Ent
+ ry 5 EUR\, children up to 14 free. Free meadow parking about 15 minutes' w
+ alk away\; no shuttle buses in 2026.
+URL:https://www.schloss-kronburg.de/weihnachtsmarkt2026
 CATEGORIES:medieval
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-alice-wunderland-theater-tanz@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261120T180000
 DTEND;TZID=Europe/Berlin:20261120T200000
 SUMMARY:Alice im Wunderland (Theater\, Tanz\, Akrobatik\, Zirkuskunst)
@@ -1849,24 +1821,41 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-muralim-bar-ifni@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
+SEQUENCE:1
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261121T200000
 DTEND;TZID=Europe/Berlin:20261121T223000
 SUMMARY:Muralim live im Café Bar Ifni
 LOCATION:Café Bar Ifni\, Füssen
-DESCRIPTION:Live music night with Muralim at Café Bar Ifni in Füssen. Gen
- re not verified\, listed under concerts. Tickets via the meinestadt.de lis
- ting.
-URL:https://veranstaltungen.meinestadt.de/fuessen/konzerte/alle
+DESCRIPTION:Jazz night with Muralim\, the project of saxophonist and compos
+ er Mauro Reimann\, at Café Bar Ifni in Füssen. Start time not published\
+ , time tbc\, verify.
+URL:https://www.muralim.ch/
 CATEGORIES:bar-music
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-drei-haselnuesse-aschenbroedel-bigbox@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261122T180000
+DTEND;TZID=Europe/Berlin:20261122T201500
+SUMMARY:Drei Haselnüsse für Aschenbrödel - Das Musical
+LOCATION:bigBOX ALLGÄU\, Kempten
+DESCRIPTION:Family stage musical of the Christmas film with Karel Svoboda's
+  original score and new songs by Thomas Zaufke. The tour lists age 6+ and 
+ about 2 hours 15 minutes including a 20 minute interval. Doors 17:00.
+URL:https://www.bigboxallgaeu.de/events/kinderveranstaltung/drei-haselnuess
+ e-fuer-aschenbroedel-22-11-2026
+CATEGORIES:kids
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-oeffentliche-generalprobe-mkw@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261122T190000
 DTEND;TZID=Europe/Berlin:20261122T210000
 SUMMARY:Öffentliche Generalprobe der Musikkapelle Weissensee
@@ -1882,28 +1871,81 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:fuessen-2026-erlebnisweihnacht-bad-hindelang-w1@garylewis
+UID:fuessen-2026-film-bau-lechstaustufe@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261122T193000
+DTEND;TZID=Europe/Berlin:20261122T213000
+SUMMARY:Filmvorführung "Bau der Lechstaustufe 1"
+LOCATION:Schlossbrauhaus\, Gipsmühlweg 5\, Schwangau
+DESCRIPTION:Restored 35 mm documentary about building the Forggensee dam\, 
+ which opened in 1954\, shown in public for the first time in over 60 years
+ .
+URL:http://veranstaltungen.erlebe.bayern/schwangau/filmvorfuehrung-bau-der-
+ lechstaustufe-1-e054bc079ecfba9ec31c45bf2b0f57c82.html
+CATEGORIES:community
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-erlebnisweihnacht-bad-hindelang-w1@garylewis
+SEQUENCE:1
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261126T140000
-DTEND;TZID=Europe/Berlin:20261129T190000
+DTEND;TZID=Europe/Berlin:20261129T210000
 SUMMARY:Erlebnis-Weihnachtsmarkt Bad Hindelang (1. Wochenende)
 LOCATION:Ortszentrum\, Bad Hindelang
-DESCRIPTION:Opening weekend of the famous medieval-style Erlebnisweihnacht 
- that turns the whole village centre of Bad Hindelang into a historic Chris
- tmas town\, Thursday to Sunday. The Märchenumzug parade with about 150 fa
- iry tale figures runs on Friday and Sunday (about 1 hour). Children under 
- 12 free\; entry includes shuttle buses and parking. Opening hours tbc\, ve
- rify at badhindelang.de.
-URL:https://www.badhindelang.de/weihnachtsmarkt
+DESCRIPTION:Opening weekend of the Erlebnisweihnacht\, which turns the vill
+ age centre of Bad Hindelang into a historic Christmas town. Thursday and F
+ riday 14:00 to 21:00\, Saturday and Sunday 11:00 to 21:00. Christmas and f
+ airy-tale parade with about 160 figures on Friday 27 November at 18:30 and
+  Sunday 29 November at 18:00. Day tickets Thursday 7\, Friday 12\, Saturda
+ y 10\, Sunday 12 EUR\; weekend ticket 29 EUR\; children up to 12 free.
+URL:https://erlebnis-weihnachtsmarkt.de/service/
+CATEGORIES:medieval
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-kaltenberg-weihnachtsmarkt@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261127T140000
+DTEND;TZID=Europe/Berlin:20261127T200000
+SUMMARY:Schloss Kaltenberg Weihnachtsmarkt (1. Adventswochenende)
+LOCATION:Schloss Kaltenberg\, Geltendorf
+DESCRIPTION:Castle Christmas market on all four Advent weekends\, Friday to
+  Sunday (27 to 29 November\, 4 to 6\, 11 to 13 and 18 to 20 December)\, wi
+ th a Brothers Grimm fairy-tale world and stage\, an ice rink in the tourna
+ ment arena (skate hire 5 EUR per hour) and St. Nicholas. Children under 15
+  free. A bit over an hour from Füssen. Opening hours and 2026 adult price
+ s not published yet\, time tbc\, verify.
+URL:https://schloss-kaltenberg.de/
 CATEGORIES:medieval
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-ausserferner-weihnachtsmarkt@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261127T160000
+DTEND;TZID=Europe/Berlin:20261127T210000
+SUMMARY:Außerferner Weihnachtsmarkt Reutte
+LOCATION:Stadtpark\, Untermarkt 34\, Reutte
+DESCRIPTION:Christmas market in the Reutte town park next to the Reutte on 
+ Ice skating park\, easy to combine with Lumagica. Three weekends: 27 to 29
+  November\, 4 to 6 December and 11 to 13 December\; Fridays 16:00 to 21:00
+ \, Saturdays 14:00 to 21:00\, Sundays 14:00 to 20:00.
+URL:https://www.lechtal.at/en/event/ausserferner-weihnachtsmarkt.html
+CATEGORIES:town
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-geist-weihnacht-musical@garylewis
 SEQUENCE:2
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261127T190000
 DTEND;TZID=Europe/Berlin:20261127T210000
 SUMMARY:Der Geist der Weihnacht - Das Musical
@@ -1921,7 +1963,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-meisterkonzert-litauisches-orchester@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261127T200000
 DTEND;TZID=Europe/Berlin:20261127T220000
 SUMMARY:Meisterkonzert: Litauisches Staatliches Sinfonieorchester
@@ -1937,9 +1979,49 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-benefizkonzert-hugo-schlossbrauhaus@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261127T200000
+DTEND;TZID=Europe/Berlin:20261127T220000
+SUMMARY:Benefizkonzert Hugo 4.0
+LOCATION:Schlossbrauhaus\, Gipsmühlweg 5\, Schwangau
+DESCRIPTION:Benefit concert by a 13-piece ensemble playing Renaissance musi
+ c\, film and musical songs\, and rock and pop hits. Donations go to Kartei
+  der Not and the Allgäuer Hilfsfonds.
+URL:http://veranstaltungen.erlebe.bayern/schwangau/benefizkonzert-hugo-40-e
+ a92e156e93a7ff5bfbe21d4d640e7fd8.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-gunglhos-vorverkauf@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261128T090000
+DTEND;TZID=Europe/Berlin:20261128T110000
+SUMMARY:Gunglhos: Kartenvorverkauf
+LOCATION:Schlossbrauhaus\, Gipsmühlweg 5\, Schwangau
+DESCRIPTION:Ticket presale for the six Gunglhos Fasching shows in January 2
+ 027: 16\, 22\, 23\, 29 and 30 January at 19:30 and the Familiengunglhos on
+  17 January at 14:00. Sales start 09:00 at the Schlossbrauhaus\, QR-code q
+ ueue numbers from 08:00\, max 24 tickets per person\, cash or card.
+URL:http://veranstaltungen.erlebe.bayern/schwangau/1-gunglhos-e3629b0a4f609
+ 736372d107c63d5fd63d.html
+CATEGORIES:community
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tickets: Gunglhos: Kartenvorverkauf
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-geist-der-weihnacht-1128@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261128T140000
 DTEND;TZID=Europe/Berlin:20261128T170000
 SUMMARY:Der Geist der Weihnacht - Das Musical (Matinee)
@@ -1959,9 +2041,40 @@ TRIGGER:-P14D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-kaufbeurer-engele-kulturwerkstatt@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261128T170000
+DTEND;TZID=Europe/Berlin:20261128T181500
+SUMMARY:Die wirklich wahre Geschichte vom Kaufbeurer Engele
+LOCATION:Kulturwerkstatt\, Kaufbeuren
+DESCRIPTION:Play about Kaufbeuren's Christmas angel tradition\, age 6+\, 19
+ .70 EUR. Second show Sunday 29 November at 17:00.
+URL:https://r.jina.ai/https://kulturwerkstatt-kaufbeuren.reservix.de/
+CATEGORIES:kids
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-liederabend-richard-strauss-institut@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261128T180000
+DTEND;TZID=Europe/Berlin:20261128T200000
+SUMMARY:Liederabend (Sonderkonzert)
+LOCATION:Konzertsaal\, Richard-Strauss-Institut\, Garmisch-Partenkirchen
+DESCRIPTION:Song recital for soprano\, clarinet and piano with Alexandra St
+ eier\, László Kuti and Paul Rivinius: Spohr\, Strauss\, le Beau\, Schuma
+ nn and Cornelius. 29 EUR\, reduced 10 EUR.
+URL:https://www.richard-strauss-institut.de/de/veranstaltungen/detail/753
+CATEGORIES:classical
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-dornroeschen-ballett-modeon@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261128T190000
 DTEND;TZID=Europe/Berlin:20261128T213000
 SUMMARY:Dornröschen (Royal Classical Ballet)
@@ -1976,9 +2089,27 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-december-project-schlossbrauhaus@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261128T190000
+DTEND;TZID=Europe/Berlin:20261128T210000
+SUMMARY:Konzert "December - Project"
+LOCATION:Schlossbrauhaus\, Gipsmühlweg 5\, Schwangau
+DESCRIPTION:Acoustic four-piece band (Klaus Görne\, Daniele Granito\, Wolf
+ gang Sauter\, Michael Ostrowski) with multi-part vocals\, covering Crosby\
+ , Stills & Nash\, Simon & Garfunkel and the Eagles. Same evening as the Mu
+ sikkapelle Weissensee Jahreskonzert.
+URL:http://veranstaltungen.erlebe.bayern/schwangau/konzert-december-project
+ -e7985cb6164114993ee46ad416697483f.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-jahreskonzert-musikkapelle-weissensee@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261128T200000
 DTEND;TZID=Europe/Berlin:20261128T220000
 SUMMARY:Jahreskonzert der Musikkapelle Weissensee
@@ -1997,7 +2128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-weihnachtsmarkt-kiosk@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261129T120000
 DTEND;TZID=Europe/Berlin:20261129T140000
 SUMMARY:Weihnachtsmarkt am Kiosk
@@ -2015,7 +2146,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-quadro-nuevo-weihnachtslieder@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261129T180000
 DTEND;TZID=Europe/Berlin:20261129T200000
 SUMMARY:Quadro Nuevo: Weihnachtslieder
@@ -2036,26 +2167,25 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-erlebnisweihnacht-bad-hindelang-w2@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
+SEQUENCE:1
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261203T140000
-DTEND;TZID=Europe/Berlin:20261206T190000
+DTEND;TZID=Europe/Berlin:20261206T210000
 SUMMARY:Erlebnis-Weihnachtsmarkt Bad Hindelang (2. Wochenende)
 LOCATION:Ortszentrum\, Bad Hindelang
-DESCRIPTION:Second weekend of the medieval-style Erlebnisweihnacht in Bad H
- indelang\, Thursday to Sunday\, with the Märchenumzug parade of about 150
-  fairy tale figures on Friday and Sunday. Children under 12 free\; entry i
- ncludes shuttle buses and parking. Opening hours tbc\, verify at badhindel
- ang.de.
-URL:https://www.badhindelang.de/weihnachtsmarkt
+DESCRIPTION:Second weekend of the Erlebnisweihnacht in Bad Hindelang. Thurs
+ day 3 December is Kindertag (14:00 to 21:00\, 7 EUR)\, Friday 14:00 to 21:
+ 00 (10 EUR)\, Saturday and Sunday 11:00 to 21:00 (12 and 10 EUR). One anni
+ versary parade on Saturday 5 December at 18:00. Children up to 12 free.
+URL:https://erlebnis-weihnachtsmarkt.de/service/
 CATEGORIES:medieval
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-dav-kempten-faszination-hoehlen@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261203T190000
 DTEND;TZID=Europe/Berlin:20261203T210000
 SUMMARY:DAV Sektionsabend: Faszination Höhlen
@@ -2071,7 +2201,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-fuessener-adventsmarkt-w1@garylewis
 SEQUENCE:1
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261204T170000
 DTEND;TZID=Europe/Berlin:20261204T200000
 SUMMARY:Füssener Adventsmarkt (2. Adventswochenende)
@@ -2088,9 +2218,26 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-nikolauslauf-immenstadt@garylewis
+SEQUENCE:2
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261205T100000
+DTEND;TZID=Europe/Berlin:20261205T130000
+SUMMARY:Nikolauslauf Immenstadt
+LOCATION:Auwald Stadion\, Immenstadt im Allgäu
+DESCRIPTION:Back on for 2026 under a new organiser\, TV Immenstadt Triathlo
+ n\, now on Saturday 5 December. 5 km and 10 km plus children's races from 
+ age 6\, about an hour from Füssen. Start times not published yet\, time t
+ bc\, verify. Registration via my.raceresult.com/395909.
+URL:https://tvimmenstadt-triathlon.de/aktuelles/NIkOLAUSLAUF_2026.php
+CATEGORIES:running
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-geist-der-weihnacht-1205@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261205T143000
 DTEND;TZID=Europe/Berlin:20261205T173000
 SUMMARY:Der Geist der Weihnacht - Das Musical (Matinee)
@@ -2111,17 +2258,18 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-hakuna-matata-kindermusical-gala@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
+SEQUENCE:1
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261205T170000
 DTEND;TZID=Europe/Berlin:20261205T190000
 SUMMARY:Hakuna Matata - Die große Kindermusical-Gala
 LOCATION:MODEON\, Marktoberdorf
 DESCRIPTION:Children's musical gala of vocal highlights from the best known
   musicals and Disney films\, including König der Löwen\, Die Eiskönigin
-  and Tabaluga\, with songs to sing and dance along to. A show for the whol
- e family. Tickets from about 26 to 32 EUR.
-URL:https://veranstaltungen.meinestadt.de/deutschland/event-detail/41614318
+  and Tabaluga\, with songs to sing and dance along to. From age 4. Tickets
+  31.50 EUR.
+URL:https://www.modeon.de/termine/6450/1796486400/hakuna-matata---die-einzi
+ gartige-grosse-kindermusical-gala
 CATEGORIES:kids
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2132,27 +2280,27 @@ TRIGGER:-P14D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fuessen-2026-nikolauslauf-immenstadt@garylewis
-SEQUENCE:1
-DTSTAMP:20260921T060447Z
-DTSTART;TZID=Europe/Berlin:20261206T100000
-DTEND;TZID=Europe/Berlin:20261206T130000
-SUMMARY:Nikolauslauf Immenstadt
-LOCATION:Immenstadt im Allgäu
-DESCRIPTION:Cancelled for 2026: runme.de states the Nikolauslauf Immenstadt
-  findet im aktuellen Jahr nicht statt and hdsports knows of no further edi
- tion. Nikolaus themed December road race at Immenstadt with 5 km and 10 km
-  options\, about an hour from Füssen. Start time not yet published\, time
-  tbc\, verify.
-URL:https://www.runme.de/deutschland/nikolauslauf-immenstadt/
-CATEGORIES:running
-STATUS:CANCELLED
+UID:fuessen-2026-schwangauer-nikolausmarkt@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261206T130000
+DTEND;TZID=Europe/Berlin:20261206T180000
+SUMMARY:Schwangauer Nikolausmarkt
+LOCATION:Mitteldorf 18\, Schwangau
+DESCRIPTION:Christmas market of the Kur- und Verkehrsverein with wooden sta
+ lls\, homemade food\, Christmas baking and handmade gifts. At dusk the Nik
+ olaus arrives in a horse-drawn carriage and hands out small presents. Proc
+ eeds go to local social causes. Closing time not published.
+URL:http://veranstaltungen.erlebe.bayern/waltenhofen/schwangauer-nikolausma
+ rkt-eacb1ef1ea6ba0f9f37f4d942ded63eea.html
+CATEGORIES:community
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-raeuber-hotzenplotz-1206@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261206T160000
 DTEND;TZID=Europe/Berlin:20261206T180000
 SUMMARY:Der Räuber Hotzenplotz
@@ -2173,27 +2321,81 @@ TRIGGER:-P14D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fuessen-2026-erlebnisweihnacht-bad-hindelang-w3@garylewis
+UID:fuessen-2026-heimische-musik-advent-schwangau@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261206T170000
+DTEND;TZID=Europe/Berlin:20261206T180000
+SUMMARY:Heimische Musik zum Advent
+LOCATION:Pfarrkirche St. Maria und Florian\, Forggenseestraße 74\, Schwang
+ au
+DESCRIPTION:Advent folk music in the Schwangau parish church with readings 
+ by Andrea Höß: Schwangauer Bläser (wind ensemble)\, Tocamos (vocals\, g
+ uitar)\, Lechtaler Viergesang (vocal quartet)\, Angelika & Herbert (guitar
+ \, zither) and John & Rudi (violin\, accordion). Same day as the Schwangau
+ er Nikolausmarkt.
+URL:http://veranstaltungen.erlebe.bayern/schwangau/heimische-musik-zum-adve
+ nt-e02611ceb2d2db27c31837effd9b012fe.html
+CATEGORIES:concert
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-nikolo-on-ice-reutte@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261206T170000
+DTEND;TZID=Europe/Berlin:20261206T190000
+SUMMARY:Nikolo on Ice
+LOCATION:Reutte on Ice\, Stadtpark / Untermarkt\, Reutte
+DESCRIPTION:St. Nicholas and his Krampus companions visit the Reutte on Ice
+  skating park. Ice park entry adults 11 EUR\, children 4 to 14 7 EUR\, kid
+ s' skate hire 4 EUR.
+URL:https://r.jina.ai/https://www.reutte.com/en/reutte-on-ice/events
+CATEGORIES:kids
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-adventskonzert-muenchner-symphoniker-bigbox@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261206T190000
+DTEND;TZID=Europe/Berlin:20261206T210000
+SUMMARY:Adventskonzert: Musikalische Schlittenfahrt
+LOCATION:klassikBOX\, bigBOX ALLGÄU\, Kempten
+DESCRIPTION:Symphony orchestra concert by the Münchner Symphoniker under J
+ oseph Bastian: Humperdinck's Hänsel und Gretel prelude\, Respighi\, Mozar
+ t's Zauberflöte overture\, Leopold Mozart's Musikalische Schlittenfahrt\,
+  and winter and sleigh-ride pieces by Strauss\, Delius and Waldteufel. Doo
+ rs 18:00.
+URL:https://www.bigboxallgaeu.de/events/klassik-oper-ballett-theater/advent
+ skonzert-06-12-2026
+CATEGORIES:classical
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-erlebnisweihnacht-bad-hindelang-w3@garylewis
+SEQUENCE:1
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261210T140000
-DTEND;TZID=Europe/Berlin:20261213T190000
+DTEND;TZID=Europe/Berlin:20261213T210000
 SUMMARY:Erlebnis-Weihnachtsmarkt Bad Hindelang (3. Wochenende)
 LOCATION:Ortszentrum\, Bad Hindelang
-DESCRIPTION:Final weekend of the medieval-style Erlebnisweihnacht in Bad Hi
- ndelang\, Thursday to Sunday\, with the Märchenumzug parade of about 150 
- fairy tale figures on Friday and Sunday. Children under 12 free\; entry in
- cludes shuttle buses and parking. Opening hours tbc\, verify at badhindela
- ng.de.
-URL:https://www.badhindelang.de/weihnachtsmarkt
+DESCRIPTION:Final weekend of the Erlebnisweihnacht in Bad Hindelang. Thursd
+ ay and Friday 14:00 to 21:00 (7 and 12 EUR)\, Saturday and Sunday 11:00 to
+  21:00 (10 and 12 EUR). Parades on Friday 11 December and Sunday 13 Decemb
+ er at 18:00. Children up to 12 free.
+URL:https://erlebnis-weihnachtsmarkt.de/service/
 CATEGORIES:medieval
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-fuessener-adventsmarkt-w2@garylewis
 SEQUENCE:1
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261211T140000
 DTEND;TZID=Europe/Berlin:20261211T200000
 SUMMARY:Füssener Adventsmarkt (3. Adventswochenende)
@@ -2211,7 +2413,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-nikolausschiessen-weissensee@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261211T190000
 DTEND;TZID=Europe/Berlin:20261211T220000
 SUMMARY:Nikolausschießen
@@ -2228,7 +2430,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-adventsnachmittag-magnushaus@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261212T143000
 DTEND;TZID=Europe/Berlin:20261212T170000
 SUMMARY:Adventsnachmittag
@@ -2243,9 +2445,24 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-nesselwanger-adventsmarkt@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261212T150000
+DTEND;TZID=Europe/Berlin:20261212T210000
+SUMMARY:16. Nesselwanger Adventsmarkt
+LOCATION:Parkplatz Alpspitzhalle\, Nesselwang
+DESCRIPTION:Charity Advent market run by KIM (Kinder im Markt) with local h
+ andmade crafts\, waffles\, mulled wine and music.
+URL:https://www.nesselwang.de/nesselwanger_adventsmarkt.html
+CATEGORIES:community
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-broadway-kurt-weill-kempten@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261212T190000
 DTEND;TZID=Europe/Berlin:20261212T210000
 SUMMARY:Wouldn't You Like to Be on Broadway: der amerikanische Kurt Weill
@@ -2261,9 +2478,26 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-pfrontener-weihnachtsmarkt@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261213T130000
+DTEND;TZID=Europe/Berlin:20261213T200000
+SUMMARY:36. Pfrontener Weihnachtsmarkt
+LOCATION:Leonhardsplatz\, Tiroler Str. 9-11\, Pfronten
+DESCRIPTION:More than 30 stalls of local crafts and a stage programme. The 
+ Nikolaus and his Klausen bring a present for every child\, and nativity di
+ oramas are on show in the Heitlern church. Free entry.
+URL:https://www.allgaeu.de/veranstaltungen/36-pfrontener-weihnachtsmarkt-am
+ -13122026
+CATEGORIES:town
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-we-love-christmas@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261213T140000
 DTEND;TZID=Europe/Berlin:20261213T160000
 SUMMARY:WE LOVE CHRISTMAS
@@ -2280,7 +2514,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-kerzenschein-vokalensemble-basilika@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261213T160000
 DTEND;TZID=Europe/Berlin:20261213T173000
 SUMMARY:Konzert bei Kerzenschein: Vokalensemble Kempten
@@ -2298,7 +2532,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-klassik-radio-filmmusik-bigbox@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261214T200000
 DTEND;TZID=Europe/Berlin:20261214T223000
 SUMMARY:Klassik Radio live in Concert: Die Nacht der Filmmusik
@@ -2319,9 +2553,87 @@ TRIGGER:-P14D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-dikka-bigbox@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261218T170000
+DTEND;TZID=Europe/Berlin:20261218T183000
+SUMMARY:DIKKA - BOAH IST DAS KRASS TOUR 2
+LOCATION:bigBOX ALLGÄU\, Kempten
+DESCRIPTION:Live sing-along show by the children's rap rhino DIKKA\, with s
+ ongs about self-confidence and setting boundaries. Doors 15:00.
+URL:https://www.bigboxallgaeu.de/events/kinderveranstaltung/dikka-18-12-202
+ 6
+CATEGORIES:kids
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tickets: DIKKA - BOAH IST DAS KRASS TOUR 2
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-sternwarte-ottobeuren-stern-bethlehem@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261218T193000
+DTEND;TZID=Europe/Berlin:20261218T210000
+SUMMARY:Der Stern von Bethlehem
+LOCATION:Allgäuer Volkssternwarte Ottobeuren\, Wolferts 40\, Ottobeuren
+DESCRIPTION:Advent programme on the astronomy behind the Star of Bethlehem.
+  Show at the Allgäuer Volkssternwarte Ottobeuren\, about 65 minutes from 
+ Füssen\, with telescope viewing if the sky is clear. 8 EUR\, 4 EUR off fo
+ r children under 10\, cash only\, book a place via the event page.
+URL:https://www.avso.de/veranstaltungen/
+CATEGORIES:science
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-bergweihnacht-drehhuette@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261219T110000
+DTEND;TZID=Europe/Berlin:20261219T170000
+SUMMARY:Bergweihnacht an der Drehhütte
+LOCATION:Drehhütte 1\, Schwangau
+DESCRIPTION:Mountain Christmas market at the Drehhütte above Schwangau\, 1
+ 9 December from 11:00 and 20 December from 10:00. No car access: allow 1 t
+ o 1.5 hours on foot from the upper Drehhütten car park. Closing time not 
+ published.
+URL:http://veranstaltungen.erlebe.bayern/schwangau/bergweihnacht-ece2ffb566
+ a37b468abe447d2ec07244c.html
+CATEGORIES:community
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-eoft-alpenfilmtheater@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261219T160000
+DTEND;TZID=Europe/Berlin:20261219T180000
+SUMMARY:European Outdoor Film Tour 2026 (E.O.F.T.)
+LOCATION:Alpenfilmtheater Saal 1\, Augustenstraße 15\, Füssen
+DESCRIPTION:About two hours of outdoor and adventure films in original lang
+ uage with German subtitles\, free seating. Two shows: 16:00 (doors 15:30) 
+ and 20:00 (doors 19:30). The same programme plays the Kornhaus Kempten on 
+ 25 and 26 November if you want it earlier.
+URL:https://de.eoft.eu/de/tickets/fuessen
+CATEGORIES:talk
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tickets: European Outdoor Film Tour 2026 (E.O.F.T.)
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-brandner-kaspar-1219@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261219T193000
 DTEND;TZID=Europe/Berlin:20261219T220000
 SUMMARY:Brandner Kaspar - Das Musical
@@ -2336,9 +2648,30 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-ox-und-esel-kulturwerkstatt@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261220T150000
+DTEND;TZID=Europe/Berlin:20261220T161500
+SUMMARY:Ox und Esel - Das Kultstück zur Weihnachtszeit
+LOCATION:Kulturwerkstatt\, Kaufbeuren
+DESCRIPTION:The Kulturwerkstatt's annual Christmas play: the nativity told 
+ by an ox and a donkey. Age 6+\, 19.70 EUR. Other shows 19 December 15:00\,
+  23 December 19:00 and 24 December 13:30.
+URL:https://r.jina.ai/https://kulturwerkstatt-kaufbeuren.reservix.de/
+CATEGORIES:kids
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tickets: Ox und Esel - Das Kultstück zur Weihnachtszeit
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-raeuber-hotzenplotz-1220@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261220T160000
 DTEND;TZID=Europe/Berlin:20261220T180000
 SUMMARY:Der Räuber Hotzenplotz
@@ -2354,7 +2687,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-weihnachtsoratorium-la-banda@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261220T170000
 DTEND;TZID=Europe/Berlin:20261220T190000
 SUMMARY:Ein Weihnachtsoratorium: Barockorchester La Banda
@@ -2372,7 +2705,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-zauberhaftes-land-von-oz-premiere@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261222T180000
 DTEND;TZID=Europe/Berlin:20261222T203000
 SUMMARY:Das zauberhafte Land von Oz (Premiere)
@@ -2395,7 +2728,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-evf-riessersee-vorweihnachten@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261223T193000
 DTEND;TZID=Europe/Berlin:20261223T220000
 SUMMARY:EV Füssen vs SC Riessersee (Vorweihnachts-Derby)
@@ -2411,7 +2744,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-zauberhaftes-land-von-oz-1226@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261226T143000
 DTEND;TZID=Europe/Berlin:20261226T170000
 SUMMARY:Das zauberhafte Land von Oz
@@ -2426,9 +2759,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-kinderlesung-schneeflockenmaerchen@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261228T160000
+DTEND;TZID=Europe/Berlin:20261228T170000
+SUMMARY:Kinderlesung "Schneeflockenmärchen"
+LOCATION:Schwangau (venue not confirmed)
+DESCRIPTION:Children's reading in the Schwangau event calendar. Venue and p
+ rice not confirmed\; the November reading was at the Schlossbrauhaus.
+URL:http://veranstaltungen.erlebe.bayern/schwangau/kinderlesung-schneeflock
+ enmaerchen-e71a10f02c3af4382f8e41fb7ebf851e8.html
+CATEGORIES:kids
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-evf-toelzer-loewen-1228@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261228T180000
 DTEND;TZID=Europe/Berlin:20261228T203000
 SUMMARY:EV Füssen vs Tölzer Löwen (Bavarian Derby)
@@ -2443,9 +2792,26 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2026-heimatabend-schlossbrauhaus-1228@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261228T190000
+DTEND;TZID=Europe/Berlin:20261228T220000
+SUMMARY:Heimatabend am Schlossbrauhaus
+LOCATION:Schlossbrauhaus\, Gipsmühlweg 5\, Schwangau
+DESCRIPTION:Christmas-week Heimatabend at the Schlossbrauhaus. The listing 
+ names no group yet\; the October and November evenings have D'Schwanstoane
+ r. Table reservation recommended.
+URL:http://veranstaltungen.erlebe.bayern/schwangau/heimatabend-eda15751953a
+ 06015c86fdf6cd81b7094.html
+CATEGORIES:community
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2026-gluehweinparty-feuerwehr-weissensee@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261229T180000
 DTEND;TZID=Europe/Berlin:20261229T220000
 SUMMARY:Glühweinparty der Feuerwehr
@@ -2461,16 +2827,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-pianotainment-jubilaeum-kempten@garylewis
-SEQUENCE:0
-DTSTAMP:20260921T060447Z
+SEQUENCE:1
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261229T200000
 DTEND;TZID=Europe/Berlin:20261229T221500
 SUMMARY:Pianotainment: Das Jubiläumskonzert
 LOCATION:Stadttheater\, Kempten
 DESCRIPTION:Marcel Dorn and Stephan Weh celebrate 30 years of Pianotainment
   at the Stadttheater Kempten\, a four hands piano show on one instrument r
- anging from baroque to rock and tango to techno\, with surprise guests. Ti
- ckets 17 to 46 EUR via theaterinkempten.de.
+ anging from baroque to rock and tango to techno\, with surprise guests. A 
+ second show has been added the same day at 17:00. Tickets 17 to 46 EUR via
+  theaterinkempten.de.
 URL:https://theaterinkempten.de/produktion/pianotainment-das-jubilaeumskonz
  ert/
 CATEGORIES:classical
@@ -2478,27 +2845,63 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:fuessen-2026-silvesterlauf-kempten@garylewis
+UID:fuessen-2026-nussknacker-maerchenerzaehler-bigbox@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261230T150000
+DTEND;TZID=Europe/Berlin:20261230T170000
+SUMMARY:Der Nussknacker mit Märchenerzähler
+LOCATION:bigBOX ALLGÄU\, Kempten
+DESCRIPTION:Royal Classical Ballet dances the Nutcracker with a narrator wh
+ o explains each scene\, so young children can follow. Doors 14:00.
+URL:https://www.bigboxallgaeu.de/events/klassik-oper-ballett-theater/nusskn
+ acker-30-12-2026
+CATEGORIES:kids
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tickets: Der Nussknacker mit Märchenerzähler
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-fuessener-rutschparty@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20261230T180000
+DTEND;TZID=Europe/Berlin:20261231T003000
+SUMMARY:Füssener Rutschparty
+LOCATION:Kaiser-Maximilian-Platz\, Füssen
+DESCRIPTION:Free open-air party the day before New Year's Eve around the wi
+ nter bar in front of the Tourist Info\, with DJs and live bands (acts not 
+ named yet).
+URL:https://www.allgaeu.de/veranstaltungen/rutschparty-1
+CATEGORIES:town
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2026-silvesterlauf-kempten@garylewis
+SEQUENCE:1
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261231T130000
 DTEND;TZID=Europe/Berlin:20261231T160000
 SUMMARY:AÜW Georg Hieble Silvesterlauf Kempten
 LOCATION:Illerstadion\, Illerdamm 12\, Kempten
-DESCRIPTION:New Year's Eve run in Kempten with 5 km and 10 km races\, opene
- r of the Laufsport Saukel Cup 2027. Date 31 Dec 2026 confirmed on running.
- life\; the 2026 Ausschreibung is not out yet. Placeholder times from the 2
- 025 edition (5 km 13:00\, open from U12\; 10 km 14:00)\, time tbc\, verify
-  at 808project.de/silvesterlauf.
-URL:https://running.life/en/event/silvesterlauf-kempten
+DESCRIPTION:New Year's Eve run in Kempten\, opener of the Laufsport Saukel 
+ Cup 2027. 5 km at 13:00 (born 2016 or earlier\, so the boys are too young)
+ \, 10 km (2 x 5 km) at 14:00 (born 2014 or earlier). Fees 20 EUR for 5 km 
+ until 20 December\, 25 EUR for 10 km.
+URL:https://www.datasport.de/anmeldeservice/silvesterlaufkempten2026/
 CATEGORIES:running
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-silvesterkonzert-smetana-kempten@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261231T150000
 DTEND;TZID=Europe/Berlin:20261231T170000
 SUMMARY:Silvesterkonzert: Smetana Philharmoniker Prag
@@ -2521,7 +2924,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2026-ludwig-2-silvester@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20261231T200000
 DTEND;TZID=Europe/Berlin:20261231T224500
 SUMMARY:LUDWIG² an Silvester
@@ -2540,9 +2943,25 @@ TRIGGER:-P14D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2027-neujahrs-fackelschwimmen@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20270101T160000
+DTEND;TZID=Europe/Berlin:20270101T180000
+SUMMARY:Neujahrs-Fackelschwimmen im Lech
+LOCATION:Theresienbrücke / Lechhalde\, Füssen
+DESCRIPTION:34th edition: water rescue swimmers carry torches down the Lech
+  past the old town at dusk\, first torches around 17:30\, with cannon salu
+ tes and fireworks. Mulled wine and sausages from 16:00.
+URL:https://www.fuessen.de/kultur/veranstaltungen/neujahrs-fackelschwimmen/
+CATEGORIES:town
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2027-zauberhaftes-land-von-oz-0102@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20270102T143000
 DTEND;TZID=Europe/Berlin:20270102T170000
 SUMMARY:Das zauberhafte Land von Oz
@@ -2557,9 +2976,26 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2027-neujahrskonzert-muenchner-symphoniker-bigbox@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20270105T190000
+DTEND;TZID=Europe/Berlin:20270105T210000
+SUMMARY:Neujahrskonzert mit den Münchner Symphonikern
+LOCATION:klassikBOX\, bigBOX ALLGÄU\, Kempten
+DESCRIPTION:Symphony orchestra New Year concert by the Münchner Symphonike
+ r under Daniel Spaw\, presented by Max Müller: polkas\, waltzes and overt
+ ures by Suppè\, the Strauss family\, Ziehrer and Elgar. Doors 18:00.
+URL:https://www.bigboxallgaeu.de/events/klassik-oper-ballett-theater/neujah
+ rskonzert-05-01-2027
+CATEGORIES:classical
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2027-zauberhaftes-land-von-oz-0106@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20270106T140000
 DTEND;TZID=Europe/Berlin:20270106T163000
 SUMMARY:Das zauberhafte Land von Oz
@@ -2574,9 +3010,27 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2027-concilium-musicum-wien-kaufbeuren@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20270106T170000
+DTEND;TZID=Europe/Berlin:20270106T190000
+SUMMARY:Neujahrskonzert: Tanzmusik aus dem kaiserlichen Wien
+LOCATION:Stadtsaal\, Kaufbeuren
+DESCRIPTION:Chamber ensemble Concilium Musicum Wien: Christoph Angerer (vio
+ lin\, viola d'amore)\, Milan Nikolić (violin)\, Cecilia Hatos (viola)\, U
+ te Groh (cello)\, Damián Posse (double bass) and Robert Pin (flute) play 
+ dance music by Haydn\, Mozart\, Beethoven\, Schubert\, Strauss and Lanner.
+  Tickets via Reservix.
+URL:https://kulturring-kaufbeuren.de/events/concilium-musicum-wien
+CATEGORIES:classical
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2027-ludwig-meets-michael-jackson@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20270108T190000
 DTEND;TZID=Europe/Berlin:20270108T213000
 SUMMARY:Ludwig meets Michael Jackson
@@ -2592,7 +3046,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2027-evf-ec-peiting-0108@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20270108T193000
 DTEND;TZID=Europe/Berlin:20270108T220000
 SUMMARY:EV Füssen vs EC Peiting (Oberland Derby)
@@ -2608,7 +3062,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fuessen-2027-titanic-musical-modeon@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20270109T190000
 DTEND;TZID=Europe/Berlin:20270109T220000
 SUMMARY:Titanic - Das Musical (Freies Landestheater Bayern)
@@ -2623,9 +3077,28 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2027-kinder-uni-ausserirdische@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20270114T160000
+DTEND;TZID=Europe/Berlin:20270114T170000
+SUMMARY:Kinder-Uni: Gibt es Außerirdische? Die Suche nach Leben im Weltall
+LOCATION:Thomas-Dachser-Auditorium (Audimax)\, Hochschule Kempten\, Bahnhof
+ str. 61\, Kempten
+DESCRIPTION:Children's university lecture for ages 8 to 12: Prof. Dr. Thoma
+ s Eimüller turns the audience into alien detectives searching for life in
+  space. Free\, 350 seats.
+URL:https://www.hs-kempten.de/hochschule/aktuelles/veranstaltungen-termine/
+ termin/kinder-uni-gibt-es-ausserirdische-die-suche-nach-leben-im-weltall-4
+ 168
+CATEGORIES:science
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2027-brandner-kaspar-0114@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20270114T170000
 DTEND;TZID=Europe/Berlin:20270114T193000
 SUMMARY:Brandner Kaspar - Das Musical
@@ -2640,9 +3113,40 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fuessen-2027-dav-sektionsabend-ruth-zeller@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20270114T190000
+DTEND;TZID=Europe/Berlin:20270114T210000
+SUMMARY:DAV Sektionsabend: Vortrag mit Ruth Zeller
+LOCATION:Aula der Grundschule am Aybühlweg\, Kempten
+DESCRIPTION:DAV Allgäu-Kempten lecture evening with Ruth Zeller\, topic no
+ t yet announced. Free entry\, non-members welcome.
+URL:https://www.dav-kempten.de/aktivitaeten/details/SKA-701
+CATEGORIES:talk
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2027-chinesischer-nationalcircus-zensation@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20270115T200000
+DTEND;TZID=Europe/Berlin:20270115T220000
+SUMMARY:Chinesischer Nationalcircus: ZENsation
+LOCATION:bigBOX ALLGÄU\, Kempten
+DESCRIPTION:Touring Chinese acrobatics show with balance artists. Late 20:0
+ 0 start on a Friday. Price not checked.
+URL:https://www.new-facts.eu/kempten/2026/09/02/bigbox-allgaeu-alle-veranst
+ altungen-und-hoehepunkte-2026-und-2027-im-ueberblick/726827/
+CATEGORIES:kids
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fuessen-2027-falco-meets-amadeus@garylewis
 SEQUENCE:0
-DTSTAMP:20260921T060447Z
+DTSTAMP:20261005T053322Z
 DTSTART;TZID=Europe/Berlin:20270116T193000
 DTEND;TZID=Europe/Berlin:20270116T220000
 SUMMARY:FALCO MEETS AMADEUS
@@ -2655,5 +3159,158 @@ URL:https://das-festspielhaus.de/programm/falco-meets-amadeus/
 CATEGORIES:concert
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2027-familiengunglhos@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20270117T140000
+DTEND;TZID=Europe/Berlin:20270117T170000
+SUMMARY:Familiengunglhos
+LOCATION:Schlossbrauhaus\, Gipsmühlweg 5\, Schwangau
+DESCRIPTION:Family afternoon edition of the Schwangau Fasching show: sketch
+ es about the past village year\, Garde dances and the Kaiser-Wilhelm-Gedä
+ chtnis-Kapelle. Evening shows 16\, 22\, 23\, 29 and 30 January at 19:30. T
+ ickets in the presale on 28 November.
+URL:http://veranstaltungen.erlebe.bayern/schwangau/familiengunglhos-ecee914
+ ee7164241f2328e9ccd5e5e5f0.html
+CATEGORIES:community
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2027-es-war-einmal-festspielhaus@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20270123T150000
+DTEND;TZID=Europe/Berlin:20270123T173000
+SUMMARY:Es war Einmal...
+LOCATION:Festspielhaus Neuschwanstein\, Füssen
+DESCRIPTION:Family musical revue with songs from musicals and films such as
+  Frozen\, Shrek and The Lion King\, plus dancers\, aerial acrobatics and a
+  live band. Soloists Maria Meßner\, Daniel Mladenov\, Kristin Hesse and P
+ atrick Granado. Billed as the last run of this show. Tickets 45.90 to 84.9
+ 0 EUR.
+URL:https://das-festspielhaus.de/programm/es-war-einmal/
+CATEGORIES:kids
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2027-jenaer-philharmonie-kempten@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20270123T190000
+DTEND;TZID=Europe/Berlin:20270123T211500
+SUMMARY:Meisterkonzert: Jenaer Philharmonie
+LOCATION:Stadttheater\, Kempten
+DESCRIPTION:Symphony orchestra concert conducted by Simon Gaudenz with Dani
+ el Ottensamer on clarinet: Tomlinson's Highway to the Sun\, Copland's Conc
+ erto for Clarinet\, Harp and Orchestra\, and Dvořák's Symphony No. 8. In
+ troductory talk 45 minutes before the start. Tickets 22 to 58 EUR.
+URL:https://theaterinkempten.de/produktion/jenaer-philharmonie/
+CATEGORIES:classical
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2027-cinderella-musical-festspielhaus@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20270124T110000
+DTEND;TZID=Europe/Berlin:20270124T130000
+SUMMARY:Cinderella - Das Musical
+LOCATION:Festspielhaus Neuschwanstein\, Füssen
+DESCRIPTION:Family musical based on the Brothers Grimm fairy tale. More sho
+ ws on 30 January at 14:00 and 18:30 and on 31 January at 11:00. Tickets 39
+ .99 to 109.99 EUR via the Festspielhaus eventim shop.
+URL:https://das-festspielhaus.de/alle-veranstaltungen/
+CATEGORIES:kids
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tickets: Cinderella - Das Musical
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2027-fasching-on-ice-reutte@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20270124T140000
+DTEND;TZID=Europe/Berlin:20270124T170000
+SUMMARY:Fasching on Ice
+LOCATION:Reutte on Ice\, Stadtpark / Untermarkt\, Reutte
+DESCRIPTION:Carnival afternoon at the Reutte on Ice skating park with face 
+ painting\, a colouring station\, a magician and a balloon artist\, at norm
+ al ice park prices.
+URL:https://r.jina.ai/https://www.reutte.com/en/reutte-on-ice/events
+CATEGORIES:kids
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2027-evf-esv-kaufbeuren-0129@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20270129T193000
+DTEND;TZID=Europe/Berlin:20270129T220000
+SUMMARY:EV Füssen vs ESV Kaufbeuren (Allgäu Derby)
+LOCATION:Bundesstützpunkt Eishockey Arena\, Füssen
+DESCRIPTION:Second Füssen home derby of the season against ESV Kaufbeuren\
+ , Oberliga Süd matchday 43\, Friday night. Face-off 19:30. Tickets via ev
+ fuessen.de/tickets.
+URL:https://www.eishockeynews.de/spiel/ev-fuessen-gegen-esv-kaufbeuren-5240
+ 707/info
+CATEGORIES:hockey
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tickets: EV Füssen vs ESV Kaufbeuren (Allgäu Derby)
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2027-jubilaeumsabend-kwg-kapelle@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20270204T180000
+DTEND;TZID=Europe/Berlin:20270204T230000
+SUMMARY:Jubiläumsabend der Kaiser-Wilhelm-Gedächtniskapelle
+LOCATION:Schlossbrauhaus\, Gipsmühlweg 5\, Schwangau
+DESCRIPTION:50 years of Schwangau's Fasching band\, founded 1977\, which pl
+ ays in old firefighter uniforms and gold helmets. Los Chicos play for danc
+ ing.
+URL:http://veranstaltungen.erlebe.bayern/schwangau/jubilaeumsabend-der-kais
+ er-wilhelm-gedaechniskapelle-ea9473e98fee965bd69d081fccfb66f5b.html
+CATEGORIES:community
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fuessen-2027-fin-de-siecle-pariser-salon@garylewis
+SEQUENCE:0
+DTSTAMP:20261005T053322Z
+DTSTART;TZID=Europe/Berlin:20270205T200000
+DTEND;TZID=Europe/Berlin:20270205T213000
+SUMMARY:FIN DE SIÈCLE IM PARISER SALON
+LOCATION:TheaterOben\, Theater in Kempten\, Kempten
+DESCRIPTION:Cello and piano recital with readings about the French composer
+  Mel Bonis and her era. Dorothee Gurski (cello) and Annette Naumann (piano
+ ) play Bonis's Sonata for cello and piano and her Serenade\, Saint-Saëns'
+ s The Swan\, Fauré's Berceuse and Sicilienne\, and Boulanger's Trois piè
+ ces. Premiere\; repeats 6 February 19:00 and 7 February 18:00. 24 EUR\, sm
+ all studio stage.
+URL:https://theaterinkempten.de/produktion/fin-de-siecle-im-pariser-salon/
+CATEGORIES:classical
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tickets: FIN DE SIÈCLE IM PARISER SALON
+TRIGGER:-P14D
+END:VALARM
 END:VEVENT
 END:VCALENDAR
